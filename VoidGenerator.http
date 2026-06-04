@@ -1,0 +1,6 @@
+@VoidGenerator_HostAddress = http://localhost:5255
+
+GET {{VoidGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
