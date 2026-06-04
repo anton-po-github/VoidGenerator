@@ -12,7 +12,8 @@ namespace Aegitox.Bot.Data;
 public sealed class MatrixParser : IMatrixParser
 {
     // 🚨 THE PURE SEED WHITELIST
-    // Completely bypasses the poisoned CSV. Guarantees 0% slur/hate leakage.
+    // Expanded for massive entropy. Removed targeted descriptors (e.g., 'idiot', 'trash')
+    // to strictly preserve Category 4 untargeted Void state.
     private static readonly ImmutableArray<string> _pureBaseProfanity = ImmutableArray.Create(
         "fuck",
         "shit",
@@ -24,26 +25,53 @@ public sealed class MatrixParser : IMatrixParser
         "bs",
         "fck",
         "sht",
-        "dumb",
-        "idiot",
-        "trash",
         "broken",
         "useless",
         "pathetic",
         "garbage",
-        "trash",
         "toxic",
         "worst",
         "stop",
         "please",
         "why",
-        "stop",
         "end",
-        "done"
+        "done",
+        "bullshit",
+        "dammit",
+        "omfg",
+        "bruh",
+        "tilt",
+        "tilted",
+        "malding",
+        "ridiculous",
+        "joke",
+        "nonsense",
+        "pointless",
+        "meaningless",
+        "wack",
+        "pain",
+        "suffering",
+        "agony",
+        "cursed",
+        "worthless",
+        "awful",
+        "terrible",
+        "horrible",
+        "disgusting",
+        "miserable",
+        "exhausting",
+        "insanity",
+        "numb",
+        "empty",
+        "void",
+        "abyss",
+        "ruined",
+        "quit",
+        "fade"
     );
 
-    // Pre-defined structural anchors required for the "Existential Defeat" and "Pure Burst" pillars.
-    // By using HashSets here, our routing checks operate in O(1) time during file ingestion.
+    // 🚨 EXPANDED EXCLAMATIONS
+    // Avoids phrases like "my god" to prevent Category 2 (Self) Trapdoor leaks via the 'my' pronoun.
     private static readonly HashSet<string> _exclamationAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -56,8 +84,32 @@ public sealed class MatrixParser : IMatrixParser
         "jesus",
         "christ",
         "god",
+        "good lord",
+        "lord",
+        "holy shit",
+        "holy fuck",
+        "bro",
+        "dude",
+        "man",
+        "seriously",
+        "literally",
+        "actually",
+        "honestly",
+        "bruh",
+        "come on",
+        "what",
+        "how",
+        "whyyyy",
+        "omfg",
+        "fucking hell",
+        "dear god",
+        "alright",
+        "okay",
+        "fine",
     };
 
+    // 🚨 EXPANDED ABSTRACT NOUNS
+    // Purged "this shit" because "this" is a Category 3 environmental anchor that triggers vaporizations.
     private static readonly HashSet<string> _abstractNounAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -66,10 +118,32 @@ public sealed class MatrixParser : IMatrixParser
         "it all",
         "existence",
         "life",
-        "this shit",
         "nothing",
+        "reality",
+        "the universe",
+        "all of it",
+        "every single thing",
+        "the whole thing",
+        "absolute bullshit",
+        "the situation",
+        "time",
+        "humanity",
+        "the world",
+        "fate",
+        "destiny",
+        "the pain",
+        "the suffering",
+        "the misery",
+        "the agony",
+        "the void",
+        "the abyss",
+        "the illusion",
+        "the cycle",
+        "the loop",
+        "the nonsense",
     };
 
+    // 🚨 EXPANDED RESOLUTIONS
     private static readonly HashSet<string> _resolutionAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -81,15 +155,41 @@ public sealed class MatrixParser : IMatrixParser
         "done",
         "over it",
         "cant anymore",
+        "i give up",
+        "let it end",
+        "make it end",
+        "make it fade",
+        "just stop",
+        "cant take it",
+        "had enough",
+        "no more",
+        "im out",
+        "im leaving",
+        "im quitting",
+        "over",
+        "finished",
+        "washed",
+        "cooked",
+        "done for",
+        "ggs",
+        "gg",
+        "wrap it up",
+        "pull the plug",
+        "end it all",
+        "let it burn",
+        "shut it down",
+        "fade away",
+        "checking out",
+        "peace out",
+        "walking away",
+        "stepping away",
     };
 
-    // The absolute contraband list. If a word matches this, it is permanently stripped from generation.
-    // The absolute contraband list.
-    // EXPANDED: Now explicitly catches identity hate, racial slurs, and implicit targeted insults
-    // ensuring they never make it into the untargeted Void arrays.
+    // 🚨 THE GLOBAL ENTITY FIREWALL
+    // Exponentially expanded to encompass all Cat 1, Cat 2 (except I/Im), Cat 3 anchors and extreme hate.
     private static readonly HashSet<string> _bannedEntities = new(StringComparer.OrdinalIgnoreCase)
     {
-        // Original logical anchors
+        // Category 1 & 3 Original Anchors
         "you",
         "me",
         "game",
@@ -102,7 +202,71 @@ public sealed class MatrixParser : IMatrixParser
         "devs",
         "player",
         "hacker",
-        // 🚨 The Slur/Hate Pre-Filter (Identity Hate & Severe Toxicity)
+        // Expanded Category 1: Interpersonal / Targets
+        "your",
+        "ur",
+        "he",
+        "she",
+        "they",
+        "him",
+        "her",
+        "them",
+        "teammate",
+        "enemy",
+        "opponent",
+        "guy",
+        "kid",
+        "noob",
+        "idiot",
+        "moron",
+        "clown",
+        "smurf",
+        "cheater",
+        "report",
+        "kick",
+        "ban",
+        "mom",
+        "dad",
+        "sister",
+        "brother",
+        "family",
+        "wife",
+        "gf",
+        "boyfriend",
+        // Expanded Category 2: Self
+        "my",
+        "mine",
+        "myself",
+        // Expanded Category 3: Environment / Infrastructure
+        "ping",
+        "fps",
+        "drop",
+        "stutter",
+        "connection",
+        "wifi",
+        "internet",
+        "patch",
+        "update",
+        "company",
+        "studio",
+        "bug",
+        "glitch",
+        "crash",
+        "client",
+        "hitreg",
+        "tickrate",
+        "netcode",
+        "match",
+        "round",
+        "map",
+        "software",
+        "hardware",
+        "pc",
+        "console",
+        "controller",
+        "mouse",
+        "keyboard",
+        // The Slur/Hate Pre-Filter (Zero-Tolerance Vaporization)
         "nigger",
         "nigga",
         "faggot",
@@ -115,21 +279,29 @@ public sealed class MatrixParser : IMatrixParser
         "spic",
         "darky",
         "tranny",
-        // General Implicit Targets & Directives
+        "kike",
+        "dyke",
+        "coon",
+        "troon",
+        // Implicit Violence, Directives & Hard Toxicity
         "kys",
         "kill",
         "die",
-        "mom",
-        "dad",
-        "sister",
-        "brother",
         "whore",
         "slut",
         "bitch",
         "cunt",
-        "noob",
         "trash",
         "dog",
+        "rape",
+        "rapist",
+        "pedophile",
+        "pedo",
+        "nazi",
+        "hitler",
+        "terrorist",
+        "slave",
+        "groomer",
     };
 
     public async Task<VoidLexicon> ParseAsync(
@@ -140,7 +312,7 @@ public sealed class MatrixParser : IMatrixParser
         if (!File.Exists(filePath))
             throw new FileNotFoundException($"The matrix file was not found at {filePath}");
 
-        // 2. Safely seed the structural builders by allocating exact capacity, then adding the anchors
+        // Pre-allocate the arrays at their required minimums for O(1) efficiency to avoid array resizing
         var exclamationsBuilder = ImmutableArray.CreateBuilder<string>(_exclamationAnchors.Count);
         exclamationsBuilder.AddRange(_exclamationAnchors);
 
@@ -174,8 +346,8 @@ public sealed class MatrixParser : IMatrixParser
             if (string.IsNullOrWhiteSpace(word))
                 continue;
 
-            // ONLY extract words if they explicitly match our structural anchors.
-            // Everything else in the CSV (slurs, targeted hate, long phrases) is instantly vaporized.
+            // O(1) hash lookups determine routing.
+            // If the CSV contains unmapped trash or slurs, they are structurally ignored.
             if (_exclamationAnchors.Contains(word))
                 exclamationsBuilder.Add(word);
             else if (_abstractNounAnchors.Contains(word))
@@ -184,9 +356,9 @@ public sealed class MatrixParser : IMatrixParser
                 resolutionsBuilder.Add(word);
         }
 
-        // Seal the collections. BaseProfanity is now mathematically sterile.
+        // Freeze collections instantly for downstream O(1) performance in the Generation Pillars
         return new VoidLexicon(
-            BaseProfanity: _pureBaseProfanity, // 🚨 INJECTED WHITELIST
+            BaseProfanity: _pureBaseProfanity,
             Exclamations: exclamationsBuilder.ToImmutable(),
             AbstractNouns: abstractNounsBuilder.ToImmutable(),
             Resolutions: resolutionsBuilder.ToImmutable(),
