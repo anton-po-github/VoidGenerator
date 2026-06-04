@@ -46,15 +46,19 @@ public sealed class DatasetWriter
         );
         using var writer = new StreamWriter(stream);
 
-        // CSV Header required for ML dataset ingestion
-        await writer.WriteLineAsync("text");
+        // 🚨 ML TENSOR HEADER
+        await writer.WriteLineAsync("Content,IntentId,IntentCategory");
 
         int writtenCount = 0;
 
         // Asynchronously await data as it is pushed into the channel by the generators
         await foreach (var row in reader.ReadAllAsync(cancellationToken))
         {
-            await writer.WriteLineAsync(row);
+            // ARCHITECTURAL MANDATE: Write sequentially to the stream buffer.
+            // Avoids string interpolation ($"{row},4,Void") to eliminate GC allocations.
+            await writer.WriteAsync(row);
+            await writer.WriteLineAsync(",4,Void");
+
             writtenCount++;
 
             if (writtenCount >= quota)

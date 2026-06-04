@@ -8,11 +8,12 @@ namespace Aegitox.Bot.Data;
 /// <summary>
 /// High-performance stream parser for aegitox_matrix.csv.
 /// Routes vocabulary into strict O(1) structures while filtering out targeted entities.
+/// Discord-Optimized for pure Category 4 (Untargeted/Void) vernacular.
 /// </summary>
 public sealed class MatrixParser : IMatrixParser
 {
-    // 🚨 V3 PURE SEED WHITELIST (Expanded for Pure Burst Pillar)
-    // 60+ elements. Zero targeted hate. Pure frustration and mechanical failure.
+    // 🚨 V4 PURE SEED WHITELIST
+    // Purged of "poetry" (void, abyss). Focused purely on raw Discord/Internet frustration.
     private static readonly ImmutableArray<string> _pureBaseProfanity = ImmutableArray.Create(
         "fuck",
         "shit",
@@ -48,42 +49,30 @@ public sealed class MatrixParser : IMatrixParser
         "pointless",
         "meaningless",
         "wack",
-        "pain",
-        "suffering",
-        "agony",
-        "cursed",
-        "worthless",
         "awful",
         "terrible",
         "horrible",
         "disgusting",
         "miserable",
         "exhausting",
-        "insanity",
-        "numb",
-        "empty",
-        "void",
-        "abyss",
-        "ruined",
-        "quit",
-        "fade",
-        "unplayable",
         "chalked",
         "ggs",
         "dead",
-        "grief",
-        "griefed",
-        "doomed",
-        "cursed",
+        "cooked",
+        "washed",
         "unlucky",
         "tragic",
         "troll",
         "trolling",
-        "despair"
+        "wild",
+        "crazy",
+        "insane",
+        "trash",
+        "braindead"
     );
 
-    // 🚨 V3 EXCLAMATIONS
-    // 40+ elements.
+    // 🚨 V4 EXCLAMATIONS (The Preamble)
+    // How a Discord user starts an untargeted rant.
     private static readonly HashSet<string> _exclamationAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -96,8 +85,6 @@ public sealed class MatrixParser : IMatrixParser
         "jesus",
         "christ",
         "god",
-        "good lord",
-        "lord",
         "holy shit",
         "holy fuck",
         "bro",
@@ -130,54 +117,35 @@ public sealed class MatrixParser : IMatrixParser
         "whatever",
     };
 
-    // 🚨 V3 ABSTRACT NOUNS
-    // 40+ elements. Replaces all specific targets with philosophical/broad concepts.
+    // 🚨 V4 ABSTRACT NOUNS (The Subject)
+    // REPLACED all philosophical words (universe, destiny) with broad, untargeted descriptors.
+    // NOTE: We avoid the word "this" to prevent triggering the Cat 3 Trapdoor.
     private static readonly HashSet<string> _abstractNounAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
     {
         "everything",
         "it all",
-        "existence",
-        "life",
         "nothing",
-        "reality",
-        "the universe",
         "all of it",
         "every single thing",
         "the whole thing",
         "absolute bullshit",
         "the situation",
-        "time",
-        "humanity",
-        "the world",
-        "fate",
-        "destiny",
-        "the pain",
-        "the suffering",
-        "the misery",
-        "the agony",
-        "the void",
-        "the abyss",
-        "the illusion",
-        "the cycle",
-        "the loop",
         "the nonsense",
-        "this outcome",
-        "the logic",
         "the state of things",
-        "the mechanics",
-        "the simulation",
-        "the matrix",
-        "the tragedy",
-        "the horror",
-        "the nightmare",
-        "the struggle",
         "the chaos",
+        "absolute garbage",
+        "pure garbage",
+        "total crap",
+        "complete joke",
+        "the logic",
+        "the outcome",
+        "the whole mess",
     };
 
-    // 🚨 V3 RESOLUTIONS
-    // 40+ elements. The action of giving up entirely.
+    // 🚨 V4 RESOLUTIONS (The Action)
+    // How a Discord user rage-quits or expresses complete defeat.
     private static readonly HashSet<string> _resolutionAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -190,9 +158,6 @@ public sealed class MatrixParser : IMatrixParser
         "over it",
         "cant anymore",
         "i give up",
-        "let it end",
-        "make it end",
-        "make it fade",
         "just stop",
         "cant take it",
         "had enough",
@@ -210,14 +175,11 @@ public sealed class MatrixParser : IMatrixParser
         "wrap it up",
         "pull the plug",
         "end it all",
-        "let it burn",
         "shut it down",
-        "fade away",
         "checking out",
         "peace out",
         "walking away",
         "stepping away",
-        "unplugging",
         "im gone",
         "log off",
         "logging out",
@@ -225,26 +187,16 @@ public sealed class MatrixParser : IMatrixParser
         "uninstalling",
         "its over",
         "im retiring",
+        "chalked",
+        "gg next",
     };
 
-    // 🚨 THE GLOBAL ENTITY FIREWALL
-    // Exponentially expanded to encompass all Cat 1, Cat 2 (except I/Im), Cat 3 anchors and extreme hate.
+    // 🚨 THE GLOBAL ENTITY FIREWALL (The Trapdoor)
+    // EXPANDED to include general Discord/App infrastructure to protect the Void bucket.
     private static readonly HashSet<string> _bannedEntities = new(StringComparer.OrdinalIgnoreCase)
     {
-        // Category 1 & 3 Original Anchors
+        // Category 1: Interpersonal (Others)
         "you",
-        "me",
-        "game",
-        "server",
-        "bot",
-        "lag",
-        "this",
-        "that",
-        "team",
-        "devs",
-        "player",
-        "hacker",
-        // Expanded Category 1: Interpersonal / Targets
         "your",
         "ur",
         "he",
@@ -275,11 +227,21 @@ public sealed class MatrixParser : IMatrixParser
         "wife",
         "gf",
         "boyfriend",
-        // Expanded Category 2: Self
+        "team",
+        "player",
+        // Category 2: Introspection (Self)
         "my",
         "mine",
         "myself",
-        // Expanded Category 3: Environment / Infrastructure
+        "me", // Note: "im" is permitted for "im done"
+        // Category 3: Environmental / Infrastructure (Discord & Game Mix)
+        "game",
+        "server",
+        "bot",
+        "lag",
+        "this",
+        "that",
+        "devs",
         "ping",
         "fps",
         "drop",
@@ -308,7 +270,17 @@ public sealed class MatrixParser : IMatrixParser
         "controller",
         "mouse",
         "keyboard",
-        // The Slur/Hate Pre-Filter (Zero-Tolerance Vaporization)
+        "discord",
+        "vc",
+        "voice",
+        "mic",
+        "mod",
+        "admin",
+        "chat",
+        "channel",
+        "stream",
+        "screen",
+        // Zero-Tolerance Identity Hate / Slurs
         "nigger",
         "nigga",
         "faggot",
@@ -325,7 +297,7 @@ public sealed class MatrixParser : IMatrixParser
         "dyke",
         "coon",
         "troon",
-        // Implicit Violence, Directives & Hard Toxicity
+        // Directives & Violence
         "kys",
         "kill",
         "die",
@@ -333,7 +305,6 @@ public sealed class MatrixParser : IMatrixParser
         "slut",
         "bitch",
         "cunt",
-        "trash",
         "dog",
         "rape",
         "rapist",
@@ -354,7 +325,7 @@ public sealed class MatrixParser : IMatrixParser
         if (!File.Exists(filePath))
             throw new FileNotFoundException($"The matrix file was not found at {filePath}");
 
-        // Pre-allocate the arrays at their required minimums for O(1) efficiency to avoid array resizing
+        // Pre-allocate the arrays at their required minimums for O(1) efficiency
         var exclamationsBuilder = ImmutableArray.CreateBuilder<string>(_exclamationAnchors.Count);
         exclamationsBuilder.AddRange(_exclamationAnchors);
 
@@ -389,7 +360,6 @@ public sealed class MatrixParser : IMatrixParser
                 continue;
 
             // O(1) hash lookups determine routing.
-            // If the CSV contains unmapped trash or slurs, they are structurally ignored.
             if (_exclamationAnchors.Contains(word))
                 exclamationsBuilder.Add(word);
             else if (_abstractNounAnchors.Contains(word))
@@ -398,7 +368,7 @@ public sealed class MatrixParser : IMatrixParser
                 resolutionsBuilder.Add(word);
         }
 
-        // Freeze collections instantly for downstream O(1) performance in the Generation Pillars
+        // Freeze collections instantly for downstream O(1) performance
         return new VoidLexicon(
             BaseProfanity: _pureBaseProfanity,
             Exclamations: exclamationsBuilder.ToImmutable(),
