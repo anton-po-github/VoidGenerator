@@ -11,9 +11,8 @@ namespace Aegitox.Bot.Data;
 /// </summary>
 public sealed class MatrixParser : IMatrixParser
 {
-    // 🚨 THE PURE SEED WHITELIST
-    // Expanded for massive entropy. Removed targeted descriptors (e.g., 'idiot', 'trash')
-    // to strictly preserve Category 4 untargeted Void state.
+    // 🚨 V3 PURE SEED WHITELIST (Expanded for Pure Burst Pillar)
+    // 60+ elements. Zero targeted hate. Pure frustration and mechanical failure.
     private static readonly ImmutableArray<string> _pureBaseProfanity = ImmutableArray.Create(
         "fuck",
         "shit",
@@ -67,11 +66,24 @@ public sealed class MatrixParser : IMatrixParser
         "abyss",
         "ruined",
         "quit",
-        "fade"
+        "fade",
+        "unplayable",
+        "chalked",
+        "ggs",
+        "dead",
+        "grief",
+        "griefed",
+        "doomed",
+        "cursed",
+        "unlucky",
+        "tragic",
+        "troll",
+        "trolling",
+        "despair"
     );
 
-    // 🚨 EXPANDED EXCLAMATIONS
-    // Avoids phrases like "my god" to prevent Category 2 (Self) Trapdoor leaks via the 'my' pronoun.
+    // 🚨 V3 EXCLAMATIONS
+    // 40+ elements.
     private static readonly HashSet<string> _exclamationAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -106,10 +118,20 @@ public sealed class MatrixParser : IMatrixParser
         "alright",
         "okay",
         "fine",
+        "nah",
+        "no way",
+        "insane",
+        "crazy",
+        "wild",
+        "unbelievable",
+        "absolute joke",
+        "pure comedy",
+        "yeah right",
+        "whatever",
     };
 
-    // 🚨 EXPANDED ABSTRACT NOUNS
-    // Purged "this shit" because "this" is a Category 3 environmental anchor that triggers vaporizations.
+    // 🚨 V3 ABSTRACT NOUNS
+    // 40+ elements. Replaces all specific targets with philosophical/broad concepts.
     private static readonly HashSet<string> _abstractNounAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -141,9 +163,21 @@ public sealed class MatrixParser : IMatrixParser
         "the cycle",
         "the loop",
         "the nonsense",
+        "this outcome",
+        "the logic",
+        "the state of things",
+        "the mechanics",
+        "the simulation",
+        "the matrix",
+        "the tragedy",
+        "the horror",
+        "the nightmare",
+        "the struggle",
+        "the chaos",
     };
 
-    // 🚨 EXPANDED RESOLUTIONS
+    // 🚨 V3 RESOLUTIONS
+    // 40+ elements. The action of giving up entirely.
     private static readonly HashSet<string> _resolutionAnchors = new(
         StringComparer.OrdinalIgnoreCase
     )
@@ -183,6 +217,14 @@ public sealed class MatrixParser : IMatrixParser
         "peace out",
         "walking away",
         "stepping away",
+        "unplugging",
+        "im gone",
+        "log off",
+        "logging out",
+        "deleting",
+        "uninstalling",
+        "its over",
+        "im retiring",
     };
 
     // 🚨 THE GLOBAL ENTITY FIREWALL
