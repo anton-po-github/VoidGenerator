@@ -9,12 +9,41 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddOpenApi();
 
 builder.Services.AddSingleton<IMatrixParser, MatrixParser>();
-builder.Services.AddTransient<VoidDatasetOrchestrator>();
+
+//builder.Services.AddTransient<VoidDatasetOrchestrator>();
+builder.Services.AddTransient<Tier1MicroBurstOrchestrator>();
 
 // ==========================================================
-// 🚀 THE VOID COMPACTOR (Pre-Flight Generation)
+// 🚀 TIER 1 MICRO-BURST GENERATOR (Pre-Flight Generation)
 // ==========================================================
-// Adjust the paths based on where you dropped aegitox_matrix.csv in your project
+const string matrixPath = "aegitox_matrix.csv";
+const string tier1OutputPath = "Tier1_MicroBurst_10k.csv";
+
+var app = builder.Build();
+
+if (!File.Exists(tier1OutputPath))
+{
+    Console.WriteLine(
+        "⚠️ Tier 1 Micro-Burst artifact missing. Initiating NASA-grade synthetic generation..."
+    );
+
+    using var scope = app.Services.CreateScope();
+    var orchestrator = scope.ServiceProvider.GetRequiredService<Tier1MicroBurstOrchestrator>();
+
+    try
+    {
+        await orchestrator.GenerateDatasetAsync(matrixPath, tier1OutputPath, 10000);
+        Console.WriteLine("✅ Tier 1 Micro-Burst Matrix successfully compiled and secured.");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"❌ CRITICAL VOID COMPILATION FAILURE: {ex.Message}");
+        throw;
+    }
+}
+
+/* builder.Services.AddTransient<VoidDatasetOrchestrator>();
+
 const string voidMatrixPath = "aegitox_matrix.csv";
 const string voidOutputPath = "Void_30k.csv";
 
@@ -39,7 +68,7 @@ if (!File.Exists(voidOutputPath))
         Console.WriteLine($"❌ CRITICAL VOID COMPILATION FAILURE: {ex.Message}");
         throw;
     }
-}
+} */
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
