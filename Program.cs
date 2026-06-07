@@ -21,8 +21,90 @@ builder.Services.AddSingleton<IMatrixParser, MatrixParser>();
 //builder.Services.AddTransient<Tier1MicroBurstOrchestrator>();
 builder.Services.AddTransient<TIER_1_NUC_6k_Generator>();
 builder.Services.AddTransient<TIER_2_GREEN_10k_Generator>();
+builder.Services.AddTransient<TIER_4_GREEN_6k_Generator>();
 
 var app = builder.Build();
+
+// ==========================================================
+// TIER 4 MECHANICAL POSITIVITY INTEGRATION (Dual File Output)
+// ==========================================================
+const string tier4GamingOutputPath = "TIER_4_GREEN_GAME_3k.csv";
+const string tier4ProfOutputPath = "TIER_4_GREEN_SYSTEM_3k.csv";
+
+if (!File.Exists(tier4GamingOutputPath) || !File.Exists(tier4ProfOutputPath))
+{
+    Console.WriteLine(
+        "⚠️ Tier 4 Mechanical Positivity artifacts missing. Initiating Dual-Channel O(1) Tensor Generation..."
+    );
+
+    using var scope = app.Services.CreateScope();
+    var generator = scope.ServiceProvider.GetRequiredService<TIER_4_GREEN_6k_Generator>();
+
+    // Dedicated channels to isolate Large Object Heap (LOH) pressure
+    var gamingChannel = DatasetWriter.CreatePipelineChannel();
+    var profChannel = DatasetWriter.CreatePipelineChannel();
+
+    try
+    {
+        using var cts = new CancellationTokenSource();
+
+        var generationTask = generator.GenerateAsync(
+            gamingChannel.Writer,
+            profChannel.Writer,
+            cts.Token
+        );
+
+        var gamingIoTask = Task.Run(async () =>
+        {
+            await using var fs = new FileStream(
+                tier4GamingOutputPath,
+                FileMode.Create,
+                FileAccess.Write,
+                FileShare.None,
+                65536,
+                FileOptions.Asynchronous
+            );
+            await using var writer = new StreamWriter(fs);
+            await foreach (var row in gamingChannel.Reader.ReadAllAsync(cts.Token))
+            {
+                await writer.WriteLineAsync(row);
+            }
+        });
+
+        var profIoTask = Task.Run(async () =>
+        {
+            await using var fs = new FileStream(
+                tier4ProfOutputPath,
+                FileMode.Create,
+                FileAccess.Write,
+                FileShare.None,
+                65536,
+                FileOptions.Asynchronous
+            );
+            await using var writer = new StreamWriter(fs);
+            await foreach (var row in profChannel.Reader.ReadAllAsync(cts.Token))
+            {
+                await writer.WriteLineAsync(row);
+            }
+        });
+
+        await generationTask;
+
+        gamingChannel.Writer.Complete();
+        profChannel.Writer.Complete();
+
+        await Task.WhenAll(gamingIoTask, profIoTask);
+
+        Console.WriteLine(
+            "✅ Tier 4 Dual-Channel Positivity Matrices successfully compiled and secured."
+        );
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"❌ CRITICAL TIER 4 COMPILATION FAILURE: {ex.Message}");
+        throw;
+    }
+}
 
 const string gamingOutputPath = "TIER_1_NUC_GAME_3k.csv";
 const string universalOutputPath = "TIER_1_NUC_SYSTEM_3k.csv";
