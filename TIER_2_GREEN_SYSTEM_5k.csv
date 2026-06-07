@@ -1,0 +1,5001 @@
+Content,Score,Category
+ofc caching prod,0.13,Green
+fr syncing teams,0.12,Green
+fya normalizing image,0.10,Green
+cob subscribing route,0.10,Green
+ootb modifying framework,0.13,Green
+v4,0.12,Green
+mfa logging route,0.10,Green
+v5 reading backend,0.10,Green
+okr summarizing pod,0.10,Green
+tbf verifying workflow,0.12,Green
+cac visualizing metrics,0.10,Green
+uat normalizing pipeline,0.12,Green
+fwiw,0.10,Green
+v2 logging image,0.10,Green
+q2 committing staging,0.10,Green
+yep hotfix,0.10,Green
+cr topic,0.12,Green
+ga pr,0.13,Green
+coo,0.13,Green
+ops connecting database,0.13,Green
+sev1 merge artifact,0.12,Green
+dau transforming cluster,0.13,Green
+ama reverting pipeline,0.13,Green
+iirc charting query,0.12,Green
+heard mapping build,0.12,Green
+tls routing container,0.13,Green
+asap proxy,0.13,Green
+b2b cleaning patch,0.13,Green
+iirc interface,0.13,Green
+ootb interface,0.10,Green
+tbf caching env,0.13,Green
+mau decrypting schema,0.12,Green
+assigning class,0.13,Green
+devops optimizing server,0.10,Green
+gl indexing interface,0.10,Green
+afaik pr,0.12,Green
+v0 rendering staging,0.10,Green
+imho building me,0.13,Green
+ama indexing epic,0.10,Green
+optimizing proxy,0.13,Green
+resolving endpoint,0.10,Green
+q2 cluster,0.10,Green
+encrypting query,0.12,Green
+cc database,0.10,Green
+smh graphing sync,0.10,Green
+bbs refactoring staging,0.13,Green
+ooo installing hotfix,0.12,Green
+check key,0.13,Green
+wait spawning demo,0.12,Green
+aggregating wiki,0.10,Green
+roi scheduling cloud,0.10,Green
+ops demo,0.13,Green
+ltv fixing sync,0.10,Green
+ga forwarding workflow,0.12,Green
+devops indexing email,0.12,Green
+filtering index,0.10,Green
+arr caching schema,0.12,Green
+notifying retro,0.10,Green
+opening logs,0.12,Green
+ooo patching spec,0.13,Green
+cc namespace,0.12,Green
+b2c parsing microservice,0.13,Green
+rejecting runtime,0.13,Green
+arpu standup,0.13,Green
+b2c formatting secret,0.12,Green
+pm sorting api,0.13,Green
+ngl tokenizing frontend,0.13,Green
+js me,0.13,Green
+archiving doc,0.12,Green
+deserializing image,0.12,Green
+wdym sync,0.12,Green
+deploying secret,0.12,Green
+scaling library,0.12,Green
+nah tracking view,0.10,Green
+lol lambda,0.12,Green
+poc testing call,0.13,Green
+bbs sync,0.12,Green
+svp check thread,0.13,Green
+searching cert,0.13,Green
+sql restarting database,0.10,Green
+ftr escalating secret,0.13,Green
+q2 escalating endpoint,0.10,Green
+imo verifying enum,0.13,Green
+q3 field,0.10,Green
+sev2 archiving workflow,0.12,Green
+sev2 retro,0.10,Green
+decrypting token,0.13,Green
+pto schema,0.13,Green
+p2 wiki,0.10,Green
+ngl image,0.13,Green
+nah routing table,0.10,Green
+imho rejecting subnet,0.10,Green
+analyzing story,0.12,Green
+ml joining topic,0.10,Green
+rsvp parsing backend,0.13,Green
+eom mocking lambda,0.13,Green
+wb debugging artifact,0.12,Green
+arpu debugging package,0.12,Green
+reviewing node,0.10,Green
+signing sync,0.10,Green
+ci normalizing call,0.12,Green
+tldr rendering email,0.12,Green
+sso reading server,0.10,Green
+nbd dev,0.10,Green
+to pulling event,0.10,Green
+scaling envvar,0.13,Green
+p0 validating retro,0.12,Green
+ig envvar,0.10,Green
+wfh syncing key,0.13,Green
+sev1 searching cloud,0.10,Green
+ofc cloud,0.12,Green
+rfc visualizing method,0.10,Green
+cto ping ticket,0.13,Green
+documenting key,0.10,Green
+cdn building branch,0.13,Green
+uploading struct,0.12,Green
+lgtm query,0.12,Green
+committing proxy,0.10,Green
+arr dev,0.10,Green
+wb,0.12,Green
+afk framework,0.10,Green
+eom spawning chat,0.10,Green
+brb rebooting call,0.12,Green
+linting service,0.12,Green
+nd graphing thread,0.12,Green
+kpi mapping branch,0.12,Green
+heard code,0.12,Green
+check event,0.10,Green
+bbs auditing script,0.12,Green
+v3 email,0.12,Green
+qoq merge node,0.10,Green
+imho benchmarking runtime,0.12,Green
+imo scheduling microservice,0.10,Green
+unblocking pipeline,0.10,Green
+eod env,0.10,Green
+ga approved library,0.13,Green
+to call,0.10,Green
+valid chat,0.10,Green
+k trunk,0.10,Green
+rfc rebooting doc,0.10,Green
+wip spec,0.13,Green
+ux runtime,0.12,Green
+done deploying cloud,0.12,Green
+eoy encrypting ui,0.10,Green
+ofc joining system,0.13,Green
+csv mapping meeting,0.13,Green
+dau tokenizing email,0.12,Green
+b2g connecting reqs,0.12,Green
+cdn fixing env,0.13,Green
+nrn routing staging,0.13,Green
+merge sync,0.12,Green
+wfh building task,0.13,Green
+joining main,0.12,Green
+cd connecting hotfix,0.12,Green
+roi merge proxy,0.13,Green
+nsfw sprint,0.10,Green
+vip deleting endpoint,0.10,Green
+ama paginating function,0.10,Green
+ootb searching library,0.10,Green
+rendering repo,0.12,Green
+nah deleting chat,0.10,Green
+optimizing thread,0.13,Green
+sev2 pulling microservice,0.10,Green
+sev2 presenting class,0.12,Green
+ootb alerting doc,0.10,Green
+sfw caching main,0.13,Green
+importing namespace,0.13,Green
+eoq searching doc,0.13,Green
+k8s building pr,0.13,Green
+sure workflow,0.10,Green
+arpu debugging workflow,0.13,Green
+p3 chat,0.10,Green
+cac rejecting cloud,0.13,Green
+eod opening struct,0.10,Green
+mfa rendering pipeline,0.10,Green
+asap,0.12,Green
+merge env,0.13,Green
+mvp sorting dev,0.10,Green
+cob importing demo,0.10,Green
+sso hotfix,0.10,Green
+kpi wiki,0.13,Green
+ssl writing table,0.12,Green
+tbd registering library,0.12,Green
+importing doc,0.10,Green
+ai tracking sync,0.10,Green
+yoy resolving metrics,0.10,Green
+json microservice,0.12,Green
+arr uploading webhook,0.10,Green
+unblocking slack,0.12,Green
+sure restarting function,0.12,Green
+pulling repo,0.13,Green
+cto exporting service,0.13,Green
+tls aggregating config,0.13,Green
+ack tracking package,0.10,Green
+cac opening repo,0.12,Green
+b2b serializing retro,0.12,Green
+ltv connecting api,0.12,Green
+hosting code,0.10,Green
+devops cloning epic,0.13,Green
+afk charting lambda,0.10,Green
+gtg aggregating doc,0.10,Green
+benchmarking proxy,0.13,Green
+fya monitoring job,0.10,Green
+bbs,0.12,Green
+committing cluster,0.13,Green
+vip validating firewall,0.12,Green
+cac resolving feature,0.13,Green
+ngl main,0.10,Green
+qa joining email,0.13,Green
+hf resolving image,0.10,Green
+wdym patching schema,0.13,Green
+vpn deploying build,0.12,Green
+nps spawning thread,0.12,Green
+archiving spec,0.12,Green
+qoq caching meeting,0.10,Green
+rc subnet,0.12,Green
+lmk closing hotfix,0.10,Green
+ngl compiling staging,0.13,Green
+qoq pushing module,0.10,Green
+importing me,0.13,Green
+re endpoint,0.13,Green
+d2c chat,0.10,Green
+reviewing story,0.10,Green
+pto filtering interface,0.12,Green
+vip me,0.13,Green
+lgtm sprint,0.10,Green
+fw transforming env,0.10,Green
+rfc replying registry,0.10,Green
+normalizing logs,0.12,Green
+check reqs,0.12,Green
+imho signing pr,0.13,Green
+p1 uploading config,0.12,Green
+p3 updating me,0.12,Green
+cdn pulling library,0.10,Green
+rsvp runtime,0.12,Green
+vpn committing bug,0.12,Green
+grpc installing key,0.13,Green
+rfc sending wiki,0.12,Green
+gl unblocking spec,0.10,Green
+fixing pipeline,0.13,Green
+lmk restarting frontend,0.12,Green
+rsvp tracking secret,0.10,Green
+migrating index,0.12,Green
+ping container,0.10,Green
+scheduling token,0.13,Green
+nbd writing gateway,0.13,Green
+cleaning doc,0.13,Green
+arpu indexing service,0.13,Green
+cd tracking secret,0.12,Green
+afaik debugging build,0.10,Green
+wdym analyzing api,0.12,Green
+hq hotfix,0.10,Green
+eow cloning framework,0.12,Green
+nd tokenizing system,0.10,Green
+ooo closing field,0.13,Green
+kpi thread,0.13,Green
+rfc closing view,0.10,Green
+p2 installing staging,0.12,Green
+q2 transforming backend,0.13,Green
+sla,0.13,Green
+mfa signing sync,0.12,Green
+dau subscribing queue,0.12,Green
+ctr assigning hotfix,0.10,Green
+rendering frontend,0.10,Green
+fw feature,0.13,Green
+v2 reqs,0.12,Green
+q3 querying module,0.10,Green
+q2 drafting wiki,0.12,Green
+ama framework,0.13,Green
+ctr monitoring method,0.13,Green
+sql logging workflow,0.10,Green
+transforming wiki,0.13,Green
+searching key,0.10,Green
+eow rendering config,0.12,Green
+b2b demo,0.12,Green
+p2 restarting runtime,0.10,Green
+p0 sorting container,0.13,Green
+opening microservice,0.12,Green
+ngl creating topic,0.13,Green
+json server,0.10,Green
+wb searching wiki,0.10,Green
+iirc caching dev,0.13,Green
+nd struct,0.10,Green
+fr,0.10,Green
+b2b subscribing cluster,0.10,Green
+transforming index,0.12,Green
+sql invoking index,0.12,Green
+ftr,0.10,Green
+obv monitoring job,0.12,Green
+ooo archiving branch,0.10,Green
+tldr story,0.12,Green
+rebooting table,0.10,Green
+bbs restarting function,0.12,Green
+v4 record,0.12,Green
+json summarizing queue,0.10,Green
+cdn workflow,0.10,Green
+ftr optimizing service,0.12,Green
+cr transforming staging,0.10,Green
+closing framework,0.12,Green
+blocking branch,0.13,Green
+encrypting struct,0.12,Green
+rnd approved table,0.12,Green
+mfa visualizing module,0.10,Green
+roi verifying spec,0.12,Green
+eta enum,0.10,Green
+fetching secret,0.13,Green
+indexing email,0.10,Green
+ci monitoring class,0.10,Green
+bbl,0.13,Green
+compiling main,0.10,Green
+fwiw triggering method,0.13,Green
+yoy bug,0.13,Green
+replying namespace,0.10,Green
+fr meeting,0.13,Green
+opening ui,0.13,Green
+decrypting namespace,0.13,Green
+cli repo,0.13,Green
+ping story,0.10,Green
+ftr creating main,0.10,Green
+js fetching job,0.12,Green
+to reqs,0.13,Green
+ooo optimizing slack,0.10,Green
+tracking standup,0.12,Green
+cdn parsing logs,0.12,Green
+sfw key,0.13,Green
+rfc ping database,0.10,Green
+rest endpoint,0.13,Green
+filtering wiki,0.10,Green
+sure unblocking meeting,0.12,Green
+sure patching reqs,0.10,Green
+b2c reading server,0.13,Green
+yep ticket,0.13,Green
+qoq,0.12,Green
+tbd artifact,0.10,Green
+sla graphing struct,0.13,Green
+nrn charting container,0.10,Green
+wfh indexing ticket,0.12,Green
+cd building spec,0.10,Green
+benchmarking master,0.12,Green
+gl script,0.13,Green
+escalating master,0.10,Green
+ltv optimizing runtime,0.12,Green
+tbf fixing slack,0.13,Green
+kpi code,0.10,Green
+ctr auditing trunk,0.10,Green
+lol scheduling demo,0.10,Green
+hf archiving token,0.10,Green
+merge system,0.13,Green
+copy closing gateway,0.13,Green
+importing method,0.10,Green
+ux api,0.10,Green
+visualizing chat,0.13,Green
+rc replying token,0.12,Green
+lol importing proxy,0.12,Green
+eoy installing cloud,0.12,Green
+querying metrics,0.12,Green
+bbs rebooting pipeline,0.12,Green
+ops verifying class,0.13,Green
+kk formatting main,0.13,Green
+assigning demo,0.12,Green
+ofc reading slack,0.10,Green
+fwiw summarizing staging,0.12,Green
+invoking backend,0.10,Green
+deleting package,0.13,Green
+decrypting job,0.12,Green
+filtering field,0.10,Green
+invoking story,0.13,Green
+cac reverting chat,0.12,Green
+validating build,0.13,Green
+imho patching cert,0.10,Green
+fwiw patching meeting,0.10,Green
+bbl enum,0.10,Green
+aggregating function,0.12,Green
+pto debugging topic,0.13,Green
+re sending token,0.10,Green
+mom hosting dev,0.10,Green
+fwiw uploading cluster,0.13,Green
+cd deploying registry,0.12,Green
+imho profiling vpc,0.13,Green
+json replying instance,0.13,Green
+cloning envvar,0.10,Green
+js firewall,0.10,Green
+p1 optimizing env,0.10,Green
+testing struct,0.12,Green
+poc committing struct,0.10,Green
+ltv transforming system,0.13,Green
+k registering doc,0.10,Green
+normalizing thread,0.13,Green
+cr approving pipeline,0.10,Green
+archiving bug,0.10,Green
+v1 migrating cluster,0.13,Green
+wait updating struct,0.13,Green
+rest encrypting class,0.13,Green
+ngl record,0.13,Green
+p2 refactoring thread,0.13,Green
+ooo chat,0.12,Green
+eoy summarizing branch,0.13,Green
+linting cloud,0.13,Green
+rest subscribing me,0.10,Green
+uat hotfix,0.12,Green
+to charting instance,0.10,Green
+ooo rejecting trunk,0.13,Green
+noted me,0.10,Green
+b2b invoking microservice,0.12,Green
+afaik closing workflow,0.13,Green
+vp field,0.12,Green
+b2b wiki,0.13,Green
+fwiw deploying env,0.12,Green
+bbl alerting cloud,0.10,Green
+deleting method,0.13,Green
+archiving dev,0.13,Green
+serializing doc,0.10,Green
+building artifact,0.12,Green
+restarting field,0.12,Green
+tls closing pod,0.13,Green
+grpc transforming thread,0.10,Green
+dau prod,0.13,Green
+vpn rebooting method,0.13,Green
+linting email,0.10,Green
+debugging pod,0.13,Green
+signing reqs,0.12,Green
+updating job,0.10,Green
+sure tokenizing pod,0.10,Green
+v1 blocking registry,0.10,Green
+k8s firewall,0.13,Green
+fyi reading method,0.12,Green
+eoq profiling call,0.12,Green
+vm framework,0.12,Green
+mapping dev,0.13,Green
+ama registering struct,0.13,Green
+fw mapping workflow,0.12,Green
+mocking code,0.13,Green
+req pulling pr,0.10,Green
+spawning meeting,0.13,Green
+vm story,0.12,Green
+mvp build,0.13,Green
+devops image,0.10,Green
+nbd filtering cloud,0.13,Green
+gtg artifact,0.13,Green
+sorting proxy,0.10,Green
+verifying job,0.10,Green
+roi pulling standup,0.10,Green
+wdym sorting record,0.12,Green
+importing record,0.13,Green
+wip resolving sync,0.12,Green
+brb encrypting field,0.10,Green
+sev1 visualizing email,0.10,Green
+v2,0.13,Green
+iirc secret,0.10,Green
+cob spec,0.10,Green
+vpn key,0.13,Green
+sfw routing library,0.10,Green
+tracking class,0.13,Green
+fwiw auditing server,0.12,Green
+meh verifying image,0.13,Green
+fw merge sprint,0.13,Green
+to exporting staging,0.12,Green
+dau vpc,0.10,Green
+wip branch,0.12,Green
+vp spawning artifact,0.12,Green
+tls routing story,0.10,Green
+ok deleting main,0.12,Green
+vm validating class,0.12,Green
+monitoring trunk,0.10,Green
+k pulling bug,0.13,Green
+rc assigning database,0.12,Green
+q3,0.13,Green
+q1 visualizing registry,0.13,Green
+sla merge system,0.10,Green
+mau namespace,0.10,Green
+p1 mapping backend,0.12,Green
+ofc profiling standup,0.13,Green
+tmr deleting class,0.10,Green
+tracking hotfix,0.12,Green
+sev2 spec,0.12,Green
+sorting cloud,0.13,Green
+bbl uploading system,0.13,Green
+indexing record,0.10,Green
+pushing view,0.13,Green
+ytd committing pr,0.13,Green
+sorting framework,0.13,Green
+qa summarizing master,0.10,Green
+eta charting backend,0.10,Green
+brb registering module,0.13,Green
+creating secret,0.13,Green
+eod sending subnet,0.12,Green
+lol updating dev,0.12,Green
+afk serializing code,0.10,Green
+dau sorting envvar,0.10,Green
+nd aggregating topic,0.12,Green
+iirc rebooting reqs,0.12,Green
+obv aggregating enum,0.10,Green
+wb analyzing secret,0.12,Green
+tmr alerting proxy,0.12,Green
+escalating vpc,0.13,Green
+done staging,0.13,Green
+yoy replying schema,0.13,Green
+writing package,0.10,Green
+sure chat,0.12,Green
+lgtm subscribing gateway,0.10,Green
+asap env,0.13,Green
+done aggregating reqs,0.10,Green
+dau route,0.10,Green
+normalizing retro,0.13,Green
+gtg transforming framework,0.12,Green
+ssl scheduling table,0.12,Green
+roi staging,0.13,Green
+sso sending demo,0.13,Green
+paginating container,0.10,Green
+linting struct,0.13,Green
+rnd api,0.12,Green
+wip patching dev,0.10,Green
+ama creating master,0.12,Green
+sso compiling queue,0.13,Green
+ama parsing record,0.13,Green
+devops rejecting dev,0.12,Green
+p1 thread,0.10,Green
+ssl rendering webhook,0.12,Green
+v0 migrating sync,0.12,Green
+sev1 staging,0.12,Green
+q1 formatting envvar,0.10,Green
+sending webhook,0.12,Green
+kpi sprint,0.12,Green
+q2 topic,0.10,Green
+pulling env,0.10,Green
+brb decrypting branch,0.13,Green
+forwarding meeting,0.10,Green
+reading patch,0.12,Green
+fyi resolving framework,0.10,Green
+sdk rebooting config,0.10,Green
+k cloud,0.13,Green
+sql staging,0.12,Green
+sev1 assigning webhook,0.12,Green
+wait tracking job,0.13,Green
+re pushing epic,0.12,Green
+b2g restarting microservice,0.12,Green
+pto call,0.12,Green
+deserializing repo,0.10,Green
+brb triggering reqs,0.10,Green
+ack caching demo,0.13,Green
+v4 script,0.12,Green
+sev1 normalizing env,0.13,Green
+filtering spec,0.12,Green
+wfh library,0.13,Green
+tmr fetching record,0.12,Green
+p3 cluster,0.13,Green
+importing meeting,0.12,Green
+hf escalating pr,0.10,Green
+devops compiling ui,0.13,Green
+afaik syncing envvar,0.10,Green
+check class,0.13,Green
+sso cluster,0.12,Green
+bbs linting token,0.10,Green
+grpc indexing job,0.13,Green
+bbs parsing logs,0.13,Green
+tldr,0.10,Green
+smh fixing vpc,0.10,Green
+iirc pulling me,0.13,Green
+assigning service,0.12,Green
+importing dev,0.12,Green
+benchmarking doc,0.12,Green
+sfw signing system,0.10,Green
+mvp analyzing record,0.10,Green
+dns approved logs,0.10,Green
+rc teams,0.12,Green
+archiving service,0.12,Green
+rest profiling proxy,0.13,Green
+mrr charting job,0.12,Green
+js,0.13,Green
+opening field,0.13,Green
+routing backend,0.10,Green
+v3 closing pr,0.10,Green
+rc schema,0.13,Green
+vp pushing schema,0.13,Green
+mfa forwarding prod,0.13,Green
+writing chat,0.13,Green
+sso patching database,0.12,Green
+imo filtering patch,0.10,Green
+smh check secret,0.12,Green
+q1 closing registry,0.10,Green
+lgtm testing sprint,0.13,Green
+grpc joining lambda,0.12,Green
+b2c exporting build,0.12,Green
+mvp compiling secret,0.13,Green
+tbf cloning view,0.13,Green
+sla dev,0.12,Green
+wb scheduling code,0.10,Green
+presenting task,0.12,Green
+kpi charting doc,0.12,Green
+to deploying image,0.13,Green
+vpn hosting node,0.12,Green
+qa invoking subnet,0.12,Green
+ytd documenting index,0.12,Green
+eom decrypting server,0.13,Green
+valid workflow,0.10,Green
+afaik parsing env,0.12,Green
+forwarding story,0.10,Green
+b2c routing api,0.10,Green
+cd framework,0.13,Green
+ctr image,0.13,Green
+q2 class,0.13,Green
+svp indexing ticket,0.12,Green
+bcc,0.13,Green
+deploying package,0.12,Green
+committing meeting,0.13,Green
+sending server,0.12,Green
+vp decrypting package,0.10,Green
+tbd approved container,0.10,Green
+yoy filtering lambda,0.12,Green
+ama field,0.12,Green
+heard,0.13,Green
+poc serializing runtime,0.10,Green
+ok pulling library,0.12,Green
+to downloading firewall,0.10,Green
+cac assigning doc,0.10,Green
+svp tracking dev,0.10,Green
+arr parsing feature,0.12,Green
+reverting container,0.13,Green
+smh rejecting webhook,0.13,Green
+lol escalating vpc,0.10,Green
+cloning reqs,0.12,Green
+ack dev,0.13,Green
+rebooting proxy,0.13,Green
+yep check service,0.10,Green
+ama updating queue,0.12,Green
+vm,0.13,Green
+nah rendering secret,0.12,Green
+uat secret,0.10,Green
+tldr tracking logs,0.13,Green
+q3 scaling wiki,0.12,Green
+nsfw registry,0.10,Green
+cc build,0.13,Green
+connecting enum,0.13,Green
+ml rejecting envvar,0.13,Green
+ok library,0.12,Green
+tia patching endpoint,0.13,Green
+ssl creating me,0.10,Green
+yep call,0.10,Green
+ts visualizing framework,0.10,Green
+heard auditing method,0.13,Green
+ama caching job,0.10,Green
+creating database,0.10,Green
+meh caching job,0.13,Green
+ux rebooting node,0.13,Green
+asap parsing build,0.12,Green
+normalizing lambda,0.12,Green
+q4 linting task,0.13,Green
+rsvp tracking thread,0.10,Green
+eoy pulling table,0.10,Green
+wait system,0.12,Green
+debugging vpc,0.10,Green
+ml normalizing cert,0.12,Green
+imo cleaning artifact,0.13,Green
+nsfw node,0.12,Green
+lgtm debugging pipeline,0.13,Green
+d2c fetching ticket,0.13,Green
+poc testing thread,0.12,Green
+b2g transforming library,0.12,Green
+scaling call,0.12,Green
+subscribing webhook,0.13,Green
+ngl cloning vpc,0.12,Green
+tia installing function,0.13,Green
+p3 artifact,0.12,Green
+bbs rendering node,0.10,Green
+okr connecting namespace,0.12,Green
+lol hotfix,0.13,Green
+tldr email,0.13,Green
+ml module,0.13,Green
+vip rendering backend,0.13,Green
+mvp ping story,0.10,Green
+tbd,0.10,Green
+cob analyzing schema,0.12,Green
+nrn,0.10,Green
+grpc teams,0.12,Green
+vm queue,0.10,Green
+bcc scheduling prod,0.10,Green
+deploying module,0.12,Green
+sev1 patching epic,0.13,Green
+v1 sync,0.12,Green
+kk workflow,0.12,Green
+v4 demo,0.13,Green
+hq ui,0.12,Green
+brb signing demo,0.10,Green
+ltv prod,0.12,Green
+hq patching container,0.12,Green
+tbf auditing code,0.12,Green
+nsfw uploading sprint,0.10,Green
+rfc teams,0.13,Green
+vip cleaning framework,0.10,Green
+installing standup,0.12,Green
+ok,0.10,Green
+okr,0.10,Green
+db analyzing artifact,0.12,Green
+valid notifying envvar,0.12,Green
+yoy opening registry,0.13,Green
+rnd refactoring schema,0.13,Green
+cc resolving field,0.13,Green
+copy registering microservice,0.12,Green
+roi exporting staging,0.12,Green
+ytd testing sync,0.10,Green
+closing me,0.12,Green
+brb aggregating teams,0.12,Green
+fw transforming feature,0.10,Green
+unblocking config,0.10,Green
+dns connecting framework,0.12,Green
+ootb tracking code,0.10,Green
+sfw index,0.13,Green
+obv connecting runtime,0.12,Green
+ga resolving chat,0.13,Green
+opening event,0.12,Green
+installing main,0.13,Green
+roi caching repo,0.12,Green
+b2c routing master,0.13,Green
+sure sorting build,0.10,Green
+vip invoking workflow,0.10,Green
+deleting backend,0.13,Green
+profiling webhook,0.13,Green
+gl aggregating retro,0.12,Green
+mom mapping frontend,0.12,Green
+b2g summarizing field,0.13,Green
+p2 testing struct,0.10,Green
+fetching queue,0.10,Green
+mfa decrypting webhook,0.10,Green
+tokenizing doc,0.13,Green
+json installing backend,0.13,Green
+ltv rendering function,0.10,Green
+compiling pipeline,0.12,Green
+dau caching queue,0.12,Green
+grpc profiling script,0.12,Green
+syncing script,0.10,Green
+b2b token,0.13,Green
+ytd exporting instance,0.13,Green
+imo tracking registry,0.13,Green
+fw pushing standup,0.12,Green
+vip scheduling teams,0.12,Green
+mvp connecting meeting,0.10,Green
+reverting retro,0.12,Green
+installing method,0.12,Green
+ssl querying master,0.13,Green
+b2b testing view,0.13,Green
+to assigning interface,0.12,Green
+vpn chat,0.13,Green
+cob branch,0.12,Green
+rest hosting class,0.13,Green
+rest writing bug,0.12,Green
+ootb rendering server,0.12,Green
+re fixing endpoint,0.10,Green
+mfa normalizing artifact,0.13,Green
+dns rendering registry,0.12,Green
+nah key,0.12,Green
+q4 presenting build,0.12,Green
+q1 merge wiki,0.13,Green
+pm demo,0.13,Green
+fwiw parsing standup,0.13,Green
+profiling backend,0.13,Green
+vm library,0.13,Green
+nah interface,0.10,Green
+visualizing field,0.10,Green
+tia branch,0.10,Green
+downloading staging,0.12,Green
+afaik updating branch,0.10,Green
+ama,0.12,Green
+sre repo,0.10,Green
+b2c standup,0.12,Green
+sorting ticket,0.13,Green
+qoq mocking library,0.12,Green
+p2 mapping epic,0.13,Green
+js invoking me,0.12,Green
+roi alerting function,0.13,Green
+sdk monitoring event,0.12,Green
+noted deserializing schema,0.13,Green
+mfa reading key,0.13,Green
+uat cluster,0.12,Green
+notifying workflow,0.12,Green
+closing wiki,0.13,Green
+smh approving retro,0.12,Green
+req,0.12,Green
+ltv deleting method,0.10,Green
+importing service,0.13,Green
+json cloning service,0.12,Green
+opening topic,0.13,Green
+lol feature,0.13,Green
+sfw writing pipeline,0.10,Green
+heard frontend,0.10,Green
+forwarding cloud,0.13,Green
+nah invoking call,0.12,Green
+b2b scaling story,0.12,Green
+fwiw view,0.13,Green
+sql firewall,0.12,Green
+qa visualizing script,0.13,Green
+imho fetching framework,0.12,Green
+bbl firewall,0.12,Green
+ftr invoking env,0.10,Green
+mfa registering script,0.13,Green
+v1 lambda,0.12,Green
+sev1 refactoring gateway,0.13,Green
+ok repo,0.12,Green
+obv escalating ui,0.13,Green
+b2g validating query,0.13,Green
+eom paginating schema,0.12,Green
+signing standup,0.10,Green
+ga rebooting lambda,0.10,Green
+bcc doc,0.12,Green
+sev1 invoking hotfix,0.12,Green
+nrn rendering build,0.12,Green
+verifying pr,0.12,Green
+resolving container,0.12,Green
+sure code,0.10,Green
+q3 module,0.10,Green
+imho analyzing function,0.10,Green
+gtg restarting hotfix,0.13,Green
+poc fixing query,0.10,Green
+signing library,0.13,Green
+ts encrypting email,0.12,Green
+p1 replying code,0.10,Green
+svp route,0.12,Green
+v1 committing workflow,0.13,Green
+coo spawning teams,0.10,Green
+fr field,0.10,Green
+vm refactoring repo,0.12,Green
+q3 filtering function,0.13,Green
+sla scaling key,0.10,Green
+cob notifying artifact,0.13,Green
+eta namespace,0.13,Green
+assigning cloud,0.10,Green
+p0 writing interface,0.12,Green
+ltv committing demo,0.12,Green
+okr creating standup,0.10,Green
+v2 tokenizing pipeline,0.13,Green
+rendering framework,0.10,Green
+done benchmarking app,0.12,Green
+fr blocking cluster,0.10,Green
+eoy charting topic,0.13,Green
+cc caching index,0.10,Green
+q4 writing struct,0.13,Green
+eoy,0.12,Green
+imo mapping image,0.13,Green
+sre refactoring namespace,0.10,Green
+qa subnet,0.13,Green
+approved microservice,0.13,Green
+linting workflow,0.12,Green
+gtg deleting node,0.13,Green
+vm forwarding index,0.10,Green
+mau encrypting package,0.13,Green
+fya caching class,0.12,Green
+db paginating view,0.12,Green
+cd subnet,0.12,Green
+debugging email,0.10,Green
+asap reqs,0.13,Green
+done querying firewall,0.13,Green
+mrr pr,0.12,Green
+okr profiling code,0.12,Green
+obv formatting package,0.10,Green
+sql sorting dev,0.12,Green
+qoq pushing schema,0.10,Green
+cli auditing build,0.13,Green
+cob logs,0.13,Green
+validating patch,0.13,Green
+vp refactoring microservice,0.10,Green
+eom caching demo,0.10,Green
+spawning package,0.12,Green
+eoq patching queue,0.10,Green
+asap unblocking app,0.13,Green
+gtg archiving event,0.13,Green
+b2b notifying event,0.10,Green
+b2b tracking interface,0.12,Green
+qa routing code,0.12,Green
+noted opening chat,0.12,Green
+ytd record,0.10,Green
+modifying email,0.12,Green
+ok approved spec,0.12,Green
+v5 monitoring class,0.13,Green
+ootb,0.12,Green
+ga assigning dev,0.12,Green
+lgtm decrypting bug,0.12,Green
+k transforming email,0.13,Green
+ts,0.12,Green
+svp visualizing lambda,0.13,Green
+k framework,0.13,Green
+ci refactoring feature,0.10,Green
+wdym topic,0.12,Green
+reviewing patch,0.10,Green
+fwiw profiling call,0.12,Green
+migrating metrics,0.13,Green
+hf rejecting chat,0.13,Green
+ssl vpc,0.12,Green
+tmr invoking reqs,0.12,Green
+afaik,0.10,Green
+ctr,0.13,Green
+archiving reqs,0.10,Green
+qoq story,0.13,Green
+opening frontend,0.12,Green
+closing call,0.12,Green
+eod hosting field,0.13,Green
+obv struct,0.10,Green
+json invoking query,0.12,Green
+tbf pulling cluster,0.12,Green
+yoy,0.13,Green
+tmr syncing schema,0.13,Green
+ga paginating me,0.13,Green
+dau visualizing patch,0.12,Green
+svp joining env,0.10,Green
+registering function,0.10,Green
+bcc testing env,0.13,Green
+pto,0.13,Green
+js closing slack,0.10,Green
+b2g parsing topic,0.13,Green
+grpc script,0.10,Green
+ngl reading story,0.10,Green
+eom ping module,0.10,Green
+kk linting trunk,0.12,Green
+arpu optimizing env,0.13,Green
+bbl opening dev,0.12,Green
+connecting ticket,0.10,Green
+querying workflow,0.10,Green
+gl reading container,0.12,Green
+ml,0.12,Green
+csv struct,0.13,Green
+building retro,0.12,Green
+serializing token,0.12,Green
+qoq archiving call,0.10,Green
+qa pushing slack,0.12,Green
+v0 presenting bug,0.10,Green
+nd hotfix,0.13,Green
+wait deploying endpoint,0.13,Green
+db deploying slack,0.12,Green
+installing meeting,0.12,Green
+wb writing image,0.13,Green
+cob creating feature,0.10,Green
+imho scaling event,0.13,Green
+v1 fixing staging,0.10,Green
+brb encrypting instance,0.10,Green
+wfh querying interface,0.13,Green
+committing prod,0.10,Green
+vp opening module,0.13,Green
+v4 metrics,0.13,Green
+sso,0.13,Green
+rnd drafting key,0.10,Green
+tldr building system,0.12,Green
+json dev,0.10,Green
+mau ui,0.13,Green
+obv scheduling env,0.13,Green
+yoy monitoring library,0.13,Green
+rendering standup,0.13,Green
+indexing topic,0.13,Green
+wip parsing interface,0.10,Green
+registering repo,0.10,Green
+serializing pipeline,0.10,Green
+indexing server,0.10,Green
+k8s compiling story,0.13,Green
+presenting feature,0.13,Green
+wdym,0.13,Green
+to connecting node,0.13,Green
+v0,0.12,Green
+heard indexing main,0.13,Green
+v2 restarting struct,0.10,Green
+bbl closing lambda,0.13,Green
+tmr spawning job,0.10,Green
+okr monitoring token,0.12,Green
+ngl retro,0.12,Green
+cto field,0.10,Green
+b2c decrypting email,0.13,Green
+auditing hotfix,0.13,Green
+invoking interface,0.13,Green
+heard table,0.13,Green
+arr workflow,0.13,Green
+cli documenting endpoint,0.12,Green
+bbs route,0.10,Green
+bcc committing dev,0.13,Green
+ig token,0.10,Green
+sql main,0.10,Green
+nah table,0.10,Green
+ssl,0.10,Green
+devops mapping chat,0.12,Green
+nrn runtime,0.10,Green
+noted committing teams,0.13,Green
+qoq deserializing thread,0.10,Green
+reverting struct,0.10,Green
+ai me,0.10,Green
+copy documenting container,0.12,Green
+ama installing namespace,0.12,Green
+ofc downloading sprint,0.10,Green
+wb triggering framework,0.13,Green
+csv ping task,0.10,Green
+rnd serializing chat,0.13,Green
+debugging library,0.13,Green
+svp formatting pr,0.13,Green
+blocking bug,0.13,Green
+committing package,0.13,Green
+cob,0.13,Green
+notifying repo,0.13,Green
+summarizing class,0.13,Green
+tls hosting view,0.12,Green
+nsfw summarizing reqs,0.12,Green
+kpi repo,0.10,Green
+sso auditing table,0.13,Green
+sure scheduling script,0.13,Green
+lol installing env,0.13,Green
+refactoring epic,0.13,Green
+restarting doc,0.13,Green
+v3 approved env,0.13,Green
+sso staging,0.13,Green
+escalating retro,0.13,Green
+coo exporting namespace,0.12,Green
+approved token,0.12,Green
+blocking image,0.13,Green
+vp,0.12,Green
+k unblocking sprint,0.10,Green
+rfc exporting dev,0.10,Green
+nah modifying thread,0.13,Green
+sev1 optimizing server,0.13,Green
+pto merge namespace,0.12,Green
+benchmarking frontend,0.10,Green
+archiving epic,0.10,Green
+bcc pulling namespace,0.10,Green
+sdk charting dev,0.12,Green
+poc visualizing node,0.12,Green
+done view,0.13,Green
+brb refactoring field,0.12,Green
+b2g charting bug,0.13,Green
+forwarding sprint,0.12,Green
+gl me,0.10,Green
+cc monitoring logs,0.13,Green
+nah patching backend,0.12,Green
+ack approved reqs,0.13,Green
+valid wiki,0.10,Green
+decrypting slack,0.12,Green
+coo logging server,0.13,Green
+sure auditing pr,0.12,Green
+heard analyzing package,0.12,Green
+escalating image,0.12,Green
+v3 patching library,0.12,Green
+deserializing bug,0.13,Green
+tmr graphing pipeline,0.10,Green
+sfw committing struct,0.12,Green
+kpi standup,0.12,Green
+rejecting bug,0.10,Green
+cd logging module,0.13,Green
+dns committing workflow,0.12,Green
+p2 installing dev,0.12,Green
+mau indexing method,0.12,Green
+ama subscribing container,0.12,Green
+wait parsing struct,0.13,Green
+signing pr,0.13,Green
+eoy pushing firewall,0.10,Green
+fyi instance,0.10,Green
+k8s sorting standup,0.12,Green
+sev2 encrypting pod,0.10,Green
+tbf cloning library,0.13,Green
+js writing artifact,0.13,Green
+mocking dev,0.10,Green
+cc rejecting image,0.13,Green
+nbd topic,0.13,Green
+sev2 email,0.12,Green
+p3 querying wiki,0.13,Green
+vpn tracking spec,0.13,Green
+cleaning envvar,0.10,Green
+eoy opening module,0.10,Green
+hf record,0.10,Green
+approved config,0.13,Green
+uat caching doc,0.13,Green
+vp migrating node,0.12,Green
+vp cleaning record,0.12,Green
+ci scheduling token,0.12,Green
+fwiw cleaning pod,0.10,Green
+migrating image,0.12,Green
+qa me,0.10,Green
+imho caching package,0.10,Green
+cd mocking trunk,0.13,Green
+mapping me,0.10,Green
+iirc triggering frontend,0.13,Green
+verifying frontend,0.12,Green
+approved query,0.10,Green
+ctr epic,0.13,Green
+documenting interface,0.12,Green
+v4 cloning key,0.12,Green
+afk routing standup,0.12,Green
+imo archiving api,0.10,Green
+validating api,0.10,Green
+validating vpc,0.12,Green
+asap ping cluster,0.13,Green
+meh image,0.12,Green
+fya ping registry,0.12,Green
+yep event,0.10,Green
+presenting bug,0.13,Green
+asap deserializing ticket,0.12,Green
+analyzing registry,0.12,Green
+auditing me,0.10,Green
+q1 writing event,0.10,Green
+monitoring call,0.10,Green
+formatting bug,0.12,Green
+mocking struct,0.10,Green
+smh caching meeting,0.10,Green
+okr validating firewall,0.10,Green
+tls fetching key,0.12,Green
+ok signing class,0.13,Green
+json exporting service,0.13,Green
+merge workflow,0.13,Green
+auditing standup,0.12,Green
+heard opening meeting,0.12,Green
+debugging retro,0.10,Green
+escalating proxy,0.13,Green
+smh opening container,0.12,Green
+ftr connecting artifact,0.13,Green
+fyi feature,0.10,Green
+req invoking spec,0.10,Green
+reviewing demo,0.12,Green
+k8s cleaning function,0.13,Green
+b2c routing key,0.12,Green
+bcc blocking bug,0.12,Green
+merge ui,0.13,Green
+lgtm triggering interface,0.12,Green
+ootb auditing frontend,0.12,Green
+sorting gateway,0.13,Green
+obv,0.10,Green
+sdk database,0.12,Green
+pto connecting method,0.13,Green
+grpc deploying master,0.13,Green
+ig approving envvar,0.10,Green
+afaik modifying hotfix,0.12,Green
+pushing task,0.12,Green
+svp charting staging,0.12,Green
+uat indexing script,0.12,Green
+p3 routing gateway,0.12,Green
+ssl patch,0.13,Green
+p2 secret,0.12,Green
+svp verifying token,0.12,Green
+fr logging framework,0.13,Green
+eoq,0.13,Green
+ssl reading backend,0.10,Green
+optimizing branch,0.12,Green
+bbl forwarding server,0.12,Green
+v0 staging,0.13,Green
+ngl mapping build,0.13,Green
+spawning frontend,0.13,Green
+nd encrypting reqs,0.12,Green
+cob service,0.10,Green
+ssl debugging email,0.13,Green
+rsvp committing call,0.13,Green
+sending backend,0.10,Green
+presenting standup,0.12,Green
+wait deleting namespace,0.13,Green
+cob signing bug,0.12,Green
+vip hosting envvar,0.13,Green
+iirc function,0.13,Green
+mom teams,0.10,Green
+pto routing library,0.13,Green
+tbd archiving epic,0.10,Green
+hf,0.12,Green
+eod container,0.13,Green
+cto escalating hotfix,0.10,Green
+pto deleting method,0.12,Green
+obv sorting topic,0.13,Green
+eoq envvar,0.13,Green
+rejecting event,0.10,Green
+compiling pr,0.13,Green
+bbs alerting secret,0.10,Green
+rendering container,0.13,Green
+csv alerting library,0.12,Green
+mau demo,0.13,Green
+ama logging vpc,0.13,Green
+bbs normalizing prod,0.13,Green
+parsing hotfix,0.13,Green
+syncing workflow,0.10,Green
+auditing event,0.12,Green
+gtg updating staging,0.13,Green
+uat serializing ui,0.13,Green
+lol migrating package,0.13,Green
+q4 indexing sync,0.10,Green
+roi opening table,0.10,Green
+mocking task,0.12,Green
+mau staging,0.12,Green
+nsfw rejecting token,0.12,Green
+ai drafting sprint,0.10,Green
+triggering container,0.13,Green
+arr transforming token,0.13,Green
+sdk secret,0.10,Green
+uat creating me,0.10,Green
+cleaning key,0.13,Green
+q1 deploying queue,0.10,Green
+cli cloning server,0.10,Green
+d2c event,0.12,Green
+tbd exporting instance,0.10,Green
+validating task,0.13,Green
+mom sprint,0.12,Green
+sql repo,0.13,Green
+sev2 reading spec,0.12,Green
+escalating demo,0.13,Green
+poc notifying email,0.10,Green
+afk caching call,0.13,Green
+v1 graphing me,0.12,Green
+coo gateway,0.12,Green
+ack indexing hotfix,0.10,Green
+vp linting registry,0.12,Green
+forwarding node,0.10,Green
+encrypting feature,0.10,Green
+scaling node,0.10,Green
+benchmarking reqs,0.12,Green
+ama migrating api,0.13,Green
+vm analyzing event,0.13,Green
+benchmarking trunk,0.13,Green
+tmr writing env,0.13,Green
+lmk instance,0.13,Green
+ux searching pr,0.10,Green
+mrr restarting vpc,0.13,Green
+uploading config,0.10,Green
+bbs mocking dev,0.10,Green
+arpu struct,0.13,Green
+tbf rejecting server,0.10,Green
+eoy retro,0.10,Green
+ga decrypting ticket,0.10,Green
+cto approved topic,0.10,Green
+iirc prod,0.13,Green
+db,0.10,Green
+bbs presenting workflow,0.12,Green
+drafting endpoint,0.12,Green
+pm rendering email,0.12,Green
+forwarding package,0.13,Green
+parsing env,0.10,Green
+pulling app,0.10,Green
+cd merge frontend,0.12,Green
+q2 record,0.12,Green
+sso artifact,0.13,Green
+q4 approving server,0.10,Green
+bcc package,0.10,Green
+rsvp graphing method,0.13,Green
+auditing backend,0.13,Green
+vpn assigning queue,0.10,Green
+sre invoking gateway,0.13,Green
+decrypting workflow,0.10,Green
+pto fixing interface,0.12,Green
+q3 normalizing package,0.12,Green
+js microservice,0.13,Green
+tbd opening env,0.12,Green
+mvp pr,0.12,Green
+rest benchmarking email,0.10,Green
+valid replying instance,0.13,Green
+b2c fetching task,0.12,Green
+p0 visualizing task,0.12,Green
+deploying spec,0.12,Green
+tia call,0.10,Green
+graphing trunk,0.12,Green
+rsvp rendering master,0.10,Green
+sso function,0.12,Green
+ootb optimizing class,0.10,Green
+rest modifying dev,0.12,Green
+sfw modifying cluster,0.13,Green
+ml routing pod,0.10,Green
+imo encrypting package,0.12,Green
+vip forwarding reqs,0.13,Green
+drafting library,0.12,Green
+sre optimizing story,0.10,Green
+b2g debugging method,0.12,Green
+eod charting metrics,0.13,Green
+arpu scheduling container,0.10,Green
+db token,0.12,Green
+modifying queue,0.10,Green
+sev2 deploying enum,0.12,Green
+check doc,0.12,Green
+k8s parsing service,0.13,Green
+b2b refactoring package,0.13,Green
+js query,0.13,Green
+pto function,0.12,Green
+ig alerting firewall,0.13,Green
+graphing queue,0.12,Green
+wip refactoring prod,0.10,Green
+archiving frontend,0.12,Green
+uat triggering pr,0.10,Green
+roi encrypting framework,0.12,Green
+devops signing bug,0.10,Green
+ooo deserializing record,0.13,Green
+rest modifying me,0.13,Green
+uat fetching image,0.12,Green
+ml filtering image,0.12,Green
+mrr ui,0.13,Green
+lgtm caching view,0.13,Green
+qa benchmarking function,0.12,Green
+closing vpc,0.10,Green
+ofc notifying staging,0.12,Green
+done signing job,0.13,Green
+mfa fixing demo,0.10,Green
+ama script,0.13,Green
+dns linting envvar,0.10,Green
+hq deserializing metrics,0.10,Green
+brb connecting enum,0.10,Green
+q1 thread,0.10,Green
+bbl verifying spec,0.10,Green
+b2c wiki,0.13,Green
+smh,0.10,Green
+wfh normalizing dev,0.10,Green
+registering trunk,0.13,Green
+p2 blocking interface,0.10,Green
+cc reading struct,0.12,Green
+mfa querying server,0.12,Green
+wb documenting token,0.13,Green
+brb gateway,0.12,Green
+bbs scheduling ui,0.13,Green
+compiling server,0.10,Green
+p2 notifying meeting,0.13,Green
+devops restarting epic,0.13,Green
+ooo,0.13,Green
+tmr lambda,0.10,Green
+ooo benchmarking email,0.13,Green
+ts updating backend,0.12,Green
+dau invoking framework,0.10,Green
+d2c env,0.12,Green
+restarting microservice,0.13,Green
+vip check job,0.10,Green
+ngl assigning route,0.12,Green
+reverting cloud,0.13,Green
+registering artifact,0.12,Green
+qoq verifying cert,0.10,Green
+qoq scaling pod,0.12,Green
+db namespace,0.13,Green
+d2c routing ticket,0.13,Green
+pushing feature,0.12,Green
+q4 rebooting class,0.10,Green
+mvp blocking module,0.10,Green
+dau routing staging,0.12,Green
+searching firewall,0.13,Green
+sql restarting gateway,0.10,Green
+nbd tokenizing demo,0.10,Green
+ngl closing branch,0.12,Green
+lgtm uploading feature,0.13,Green
+smh assigning proxy,0.12,Green
+wfh approved master,0.10,Green
+invoking doc,0.12,Green
+okr merge chat,0.12,Green
+tia subnet,0.10,Green
+closing config,0.13,Green
+cob ping node,0.10,Green
+lol spawning route,0.10,Green
+logging firewall,0.10,Green
+closing registry,0.13,Green
+cloning namespace,0.12,Green
+roi retro,0.13,Green
+db patching node,0.12,Green
+wip escalating route,0.10,Green
+wb building env,0.13,Green
+okr spawning server,0.13,Green
+b2c debugging proxy,0.12,Green
+indexing logs,0.13,Green
+rejecting standup,0.12,Green
+mom alerting ticket,0.10,Green
+writing container,0.12,Green
+vp reverting me,0.13,Green
+cli cert,0.12,Green
+ofc reverting story,0.12,Green
+fwiw installing config,0.12,Green
+tmr monitoring module,0.12,Green
+v2 tokenizing container,0.13,Green
+rejecting interface,0.10,Green
+tmr scaling slack,0.13,Green
+fw validating cluster,0.12,Green
+sev2 ping demo,0.10,Green
+ltv subscribing cluster,0.10,Green
+afk rejecting cert,0.13,Green
+downloading email,0.13,Green
+b2c key,0.10,Green
+cc triggering record,0.13,Green
+csv importing branch,0.13,Green
+p2 workflow,0.13,Green
+transforming reqs,0.10,Green
+updating cert,0.12,Green
+sso wiki,0.10,Green
+json secret,0.12,Green
+sre table,0.12,Green
+eoy vpc,0.12,Green
+nbd frontend,0.12,Green
+nbd key,0.13,Green
+qa syncing view,0.12,Green
+ftr importing query,0.12,Green
+cac compiling enum,0.13,Green
+b2b serializing record,0.10,Green
+v3 formatting framework,0.13,Green
+k bug,0.13,Green
+ssl deploying image,0.10,Green
+sorting doc,0.12,Green
+ack charting prod,0.13,Green
+eow caching firewall,0.10,Green
+lol scheduling image,0.13,Green
+cob config,0.12,Green
+brb meeting,0.13,Green
+ooo paginating standup,0.13,Green
+iirc cleaning library,0.13,Green
+reading config,0.13,Green
+noted,0.12,Green
+tldr sync,0.12,Green
+p1 cleaning wiki,0.10,Green
+q1 connecting image,0.10,Green
+normalizing email,0.13,Green
+devops ui,0.13,Green
+wfh tokenizing hotfix,0.13,Green
+sending env,0.10,Green
+qa linting container,0.10,Green
+re resolving endpoint,0.12,Green
+rc prod,0.12,Green
+d2c normalizing framework,0.10,Green
+wait index,0.10,Green
+sev1 visualizing envvar,0.12,Green
+afk auditing queue,0.13,Green
+obv installing module,0.13,Green
+copy alerting webhook,0.10,Green
+mvp committing server,0.10,Green
+ci tokenizing instance,0.12,Green
+visualizing server,0.13,Green
+check record,0.13,Green
+rfc mocking endpoint,0.12,Green
+k8s drafting epic,0.10,Green
+sso key,0.13,Green
+tracking runtime,0.12,Green
+ctr aggregating secret,0.10,Green
+optimizing runtime,0.10,Green
+building method,0.10,Green
+fya,0.10,Green
+indexing service,0.12,Green
+installing env,0.12,Green
+iirc record,0.10,Green
+arpu scheduling record,0.13,Green
+k,0.13,Green
+hq modifying hotfix,0.12,Green
+eod parsing pr,0.10,Green
+pm,0.12,Green
+brb,0.12,Green
+cd tracking retro,0.13,Green
+fwiw sorting route,0.10,Green
+assigning ui,0.12,Green
+mvp downloading script,0.12,Green
+imo joining email,0.10,Green
+ack scheduling spec,0.13,Green
+pto spawning reqs,0.13,Green
+eoy story,0.13,Green
+hf encrypting config,0.12,Green
+dns scaling module,0.10,Green
+hq filtering call,0.13,Green
+assigning teams,0.10,Green
+v0 config,0.13,Green
+mom syncing script,0.10,Green
+escalating cluster,0.12,Green
+assigning email,0.10,Green
+rejecting retro,0.13,Green
+mvp enum,0.13,Green
+paginating webhook,0.13,Green
+yep caching sync,0.13,Green
+yoy charting reqs,0.10,Green
+lgtm benchmarking sync,0.12,Green
+rc rejecting staging,0.12,Green
+ga caching queue,0.10,Green
+ssl logging hotfix,0.12,Green
+gl triggering event,0.12,Green
+mau caching instance,0.13,Green
+scaling frontend,0.12,Green
+testing field,0.12,Green
+sev2 scaling interface,0.10,Green
+subscribing interface,0.10,Green
+ssl committing sync,0.12,Green
+hf subnet,0.12,Green
+bcc master,0.13,Green
+alerting backend,0.10,Green
+re doc,0.13,Green
+vip serializing lambda,0.10,Green
+copy cluster,0.12,Green
+ml signing webhook,0.12,Green
+sre metrics,0.13,Green
+js doc,0.12,Green
+eoy migrating method,0.12,Green
+fwiw reverting ui,0.13,Green
+rnd endpoint,0.13,Green
+alerting frontend,0.12,Green
+cdn system,0.13,Green
+q3 approving dev,0.13,Green
+archiving library,0.12,Green
+escalating microservice,0.10,Green
+nrn analyzing envvar,0.12,Green
+coo debugging server,0.12,Green
+decrypting standup,0.10,Green
+afaik drafting sync,0.12,Green
+asap subscribing wiki,0.10,Green
+restarting script,0.12,Green
+brb monitoring namespace,0.10,Green
+v4 auditing ticket,0.13,Green
+wdym node,0.13,Green
+v4 meeting,0.13,Green
+b2c sorting artifact,0.13,Green
+ci notifying wiki,0.10,Green
+req escalating ui,0.12,Green
+vip triggering enum,0.12,Green
+eoq logging lambda,0.10,Green
+q1 escalating chat,0.10,Green
+lmk replying index,0.13,Green
+sfw cluster,0.12,Green
+migrating interface,0.12,Green
+tls monitoring runtime,0.12,Green
+v5 benchmarking hotfix,0.12,Green
+eow deserializing standup,0.13,Green
+scheduling module,0.10,Green
+fixing job,0.13,Green
+cc committing metrics,0.13,Green
+v4 logs,0.10,Green
+sfw refactoring pod,0.12,Green
+profiling firewall,0.10,Green
+hq call,0.12,Green
+ootb summarizing enum,0.12,Green
+dau formatting subnet,0.13,Green
+json mapping me,0.13,Green
+lmk assigning struct,0.13,Green
+fya webhook,0.13,Green
+b2b rendering topic,0.12,Green
+sla ping instance,0.10,Green
+vip pushing framework,0.10,Green
+sql compiling sprint,0.12,Green
+vip rejecting pipeline,0.12,Green
+lgtm logging hotfix,0.10,Green
+lol refactoring backend,0.10,Green
+sdk artifact,0.10,Green
+tmr reading sprint,0.13,Green
+arr closing database,0.13,Green
+rnd drafting dev,0.13,Green
+ig build,0.12,Green
+cli creating secret,0.10,Green
+eta lambda,0.13,Green
+uploading demo,0.10,Green
+fya env,0.13,Green
+bbl writing database,0.12,Green
+wait opening prod,0.12,Green
+cr patch,0.12,Green
+rnd transforming gateway,0.10,Green
+cloning runtime,0.12,Green
+k charting key,0.13,Green
+mom replying prod,0.10,Green
+dau reading interface,0.12,Green
+cto ping app,0.13,Green
+sfw bug,0.10,Green
+nd patch,0.12,Green
+poc forwarding email,0.13,Green
+q3 importing pr,0.12,Green
+svp workflow,0.10,Green
+k8s unblocking enum,0.12,Green
+nsfw downloading secret,0.12,Green
+ltv formatting story,0.10,Green
+pto parsing reqs,0.13,Green
+ofc querying api,0.10,Green
+mfa notifying container,0.12,Green
+subscribing token,0.13,Green
+copy,0.12,Green
+transforming job,0.13,Green
+alerting pr,0.12,Green
+k8s searching interface,0.13,Green
+json reviewing envvar,0.13,Green
+fwiw presenting dev,0.10,Green
+b2g reading pr,0.12,Green
+installing branch,0.12,Green
+eod benchmarking container,0.13,Green
+roi mocking hotfix,0.13,Green
+deserializing key,0.13,Green
+migrating token,0.12,Green
+ga closing envvar,0.10,Green
+approved view,0.13,Green
+noted restarting field,0.12,Green
+cac analyzing runtime,0.12,Green
+auditing doc,0.10,Green
+ltv check build,0.12,Green
+unblocking frontend,0.10,Green
+json service,0.12,Green
+downloading record,0.10,Green
+afk fetching table,0.10,Green
+q4 invoking cluster,0.13,Green
+nd cloning backend,0.13,Green
+ack updating slack,0.12,Green
+arpu benchmarking thread,0.13,Green
+approved sprint,0.13,Green
+tokenizing frontend,0.10,Green
+ama slack,0.13,Green
+uat parsing enum,0.12,Green
+p2 optimizing job,0.13,Green
+check sprint,0.12,Green
+modifying subnet,0.12,Green
+mfa validating lambda,0.10,Green
+dns escalating job,0.13,Green
+normalizing master,0.13,Green
+q2 charting build,0.10,Green
+v3 caching route,0.10,Green
+tmr subscribing job,0.12,Green
+mfa analyzing wiki,0.12,Green
+rendering pod,0.13,Green
+rnd interface,0.13,Green
+cleaning instance,0.12,Green
+fetching dev,0.12,Green
+nsfw image,0.13,Green
+sso caching thread,0.12,Green
+wip reverting frontend,0.12,Green
+iirc check ui,0.12,Green
+mrr module,0.10,Green
+v5 optimizing enum,0.13,Green
+summarizing env,0.10,Green
+csv master,0.13,Green
+analyzing repo,0.10,Green
+tracking me,0.12,Green
+hq runtime,0.10,Green
+ops feature,0.13,Green
+parsing api,0.12,Green
+tbd check database,0.13,Green
+ootb namespace,0.10,Green
+lgtm updating schema,0.12,Green
+ux,0.10,Green
+svp deserializing package,0.12,Green
+p3 notifying database,0.10,Green
+opening vpc,0.10,Green
+eoy app,0.10,Green
+re joining api,0.10,Green
+smh scaling job,0.12,Green
+wb updating standup,0.13,Green
+b2b container,0.12,Green
+kk pulling topic,0.10,Green
+ops node,0.12,Green
+tmr blocking field,0.13,Green
+rendering class,0.13,Green
+arr linting bug,0.10,Green
+benchmarking view,0.13,Green
+fya serializing call,0.12,Green
+imho graphing cloud,0.13,Green
+tbf,0.12,Green
+vip reverting artifact,0.13,Green
+ngl cloud,0.13,Green
+json parsing email,0.12,Green
+k8s signing table,0.12,Green
+vip cleaning reqs,0.13,Green
+ops deploying backend,0.13,Green
+k reverting token,0.12,Green
+dns retro,0.10,Green
+heard linting call,0.13,Green
+cc connecting app,0.12,Green
+v1 cloning reqs,0.13,Green
+p3 deleting pipeline,0.12,Green
+sre microservice,0.13,Green
+rfc exporting node,0.13,Green
+fya standup,0.13,Green
+ml optimizing view,0.12,Green
+cr drafting epic,0.13,Green
+sre server,0.13,Green
+escalating spec,0.10,Green
+blocking database,0.12,Green
+ngl resolving key,0.12,Green
+nsfw fixing lambda,0.13,Green
+eta optimizing backend,0.10,Green
+wdym dev,0.13,Green
+tldr routing ui,0.12,Green
+sure updating node,0.10,Green
+eow importing code,0.10,Green
+closing namespace,0.13,Green
+ig validating artifact,0.13,Green
+cli normalizing ticket,0.12,Green
+q4 restarting proxy,0.13,Green
+kk rebooting token,0.10,Green
+ytd library,0.13,Green
+p1 field,0.12,Green
+wait reviewing thread,0.12,Green
+gtg method,0.13,Green
+fwiw enum,0.10,Green
+bcc logging library,0.13,Green
+q2,0.10,Green
+testing epic,0.12,Green
+svp escalating wiki,0.12,Green
+qoq endpoint,0.10,Green
+afk parsing trunk,0.13,Green
+req graphing pipeline,0.12,Green
+re joining function,0.10,Green
+mau downloading cluster,0.12,Green
+b2c escalating namespace,0.13,Green
+bcc uploading metrics,0.12,Green
+pm interface,0.12,Green
+modifying env,0.13,Green
+ngl env,0.12,Green
+spawning logs,0.13,Green
+sla uploading runtime,0.13,Green
+ngl indexing chat,0.13,Green
+q1 signing app,0.13,Green
+dns rebooting package,0.12,Green
+heard presenting package,0.13,Green
+ts caching node,0.12,Green
+ml ping story,0.13,Green
+gtg struct,0.12,Green
+devops documenting image,0.10,Green
+ai slack,0.13,Green
+pulling ticket,0.12,Green
+mocking server,0.10,Green
+bbl invoking demo,0.12,Green
+cob key,0.10,Green
+uat restarting master,0.12,Green
+sev2,0.10,Green
+graphing view,0.10,Green
+v5 exporting firewall,0.10,Green
+pushing env,0.12,Green
+eow monitoring reqs,0.13,Green
+pto exporting queue,0.12,Green
+dau profiling workflow,0.12,Green
+b2g interface,0.13,Green
+mvp feature,0.10,Green
+tmr system,0.13,Green
+to spawning runtime,0.10,Green
+devops paginating queue,0.10,Green
+v3 drafting secret,0.10,Green
+vpn analyzing backend,0.10,Green
+sre registering email,0.10,Green
+cd,0.10,Green
+mapping backend,0.12,Green
+b2c documenting me,0.13,Green
+ping field,0.10,Green
+filtering server,0.12,Green
+nah artifact,0.13,Green
+v4 auditing namespace,0.10,Green
+sure joining query,0.13,Green
+nsfw logs,0.12,Green
+hq writing slack,0.13,Green
+sorting enum,0.10,Green
+smh monitoring runtime,0.13,Green
+sre monitoring envvar,0.13,Green
+rnd,0.10,Green
+analyzing pipeline,0.12,Green
+v0 alerting module,0.12,Green
+pm tracking api,0.12,Green
+grpc indexing event,0.13,Green
+building module,0.13,Green
+mvp joining index,0.13,Green
+replying env,0.10,Green
+qa sorting view,0.13,Green
+tls encrypting call,0.10,Green
+verifying config,0.13,Green
+debugging epic,0.13,Green
+ftr archiving event,0.13,Green
+ytd filtering script,0.12,Green
+ci artifact,0.13,Green
+eom container,0.12,Green
+ga syncing retro,0.10,Green
+sso deploying call,0.13,Green
+pm subscribing struct,0.10,Green
+v3 monitoring enum,0.13,Green
+imo documenting pipeline,0.10,Green
+vp tracking dev,0.12,Green
+qa searching schema,0.10,Green
+fyi writing webhook,0.10,Green
+afk thread,0.10,Green
+decrypting instance,0.12,Green
+signing namespace,0.13,Green
+merge namespace,0.13,Green
+db spawning backend,0.13,Green
+rejecting trunk,0.13,Green
+ctr approved lambda,0.10,Green
+sdk,0.13,Green
+cleaning pod,0.10,Green
+ux rebooting api,0.13,Green
+drafting me,0.13,Green
+ytd,0.12,Green
+mocking hotfix,0.12,Green
+v3 scheduling record,0.10,Green
+v5 server,0.13,Green
+rsvp closing sprint,0.12,Green
+qa code,0.13,Green
+ack caching node,0.10,Green
+sorting call,0.10,Green
+poc archiving system,0.13,Green
+ssl feature,0.13,Green
+ltv searching workflow,0.12,Green
+q1 proxy,0.10,Green
+ama analyzing library,0.12,Green
+caching sprint,0.12,Green
+resolving topic,0.12,Green
+eoq aggregating gateway,0.12,Green
+svp parsing code,0.13,Green
+q2 documenting method,0.13,Green
+wdym database,0.12,Green
+rc container,0.13,Green
+replying ticket,0.10,Green
+charting service,0.13,Green
+kk field,0.12,Green
+svp rendering ticket,0.12,Green
+q3 vpc,0.10,Green
+k deleting container,0.10,Green
+b2b creating firewall,0.13,Green
+tbf normalizing me,0.10,Green
+kk patching logs,0.10,Green
+nsfw migrating key,0.10,Green
+copy cloud,0.10,Green
+dns reading demo,0.10,Green
+noted modifying interface,0.13,Green
+d2c debugging token,0.13,Green
+serializing branch,0.10,Green
+pm querying library,0.13,Green
+nps reviewing registry,0.10,Green
+gl replying lambda,0.13,Green
+mvp registering artifact,0.12,Green
+pm cleaning microservice,0.10,Green
+ga resolving topic,0.12,Green
+db index,0.12,Green
+ootb linting chat,0.13,Green
+wb compiling class,0.12,Green
+dau pushing service,0.13,Green
+tls,0.12,Green
+p2 parsing metrics,0.12,Green
+wait compiling metrics,0.10,Green
+sql reading backend,0.13,Green
+nsfw ping standup,0.10,Green
+p0 joining gateway,0.10,Green
+k8s debugging container,0.13,Green
+encrypting ui,0.12,Green
+v5 merge chat,0.10,Green
+fya fixing chat,0.10,Green
+v0 thread,0.12,Green
+ok escalating query,0.13,Green
+b2b invoking struct,0.13,Green
+json monitoring pr,0.10,Green
+q1 joining library,0.12,Green
+ts registering feature,0.13,Green
+sso compiling webhook,0.12,Green
+rest mocking script,0.12,Green
+copy updating frontend,0.13,Green
+filtering reqs,0.12,Green
+connecting firewall,0.10,Green
+escalating staging,0.13,Green
+lol presenting config,0.13,Green
+mrr normalizing teams,0.13,Green
+analyzing me,0.10,Green
+mau deserializing metrics,0.10,Green
+to notifying task,0.13,Green
+csv migrating cert,0.12,Green
+ai unblocking secret,0.13,Green
+q1 logging event,0.12,Green
+valid fixing wiki,0.12,Green
+imho verifying doc,0.12,Green
+q1 deleting wiki,0.12,Green
+k8s forwarding teams,0.10,Green
+tbf wiki,0.10,Green
+v2 pr,0.13,Green
+pto searching slack,0.12,Green
+rfc filtering story,0.13,Green
+lgtm querying sprint,0.10,Green
+lmk subscribing endpoint,0.10,Green
+svp transforming artifact,0.12,Green
+lmk linting bug,0.12,Green
+p2 master,0.12,Green
+arpu framework,0.13,Green
+sure modifying microservice,0.13,Green
+dns metrics,0.10,Green
+devops reading pod,0.13,Green
+v5 scaling teams,0.10,Green
+v0 reviewing sprint,0.12,Green
+v1 epic,0.10,Green
+formatting repo,0.10,Green
+obv container,0.12,Green
+ooo opening sync,0.10,Green
+v1 build,0.13,Green
+imo query,0.12,Green
+mrr schema,0.13,Green
+bbl importing package,0.10,Green
+logging spec,0.10,Green
+json logging retro,0.10,Green
+yoy task,0.12,Green
+ga resolving server,0.10,Green
+cc indexing email,0.13,Green
+mvp syncing registry,0.12,Green
+patching namespace,0.13,Green
+fr uploading me,0.13,Green
+scheduling table,0.10,Green
+ig,0.12,Green
+formatting gateway,0.13,Green
+lmk debugging app,0.13,Green
+committing schema,0.12,Green
+gtg triggering firewall,0.13,Green
+sev2 view,0.10,Green
+ai ticket,0.10,Green
+nd updating route,0.10,Green
+reviewing trunk,0.10,Green
+tldr method,0.13,Green
+tbd blocking namespace,0.12,Green
+ctr summarizing index,0.12,Green
+sure app,0.13,Green
+req triggering master,0.10,Green
+k approved ticket,0.10,Green
+ok reverting teams,0.10,Green
+monitoring endpoint,0.13,Green
+wb scaling api,0.12,Green
+lgtm signing sync,0.10,Green
+mapping pipeline,0.12,Green
+sdk routing package,0.12,Green
+rc creating repo,0.10,Green
+db routing app,0.13,Green
+grpc analyzing sync,0.12,Green
+sorting app,0.10,Green
+sql build,0.10,Green
+nps cloning proxy,0.10,Green
+mrr committing task,0.13,Green
+encrypting trunk,0.10,Green
+ts debugging job,0.10,Green
+connecting query,0.10,Green
+d2c opening class,0.10,Green
+rsvp ticket,0.10,Green
+documenting enum,0.13,Green
+rc monitoring server,0.10,Green
+okr paginating frontend,0.10,Green
+imo field,0.13,Green
+eoq filtering node,0.10,Green
+cdn,0.12,Green
+scaling standup,0.10,Green
+ngl joining call,0.10,Green
+committing enum,0.12,Green
+ux triggering wiki,0.12,Green
+qoq reverting api,0.13,Green
+lmk normalizing route,0.10,Green
+poc formatting table,0.13,Green
+sfw escalating standup,0.12,Green
+sev1 subnet,0.12,Green
+nd committing cloud,0.10,Green
+ok pulling logs,0.10,Green
+lgtm encrypting teams,0.12,Green
+qoq monitoring instance,0.12,Green
+arpu opening view,0.10,Green
+okr joining wiki,0.13,Green
+ooo connecting task,0.13,Green
+ootb sending email,0.13,Green
+fwiw alerting cloud,0.10,Green
+indexing system,0.10,Green
+testing prod,0.10,Green
+mfa deploying backend,0.12,Green
+rsvp demo,0.13,Green
+d2c envvar,0.13,Green
+mvp notifying namespace,0.13,Green
+iirc testing library,0.12,Green
+ssl cleaning registry,0.12,Green
+nrn cleaning function,0.12,Green
+committing main,0.10,Green
+brb unblocking retro,0.10,Green
+nbd patch,0.12,Green
+eoy compiling slack,0.10,Green
+b2g dev,0.10,Green
+cob deploying reqs,0.10,Green
+copy teams,0.12,Green
+vpn,0.12,Green
+coo reviewing class,0.12,Green
+b2g sending view,0.10,Green
+ltv drafting sync,0.10,Green
+fyi linting api,0.13,Green
+mom parsing trunk,0.10,Green
+installing vpc,0.10,Green
+q1 spawning database,0.12,Green
+wdym linting meeting,0.13,Green
+rebooting struct,0.13,Green
+cc charting standup,0.10,Green
+resolving event,0.13,Green
+ops event,0.10,Green
+sure drafting task,0.10,Green
+vip,0.13,Green
+b2c debugging runtime,0.10,Green
+wait restarting reqs,0.10,Green
+sso code,0.10,Green
+eoq replying staging,0.10,Green
+hosting pod,0.12,Green
+roi opening route,0.12,Green
+ooo monitoring pod,0.13,Green
+noted fetching main,0.13,Green
+aggregating key,0.10,Green
+v0 field,0.10,Green
+patching cluster,0.10,Green
+done demo,0.12,Green
+eod pod,0.12,Green
+ngl approving metrics,0.10,Green
+asap charting ui,0.13,Green
+validating logs,0.10,Green
+vip build,0.13,Green
+noted importing registry,0.12,Green
+ga paginating repo,0.10,Green
+k8s notifying app,0.12,Green
+tls monitoring pod,0.13,Green
+rc rebooting pod,0.10,Green
+yep normalizing chat,0.13,Green
+mom syncing wiki,0.12,Green
+updating library,0.13,Green
+json,0.12,Green
+dns patching hotfix,0.10,Green
+gtg archiving pod,0.13,Green
+installing view,0.10,Green
+hf connecting build,0.13,Green
+tldr prod,0.12,Green
+v2 updating pod,0.12,Green
+ai importing branch,0.10,Green
+refactoring trunk,0.10,Green
+re creating standup,0.10,Green
+json querying build,0.10,Green
+vm pulling dev,0.10,Green
+cto replying teams,0.13,Green
+json committing chat,0.10,Green
+drafting demo,0.10,Green
+lgtm serializing feature,0.13,Green
+ofc visualizing bug,0.10,Green
+querying teams,0.10,Green
+bbs paginating repo,0.12,Green
+vpn scheduling firewall,0.12,Green
+ooo demo,0.12,Green
+meh app,0.13,Green
+b2g reading container,0.12,Green
+cac caching reqs,0.10,Green
+lol reverting instance,0.10,Green
+summarizing script,0.12,Green
+nps envvar,0.12,Green
+b2b cleaning index,0.13,Green
+opening webhook,0.10,Green
+lmk serializing library,0.12,Green
+q4 teams,0.12,Green
+searching function,0.12,Green
+aggregating struct,0.10,Green
+json documenting spec,0.12,Green
+pto importing method,0.13,Green
+vp cluster,0.10,Green
+pto code,0.12,Green
+approving registry,0.13,Green
+rfc triggering topic,0.12,Green
+poc tracking struct,0.10,Green
+documenting endpoint,0.10,Green
+b2g patching event,0.13,Green
+ofc optimizing instance,0.13,Green
+cleaning staging,0.12,Green
+ops debugging script,0.10,Green
+wait spawning node,0.10,Green
+cloning job,0.13,Green
+v3 opening field,0.12,Green
+done optimizing vpc,0.13,Green
+brb parsing query,0.13,Green
+paginating pipeline,0.13,Green
+sev1 signing teams,0.12,Green
+ping doc,0.12,Green
+gtg indexing query,0.13,Green
+kk blocking schema,0.12,Green
+obv route,0.12,Green
+reading gateway,0.10,Green
+b2g drafting endpoint,0.10,Green
+pm cloning envvar,0.13,Green
+ig sending struct,0.13,Green
+logging gateway,0.13,Green
+triggering pipeline,0.12,Green
+q1 archiving cluster,0.12,Green
+qa monitoring meeting,0.12,Green
+done reading microservice,0.12,Green
+decrypting email,0.13,Green
+db testing backend,0.12,Green
+qa approving table,0.10,Green
+fwiw encrypting field,0.10,Green
+p1 validating demo,0.10,Green
+ootb compiling framework,0.10,Green
+v3 fixing method,0.10,Green
+fr logs,0.13,Green
+qoq ping system,0.13,Green
+b2g unblocking microservice,0.12,Green
+cloning ui,0.13,Green
+v1 writing token,0.10,Green
+re writing wiki,0.13,Green
+ootb library,0.10,Green
+joining app,0.13,Green
+q4 fetching cloud,0.12,Green
+ts module,0.13,Green
+copy summarizing pipeline,0.12,Green
+nps indexing retro,0.10,Green
+q1 ping system,0.10,Green
+js topic,0.10,Green
+fetching bug,0.12,Green
+gl signing endpoint,0.13,Green
+ts graphing interface,0.10,Green
+json function,0.12,Green
+qoq opening teams,0.13,Green
+mfa rejecting build,0.10,Green
+iirc querying gateway,0.12,Green
+eoy searching pr,0.13,Green
+joining meeting,0.13,Green
+mvp tracking subnet,0.13,Green
+ping build,0.12,Green
+kpi compiling staging,0.10,Green
+ltv triggering frontend,0.13,Green
+bbl auditing endpoint,0.12,Green
+rfc caching spec,0.10,Green
+qoq unblocking webhook,0.13,Green
+fwiw summarizing reqs,0.10,Green
+tldr patching teams,0.10,Green
+joining registry,0.10,Green
+profiling framework,0.12,Green
+ops script,0.13,Green
+lmk config,0.12,Green
+cloning app,0.12,Green
+poc merge thread,0.12,Green
+sorting main,0.12,Green
+rc,0.13,Green
+summarizing webhook,0.12,Green
+fwiw dev,0.13,Green
+valid exporting instance,0.12,Green
+obv paginating gateway,0.10,Green
+cc deleting code,0.12,Green
+arpu,0.13,Green
+tia graphing metrics,0.13,Green
+v0 encrypting demo,0.10,Green
+ofc closing config,0.10,Green
+eoy caching me,0.10,Green
+meh main,0.10,Green
+documenting branch,0.13,Green
+sorting event,0.10,Green
+bcc subscribing prod,0.10,Green
+js reverting cert,0.13,Green
+nbd reverting key,0.12,Green
+dau benchmarking webhook,0.10,Green
+rsvp migrating server,0.10,Green
+valid deploying sprint,0.13,Green
+mfa importing cert,0.13,Green
+gtg encrypting workflow,0.12,Green
+uat,0.13,Green
+opening database,0.13,Green
+fwiw config,0.13,Green
+bbs logging endpoint,0.10,Green
+to resolving epic,0.12,Green
+okr uploading reqs,0.12,Green
+pto pushing chat,0.13,Green
+cdn sorting code,0.13,Green
+wdym restarting ticket,0.13,Green
+hf blocking subnet,0.10,Green
+ig modifying webhook,0.13,Green
+sso updating firewall,0.10,Green
+sla schema,0.13,Green
+sfw approved endpoint,0.12,Green
+rebooting index,0.10,Green
+re validating chat,0.13,Green
+logging method,0.10,Green
+rfc scaling branch,0.10,Green
+spawning demo,0.13,Green
+ci rebooting runtime,0.12,Green
+v4 analyzing struct,0.10,Green
+reviewing event,0.12,Green
+formatting subnet,0.12,Green
+q2 refactoring lambda,0.10,Green
+triggering event,0.13,Green
+mau invoking trunk,0.10,Green
+tmr patching field,0.13,Green
+vip merge enum,0.10,Green
+sql endpoint,0.10,Green
+building standup,0.12,Green
+q3 reqs,0.13,Green
+downloading topic,0.12,Green
+k8s assigning metrics,0.12,Green
+mau joining struct,0.10,Green
+wb uploading logs,0.12,Green
+aggregating chat,0.12,Green
+q3 task,0.12,Green
+syncing sprint,0.13,Green
+devops module,0.13,Green
+ytd creating service,0.12,Green
+b2g blocking bug,0.13,Green
+fw deserializing queue,0.12,Green
+hf building sprint,0.10,Green
+v1 paginating email,0.10,Green
+tls parsing ui,0.12,Green
+visualizing index,0.13,Green
+wb notifying class,0.10,Green
+csv field,0.13,Green
+grpc lambda,0.12,Green
+cloning script,0.12,Green
+pto graphing webhook,0.13,Green
+lmk documenting sprint,0.12,Green
+iirc monitoring table,0.12,Green
+dns,0.10,Green
+q4 paginating library,0.13,Green
+rfc method,0.12,Green
+ai fetching ticket,0.12,Green
+pto main,0.10,Green
+scaling subnet,0.10,Green
+valid scheduling standup,0.13,Green
+v4 alerting envvar,0.12,Green
+fixing schema,0.13,Green
+cdn drafting node,0.12,Green
+syncing email,0.10,Green
+tia alerting prod,0.12,Green
+signing epic,0.12,Green
+charting route,0.10,Green
+eom normalizing proxy,0.10,Green
+cli story,0.13,Green
+sso profiling envvar,0.10,Green
+nah restarting interface,0.13,Green
+v2 serializing node,0.12,Green
+valid mapping cert,0.10,Green
+ltv view,0.12,Green
+bbl serializing record,0.12,Green
+cli cluster,0.10,Green
+devops transforming schema,0.12,Green
+roi modifying master,0.13,Green
+nrn caching vpc,0.10,Green
+tldr monitoring master,0.10,Green
+cdn standup,0.10,Green
+formatting module,0.10,Green
+ops reading standup,0.12,Green
+importing pipeline,0.10,Green
+uat topic,0.12,Green
+nd,0.10,Green
+done linting staging,0.13,Green
+b2g charting job,0.12,Green
+sre mocking email,0.12,Green
+nah workflow,0.12,Green
+documenting container,0.13,Green
+lmk sending table,0.10,Green
+encrypting script,0.13,Green
+sdk replying topic,0.10,Green
+dau logging slack,0.10,Green
+rebooting image,0.12,Green
+cc logging code,0.12,Green
+nah namespace,0.12,Green
+importing retro,0.13,Green
+v3 deleting interface,0.13,Green
+sre patch,0.13,Green
+eom modifying event,0.12,Green
+restarting schema,0.10,Green
+lol view,0.13,Green
+ig sending standup,0.10,Green
+rest debugging index,0.13,Green
+valid me,0.13,Green
+wait struct,0.12,Green
+lol thread,0.12,Green
+nd image,0.12,Green
+hq monitoring epic,0.10,Green
+ai parsing container,0.13,Green
+svp enum,0.10,Green
+re env,0.12,Green
+fyi standup,0.10,Green
+copy rendering cluster,0.13,Green
+nbd updating dev,0.13,Green
+reading logs,0.12,Green
+pm task,0.10,Green
+q1 creating reqs,0.12,Green
+nbd patching method,0.10,Green
+meh task,0.10,Green
+ootb importing webhook,0.12,Green
+drafting secret,0.13,Green
+bcc vpc,0.13,Green
+b2b decrypting wiki,0.13,Green
+mfa cleaning envvar,0.10,Green
+csv hosting wiki,0.10,Green
+eoy ping queue,0.10,Green
+k approved image,0.13,Green
+ofc assigning cert,0.10,Green
+spawning thread,0.10,Green
+yep merge cert,0.10,Green
+sla demo,0.10,Green
+coo pipeline,0.10,Green
+arpu migrating workflow,0.10,Green
+v0 registry,0.13,Green
+csv,0.12,Green
+sql rejecting database,0.13,Green
+v2 teams,0.12,Green
+sla cleaning chat,0.13,Green
+wb forwarding pr,0.12,Green
+q4 deploying record,0.10,Green
+modifying doc,0.13,Green
+done alerting lambda,0.13,Green
+q2 reverting namespace,0.12,Green
+cd field,0.13,Green
+b2c app,0.13,Green
+afk querying app,0.10,Green
+devops cleaning meeting,0.13,Green
+wfh wiki,0.13,Green
+writing image,0.10,Green
+ok updating queue,0.10,Green
+ootb documenting namespace,0.12,Green
+wdym triggering ui,0.13,Green
+tldr encrypting endpoint,0.12,Green
+p3 graphing task,0.12,Green
+searching retro,0.10,Green
+fwiw feature,0.12,Green
+ga linting metrics,0.13,Green
+ssl visualizing endpoint,0.13,Green
+afk uploading call,0.13,Green
+smh merge module,0.10,Green
+v2 importing pod,0.10,Green
+ml table,0.13,Green
+re email,0.10,Green
+pto benchmarking microservice,0.13,Green
+sre webhook,0.10,Green
+sla sending instance,0.13,Green
+b2c,0.13,Green
+v4 monitoring webhook,0.12,Green
+ci linting feature,0.12,Green
+vp updating sprint,0.10,Green
+gl bug,0.10,Green
+v5 pulling query,0.13,Green
+v2 installing trunk,0.13,Green
+fya fixing hotfix,0.13,Green
+req graphing ticket,0.10,Green
+devops alerting workflow,0.13,Green
+brb notifying staging,0.12,Green
+ootb uploading env,0.12,Green
+sql,0.10,Green
+sso charting me,0.13,Green
+reading dev,0.12,Green
+okr paginating module,0.13,Green
+ofc chat,0.10,Green
+tldr logging sync,0.13,Green
+sdk closing module,0.12,Green
+triggering record,0.12,Green
+tbf spawning event,0.10,Green
+imo fixing branch,0.12,Green
+noted connecting bug,0.13,Green
+wdym record,0.12,Green
+linting prod,0.12,Green
+nah graphing event,0.10,Green
+eoy standup,0.12,Green
+cto verifying enum,0.13,Green
+lol prod,0.10,Green
+mfa app,0.13,Green
+ooo deleting module,0.10,Green
+d2c pushing namespace,0.12,Green
+p3 decrypting proxy,0.12,Green
+p0 optimizing field,0.12,Green
+sure story,0.13,Green
+k8s linting dev,0.10,Green
+nah,0.12,Green
+mom fixing struct,0.12,Green
+writing vpc,0.10,Green
+sla pipeline,0.13,Green
+wip,0.10,Green
+qoq server,0.10,Green
+fr forwarding epic,0.10,Green
+coo mapping pr,0.10,Green
+ops build,0.13,Green
+ci replying config,0.12,Green
+mapping ticket,0.12,Green
+wait reviewing reqs,0.13,Green
+bcc email,0.12,Green
+v2 indexing webhook,0.10,Green
+json refactoring lambda,0.13,Green
+v4 package,0.10,Green
+tldr workflow,0.12,Green
+decrypting node,0.10,Green
+arr,0.12,Green
+gtg archiving job,0.10,Green
+blocking route,0.10,Green
+asap mocking registry,0.10,Green
+iirc,0.13,Green
+k registering build,0.12,Green
+fw node,0.13,Green
+notifying field,0.10,Green
+nbd endpoint,0.10,Green
+k assigning struct,0.10,Green
+cdn ping standup,0.13,Green
+tls migrating main,0.12,Green
+uploading database,0.12,Green
+lmk charting firewall,0.12,Green
+transforming hotfix,0.13,Green
+bbs hosting proxy,0.10,Green
+poc cloning sync,0.12,Green
+q3 config,0.10,Green
+b2g,0.10,Green
+ltv monitoring proxy,0.13,Green
+hf assigning pod,0.10,Green
+v3 migrating chat,0.10,Green
+sql metrics,0.10,Green
+imo exporting image,0.12,Green
+eod auditing master,0.12,Green
+verifying microservice,0.12,Green
+asap hosting query,0.12,Green
+rc benchmarking task,0.12,Green
+merge metrics,0.12,Green
+tia database,0.10,Green
+d2c creating proxy,0.13,Green
+rnd resolving job,0.10,Green
+iirc scaling struct,0.13,Green
+tbd downloading cluster,0.10,Green
+sending struct,0.12,Green
+p0 deleting interface,0.13,Green
+fetching view,0.13,Green
+vip merge proxy,0.13,Green
+ga routing app,0.13,Green
+downloading backend,0.12,Green
+eoy optimizing field,0.12,Green
+roi cloning library,0.13,Green
+fwiw fixing pod,0.13,Green
+obv building repo,0.12,Green
+compiling webhook,0.10,Green
+summarizing spec,0.13,Green
+fetching retro,0.13,Green
+wfh reading lambda,0.12,Green
+p2 lambda,0.13,Green
+sdk replying api,0.10,Green
+k build,0.12,Green
+ctr parsing bug,0.12,Green
+p3 backend,0.13,Green
+cli pipeline,0.12,Green
+rsvp reviewing method,0.10,Green
+brb metrics,0.10,Green
+ml replying meeting,0.12,Green
+arr envvar,0.10,Green
+pushing metrics,0.10,Green
+fw testing subnet,0.13,Green
+v0 key,0.10,Green
+req artifact,0.13,Green
+formatting lambda,0.10,Green
+yoy dev,0.13,Green
+mau fixing teams,0.13,Green
+rfc deserializing workflow,0.12,Green
+d2c escalating patch,0.10,Green
+p1 installing config,0.13,Green
+rebooting pod,0.13,Green
+writing gateway,0.13,Green
+fw enum,0.13,Green
+assigning trunk,0.10,Green
+k summarizing queue,0.12,Green
+connecting logs,0.13,Green
+to method,0.13,Green
+tmr sync,0.13,Green
+roi importing cluster,0.10,Green
+logging enum,0.12,Green
+smh normalizing config,0.10,Green
+hq auditing function,0.10,Green
+nd downloading logs,0.10,Green
+gl logging instance,0.10,Green
+imho registering class,0.13,Green
+ytd view,0.12,Green
+lol validating task,0.12,Green
+json interface,0.13,Green
+lol,0.10,Green
+kk parsing main,0.12,Green
+mvp installing index,0.12,Green
+hq deploying firewall,0.12,Green
+devops auditing code,0.10,Green
+nbd charting patch,0.12,Green
+v3 api,0.12,Green
+nps slack,0.12,Green
+db querying doc,0.10,Green
+p3 presenting cert,0.13,Green
+pto installing code,0.12,Green
+bbl container,0.12,Green
+linting master,0.12,Green
+asap workflow,0.12,Green
+ops invoking system,0.12,Green
+profiling script,0.10,Green
+unblocking node,0.12,Green
+ok rejecting spec,0.10,Green
+routing demo,0.12,Green
+cleaning script,0.13,Green
+ok opening retro,0.12,Green
+fw restarting app,0.10,Green
+rnd subscribing hotfix,0.13,Green
+compiling service,0.13,Green
+p2 compiling patch,0.13,Green
+bcc fetching topic,0.10,Green
+imho build,0.13,Green
+sre assigning cloud,0.13,Green
+rnd syncing cert,0.13,Green
+roi visualizing node,0.13,Green
+req container,0.10,Green
+ctr table,0.13,Green
+q4 restarting meeting,0.13,Green
+ts sending cert,0.13,Green
+drafting schema,0.13,Green
+tbd normalizing method,0.13,Green
+lgtm check class,0.13,Green
+querying record,0.10,Green
+rnd runtime,0.12,Green
+imho,0.10,Green
+reviewing database,0.12,Green
+lgtm migrating lambda,0.13,Green
+v2 cleaning chat,0.13,Green
+p1 tracking code,0.10,Green
+lol closing view,0.13,Green
+q2 connecting instance,0.12,Green
+fr assigning microservice,0.10,Green
+triggering microservice,0.13,Green
+visualizing email,0.13,Green
+alerting wiki,0.10,Green
+afk tracking key,0.13,Green
+b2b,0.13,Green
+rsvp formatting staging,0.10,Green
+cto connecting container,0.13,Green
+yoy alerting node,0.13,Green
+qoq cert,0.10,Green
+mau reverting app,0.12,Green
+cc searching envvar,0.13,Green
+reading secret,0.12,Green
+smh triggering registry,0.10,Green
+kk subscribing retro,0.10,Green
+rsvp spawning endpoint,0.13,Green
+arr joining enum,0.10,Green
+wb query,0.12,Green
+deleting token,0.10,Green
+q3 meeting,0.13,Green
+resolving sprint,0.13,Green
+syncing image,0.13,Green
+afk scheduling cert,0.13,Green
+v0 aggregating server,0.10,Green
+yep migrating pr,0.13,Green
+fw indexing instance,0.12,Green
+cd pr,0.12,Green
+v5 cloning lambda,0.13,Green
+syncing envvar,0.12,Green
+eta charting call,0.10,Green
+nps verifying library,0.12,Green
+nbd triggering schema,0.13,Green
+eta tracking query,0.12,Green
+compiling reqs,0.13,Green
+triggering view,0.12,Green
+reviewing field,0.10,Green
+obv subscribing container,0.10,Green
+check topic,0.12,Green
+arpu approving script,0.10,Green
+db cloning epic,0.12,Green
+syncing frontend,0.13,Green
+v1 rejecting master,0.10,Green
+ssl resolving route,0.13,Green
+roi deserializing interface,0.13,Green
+tia story,0.10,Green
+fwiw uploading table,0.13,Green
+nrn doc,0.10,Green
+scheduling repo,0.13,Green
+ngl searching database,0.12,Green
+cdn notifying system,0.10,Green
+lol function,0.12,Green
+syncing webhook,0.12,Green
+rejecting frontend,0.10,Green
+wb caching gateway,0.12,Green
+json migrating field,0.13,Green
+uat ticket,0.12,Green
+ok normalizing staging,0.12,Green
+lol aggregating webhook,0.12,Green
+eod encrypting metrics,0.10,Green
+yoy ping repo,0.12,Green
+assigning repo,0.13,Green
+kk registering dev,0.10,Green
+brb migrating namespace,0.13,Green
+eod routing me,0.10,Green
+modifying schema,0.10,Green
+fetching sync,0.10,Green
+imo story,0.13,Green
+cloning epic,0.10,Green
+ga visualizing gateway,0.10,Green
+logging cloud,0.12,Green
+meh tracking feature,0.12,Green
+sla registering code,0.12,Green
+fetching artifact,0.10,Green
+connecting index,0.10,Green
+auditing bug,0.10,Green
+mom approved event,0.10,Green
+testing record,0.12,Green
+js joining config,0.12,Green
+ack alerting event,0.13,Green
+json alerting ui,0.12,Green
+cli migrating struct,0.12,Green
+ga merge meeting,0.10,Green
+nsfw linting patch,0.10,Green
+rfc me,0.13,Green
+k topic,0.13,Green
+check repo,0.12,Green
+gtg replying system,0.13,Green
+lgtm system,0.10,Green
+svp connecting service,0.10,Green
+decrypting pod,0.13,Green
+qoq spec,0.12,Green
+q1 querying index,0.13,Green
+d2c modifying microservice,0.12,Green
+tldr module,0.10,Green
+wfh connecting env,0.10,Green
+re,0.13,Green
+uat metrics,0.12,Green
+rest call,0.13,Green
+ftr testing cluster,0.10,Green
+tls querying view,0.10,Green
+rc alerting secret,0.10,Green
+p2 updating database,0.10,Green
+rsvp invoking sprint,0.10,Green
+creating master,0.13,Green
+grpc gateway,0.10,Green
+dns schema,0.12,Green
+v4 normalizing workflow,0.13,Green
+p3 rendering key,0.12,Green
+cr registering gateway,0.12,Green
+p0 prod,0.12,Green
+grpc compiling branch,0.12,Green
+nd optimizing ui,0.13,Green
+rnd deploying doc,0.10,Green
+ama task,0.13,Green
+cac registry,0.10,Green
+hq assigning route,0.13,Green
+cdn scaling frontend,0.13,Green
+approving function,0.12,Green
+sfw blocking instance,0.12,Green
+ctr summarizing field,0.10,Green
+kk patching config,0.10,Green
+poc cloning struct,0.12,Green
+iirc testing me,0.10,Green
+d2c serializing thread,0.10,Green
+wb routing staging,0.12,Green
+tbd reviewing retro,0.13,Green
+searching workflow,0.12,Green
+eow archiving sync,0.10,Green
+analyzing module,0.10,Green
+sql frontend,0.12,Green
+ctr approving vpc,0.13,Green
+v5 drafting gateway,0.13,Green
+afaik mocking image,0.12,Green
+testing enum,0.12,Green
+nrn validating namespace,0.13,Green
+imo connecting cloud,0.12,Green
+kk creating pr,0.12,Green
+ltv story,0.12,Green
+q3 downloading artifact,0.10,Green
+sdk analyzing master,0.10,Green
+pto fixing vpc,0.12,Green
+nrn committing me,0.13,Green
+ml token,0.12,Green
+vm escalating hotfix,0.13,Green
+cob syncing event,0.13,Green
+installing envvar,0.13,Green
+pulling wiki,0.12,Green
+eoq assigning script,0.10,Green
+check task,0.13,Green
+visualizing retro,0.10,Green
+sev2 workflow,0.10,Green
+rfc profiling image,0.12,Green
+ts standup,0.12,Green
+rsvp auditing query,0.12,Green
+cleaning interface,0.10,Green
+kpi service,0.13,Green
+tbd serializing token,0.12,Green
+merge staging,0.10,Green
+noted decrypting struct,0.10,Green
+rsvp uploading container,0.13,Green
+yep registry,0.12,Green
+sre parsing workflow,0.13,Green
+grpc updating endpoint,0.13,Green
+cli exporting standup,0.13,Green
+dns installing webhook,0.13,Green
+svp,0.13,Green
+ack system,0.10,Green
+fya proxy,0.13,Green
+sure refactoring sync,0.10,Green
+smh cluster,0.12,Green
+hq registering cluster,0.12,Green
+gl downloading email,0.12,Green
+wfh interface,0.13,Green
+reverting api,0.12,Green
+notifying logs,0.10,Green
+to rebooting vpc,0.13,Green
+v0 alerting framework,0.13,Green
+hf deploying trunk,0.12,Green
+imo tracking server,0.12,Green
+sure auditing sprint,0.13,Green
+wfh indexing registry,0.10,Green
+v0 mapping registry,0.10,Green
+nah serializing database,0.10,Green
+wip spawning gateway,0.10,Green
+nrn service,0.10,Green
+yep parsing framework,0.13,Green
+eoq filtering sprint,0.13,Green
+nrn call,0.12,Green
+drafting workflow,0.10,Green
+wfh function,0.10,Green
+tldr migrating patch,0.12,Green
+ci reverting container,0.10,Green
+afaik normalizing slack,0.12,Green
+meh,0.12,Green
+mvp call,0.10,Green
+mau lambda,0.12,Green
+ga triggering trunk,0.12,Green
+p3 dev,0.10,Green
+iirc patch,0.10,Green
+nd logs,0.12,Green
+fyi refactoring call,0.13,Green
+pm teams,0.12,Green
+cli formatting app,0.13,Green
+p3 summarizing feature,0.10,Green
+tbf transforming patch,0.13,Green
+smh namespace,0.10,Green
+arpu triggering database,0.13,Green
+dau endpoint,0.13,Green
+imo filtering bug,0.13,Green
+ootb deserializing workflow,0.13,Green
+nbd invoking logs,0.13,Green
+to verifying cloud,0.13,Green
+visualizing ui,0.13,Green
+poc replying firewall,0.12,Green
+gtg demo,0.13,Green
+v5 committing pod,0.10,Green
+ig joining gateway,0.13,Green
+wip restarting service,0.10,Green
+ctr escalating database,0.12,Green
+p0 route,0.13,Green
+mfa library,0.13,Green
+k8s build,0.13,Green
+cd topic,0.12,Green
+vip tokenizing struct,0.13,Green
+d2c updating code,0.12,Green
+tmr reverting teams,0.13,Green
+tia formatting standup,0.12,Green
+vip drafting image,0.10,Green
+gl check cluster,0.12,Green
+cob repo,0.10,Green
+committing epic,0.12,Green
+vm scaling queue,0.10,Green
+ofc debugging image,0.12,Green
+deserializing me,0.13,Green
+ltv modifying query,0.12,Green
+escalating me,0.10,Green
+hq fixing table,0.13,Green
+grpc task,0.10,Green
+fw linting dev,0.10,Green
+k8s validating runtime,0.10,Green
+cli fetching proxy,0.13,Green
+roi validating feature,0.12,Green
+csv encrypting container,0.12,Green
+cd exporting artifact,0.12,Green
+cli filtering key,0.13,Green
+fwiw sprint,0.13,Green
+valid testing metrics,0.10,Green
+sfw pushing route,0.13,Green
+mom forwarding hotfix,0.10,Green
+arpu reverting field,0.10,Green
+cli,0.10,Green
+decrypting topic,0.12,Green
+arpu reverting library,0.10,Green
+yoy unblocking cloud,0.10,Green
+gtg routing secret,0.12,Green
+cli exporting struct,0.12,Green
+ooo compiling staging,0.12,Green
+nsfw compiling server,0.10,Green
+deleting script,0.10,Green
+q3 merge slack,0.10,Green
+cac,0.13,Green
+fya registering epic,0.13,Green
+unblocking enum,0.13,Green
+b2c runtime,0.10,Green
+wip closing bug,0.10,Green
+eow approved config,0.12,Green
+cac build,0.10,Green
+bcc blocking api,0.10,Green
+yep joining retro,0.10,Green
+q1 teams,0.13,Green
+k assigning firewall,0.10,Green
+sorting sync,0.12,Green
+mapping feature,0.13,Green
+rc table,0.12,Green
+brb subscribing topic,0.10,Green
+rnd cleaning namespace,0.12,Green
+fr parsing endpoint,0.13,Green
+tldr closing epic,0.13,Green
+parsing retro,0.10,Green
+arpu lambda,0.13,Green
+p2 building method,0.10,Green
+sure paginating vpc,0.10,Green
+ama importing logs,0.12,Green
+nah routing struct,0.12,Green
+obv patching struct,0.13,Green
+ci closing me,0.12,Green
+re parsing namespace,0.12,Green
+smh enum,0.13,Green
+formatting database,0.10,Green
+json pr,0.13,Green
+ftr linting node,0.12,Green
+ltv aggregating staging,0.13,Green
+sso compiling demo,0.10,Green
+cto wiki,0.12,Green
+ack routing ticket,0.12,Green
+ooo library,0.12,Green
+fwiw archiving firewall,0.12,Green
+eod,0.12,Green
+b2b pod,0.10,Green
+valid pulling class,0.13,Green
+dns rebooting staging,0.10,Green
+rc validating record,0.10,Green
+cto logging logs,0.10,Green
+nah linting query,0.12,Green
+noted deploying lambda,0.10,Green
+k spawning artifact,0.12,Green
+ops database,0.10,Green
+d2c paginating interface,0.13,Green
+updating doc,0.13,Green
+ts linting envvar,0.13,Green
+mom check view,0.12,Green
+p3 resolving main,0.10,Green
+pulling bug,0.12,Green
+devops scaling package,0.10,Green
+ack replying index,0.13,Green
+iirc pr,0.10,Green
+req filtering pod,0.13,Green
+logging topic,0.13,Green
+sev2 ui,0.12,Green
+ga library,0.12,Green
+vpn proxy,0.13,Green
+eta me,0.12,Green
+pto config,0.10,Green
+rsvp spawning slack,0.13,Green
+fyi task,0.12,Green
+p0 approved pr,0.12,Green
+patching library,0.13,Green
+ts compiling secret,0.10,Green
+ops routing task,0.10,Green
+eod reviewing workflow,0.12,Green
+mom debugging demo,0.13,Green
+afaik benchmarking sprint,0.10,Green
+bbs debugging index,0.13,Green
+importing pr,0.12,Green
+sure instance,0.13,Green
+routing token,0.10,Green
+cdn blocking patch,0.12,Green
+req testing thread,0.10,Green
+deleting struct,0.10,Green
+nps env,0.10,Green
+ux parsing ticket,0.12,Green
+querying event,0.10,Green
+ofc code,0.13,Green
+imho summarizing library,0.10,Green
+done downloading queue,0.13,Green
+afaik main,0.12,Green
+cc uploading code,0.13,Green
+nbd envvar,0.10,Green
+valid vpc,0.12,Green
+migrating gateway,0.12,Green
+nd opening server,0.13,Green
+logging task,0.12,Green
+logging node,0.12,Green
+p0 schema,0.12,Green
+tokenizing workflow,0.12,Green
+ai triggering demo,0.12,Green
+sev2 cleaning feature,0.12,Green
+sfw approved chat,0.13,Green
+gtg approved reqs,0.12,Green
+replying secret,0.13,Green
+ai trunk,0.13,Green
+k8s schema,0.13,Green
+devops restarting retro,0.13,Green
+formatting retro,0.10,Green
+noted hosting method,0.12,Green
+uploading secret,0.12,Green
+v5 pushing meeting,0.12,Green
+wait secret,0.10,Green
+rsvp alerting vpc,0.12,Green
+devops paginating email,0.13,Green
+nsfw fixing route,0.12,Green
+lmk service,0.10,Green
+alerting logs,0.13,Green
+ai importing database,0.12,Green
+wdym unblocking view,0.10,Green
+b2b main,0.12,Green
+fyi logging enum,0.13,Green
+mfa me,0.13,Green
+v5,0.10,Green
+sla logs,0.12,Green
+eod master,0.12,Green
+cc approved meeting,0.13,Green
+uat reviewing class,0.13,Green
+wip mapping metrics,0.12,Green
+exporting api,0.13,Green
+smh workflow,0.12,Green
+yoy analyzing package,0.13,Green
+d2c,0.12,Green
+mom container,0.12,Green
+nbd opening script,0.13,Green
+arpu restarting microservice,0.12,Green
+cc task,0.10,Green
+fwiw job,0.10,Green
+eod namespace,0.10,Green
+cr,0.12,Green
+v4 parsing route,0.10,Green
+ga spawning event,0.12,Green
+lmk joining library,0.10,Green
+nbd app,0.13,Green
+roi decrypting demo,0.12,Green
+q2 instance,0.10,Green
+valid formatting function,0.10,Green
+sev2 searching node,0.13,Green
+q1 script,0.10,Green
+nps visualizing proxy,0.13,Green
+d2c patching meeting,0.10,Green
+afk pr,0.12,Green
+q3 registry,0.10,Green
+v4 documenting feature,0.12,Green
+ngl rejecting artifact,0.12,Green
+v5 assigning spec,0.13,Green
+bbs scheduling module,0.13,Green
+v4 closing slack,0.13,Green
+rejecting endpoint,0.10,Green
+kk patching field,0.13,Green
+mvp graphing doc,0.10,Green
+q1 deserializing artifact,0.12,Green
+q4 call,0.10,Green
+bbl writing teams,0.13,Green
+patching bug,0.10,Green
+ctr transforming main,0.13,Green
+eom,0.10,Green
+rest notifying gateway,0.12,Green
+invoking prod,0.13,Green
+meh approving config,0.12,Green
+imo rebooting field,0.13,Green
+sre charting subnet,0.10,Green
+nps validating service,0.13,Green
+uploading email,0.12,Green
+ltv caching teams,0.10,Green
+qa alerting cert,0.10,Green
+cdn app,0.12,Green
+nsfw patch,0.10,Green
+nsfw analyzing query,0.12,Green
+mapping field,0.10,Green
+ssl pulling namespace,0.10,Green
+q2 blocking topic,0.13,Green
+sfw,0.10,Green
+okr indexing container,0.13,Green
+cli patch,0.10,Green
+tldr committing class,0.13,Green
+ltv profiling config,0.10,Green
+cr sending method,0.10,Green
+mrr validating instance,0.10,Green
+wip deploying enum,0.13,Green
+tldr building backend,0.12,Green
+nbd downloading chat,0.10,Green
+paginating app,0.10,Green
+ssl subscribing sync,0.12,Green
+nd cert,0.12,Green
+p3 rejecting thread,0.12,Green
+hq registry,0.10,Green
+sql optimizing token,0.10,Green
+vp subnet,0.12,Green
+okr tracking index,0.12,Green
+charting env,0.10,Green
+bbl escalating env,0.10,Green
+sla monitoring database,0.10,Green
+sql reviewing struct,0.13,Green
+ama wiki,0.10,Green
+v5 subscribing schema,0.10,Green
+tbf ticket,0.12,Green
+fyi installing class,0.13,Green
+patching thread,0.12,Green
+b2c fetching reqs,0.10,Green
+eom tokenizing server,0.10,Green
+kk resolving pod,0.13,Green
+roi downloading namespace,0.13,Green
+eoy creating cloud,0.10,Green
+hf modifying teams,0.12,Green
+svp pushing doc,0.13,Green
+js index,0.12,Green
+svp signing dev,0.13,Green
+ack validating endpoint,0.12,Green
+sure filtering vpc,0.12,Green
+kpi cleaning chat,0.10,Green
+copy charting instance,0.10,Green
+vpn field,0.10,Green
+hf proxy,0.10,Green
+mfa mocking patch,0.12,Green
+ai function,0.13,Green
+ngl,0.12,Green
+nsfw logging chat,0.13,Green
+vm notifying api,0.12,Green
+coo fetching trunk,0.10,Green
+scheduling prod,0.10,Green
+sure forwarding workflow,0.10,Green
+ux writing firewall,0.10,Green
+v5 triggering email,0.13,Green
+p3 event,0.10,Green
+rsvp reading vpc,0.10,Green
+afk testing firewall,0.10,Green
+tbf pulling code,0.10,Green
+optimizing index,0.12,Green
+tmr building sync,0.13,Green
+q1 image,0.13,Green
+obv library,0.12,Green
+kpi syncing reqs,0.10,Green
+mrr,0.13,Green
+cac envvar,0.12,Green
+b2g module,0.12,Green
+ngl repo,0.12,Green
+meh cert,0.10,Green
+k8s rebooting queue,0.12,Green
+ux committing pr,0.13,Green
+eod logs,0.13,Green
+v0 sync,0.12,Green
+ngl meeting,0.13,Green
+ytd fetching artifact,0.12,Green
+v5 creating repo,0.12,Green
+cleaning wiki,0.12,Green
+cdn charting lambda,0.13,Green
+tbf hosting schema,0.12,Green
+k8s api,0.10,Green
+bcc spawning bug,0.12,Green
+tls hotfix,0.12,Green
+forwarding chat,0.12,Green
+nrn alerting pod,0.12,Green
+cr node,0.10,Green
+csv env,0.13,Green
+okr cloning package,0.10,Green
+ofc presenting slack,0.12,Green
+sfw transforming master,0.12,Green
+to creating sprint,0.13,Green
+scaling proxy,0.12,Green
+rest routing main,0.12,Green
+d2c sorting epic,0.12,Green
+q4 sprint,0.10,Green
+okr resolving dev,0.12,Green
+ai presenting thread,0.13,Green
+normalizing patch,0.10,Green
+sre,0.10,Green
+eoq scheduling pr,0.13,Green
+wait normalizing enum,0.12,Green
+vm api,0.13,Green
+ofc forwarding task,0.13,Green
+fyi retro,0.12,Green
+afk rebooting runtime,0.12,Green
+q4 webhook,0.12,Green
+sending secret,0.10,Green
+nsfw cloning schema,0.12,Green
+cr scheduling artifact,0.10,Green
+encrypting retro,0.13,Green
+ltv graphing queue,0.12,Green
+tls record,0.12,Green
+b2c serializing vpc,0.13,Green
+rest importing runtime,0.10,Green
+mom,0.13,Green
+tmr,0.13,Green
+ping namespace,0.12,Green
+fr story,0.13,Green
+forwarding sync,0.10,Green
+wfh,0.13,Green
+ga hosting field,0.10,Green
+ml registering topic,0.13,Green
+bbs transforming prod,0.13,Green
+eow benchmarking story,0.10,Green
+nah charting me,0.12,Green
+qoq resolving call,0.10,Green
+tia sorting lambda,0.13,Green
+to installing pod,0.12,Green
+eom caching build,0.10,Green
+drafting build,0.12,Green
+bcc me,0.12,Green
+q2 encrypting pipeline,0.13,Green
+bbl filtering image,0.10,Green
+gl searching patch,0.12,Green
+blocking config,0.10,Green
+ama cloud,0.12,Green
+eoq triggering pipeline,0.13,Green
+cc documenting image,0.10,Green
+creating route,0.10,Green
+svp invoking enum,0.12,Green
+sfw building interface,0.13,Green
+kpi routing backend,0.12,Green
+p1 sorting framework,0.13,Green
+approved call,0.10,Green
+b2c field,0.13,Green
+smh connecting webhook,0.12,Green
+wfh registering script,0.10,Green
+eom scaling spec,0.12,Green
+afaik connecting frontend,0.12,Green
+v2 notifying framework,0.10,Green
+smh optimizing microservice,0.12,Green
+p2 repo,0.12,Green
+vpn approving pipeline,0.10,Green
+tbf testing standup,0.13,Green
+ssl scheduling query,0.10,Green
+b2g visualizing job,0.12,Green
+logging workflow,0.12,Green
+gl,0.10,Green
+sending package,0.12,Green
+meh method,0.10,Green
+encrypting job,0.13,Green
+cd unblocking node,0.13,Green
+db framework,0.13,Green
+eow subnet,0.12,Green
+mom assigning repo,0.10,Green
+tbd pulling registry,0.10,Green
+poc auditing script,0.13,Green
+yoy rebooting query,0.10,Green
+done,0.10,Green
+mocking demo,0.13,Green
+copy backend,0.10,Green
+eoy node,0.13,Green
+wb pulling envvar,0.12,Green
+noted forwarding system,0.10,Green
+smh joining me,0.13,Green
+smh token,0.10,Green
+sending trunk,0.12,Green
+ngl signing struct,0.10,Green
+cc code,0.10,Green
+lol pulling cert,0.13,Green
+tbf scheduling schema,0.12,Green
+linting route,0.13,Green
+sfw system,0.10,Green
+ci secret,0.12,Green
+q4 cloning staging,0.12,Green
+k mocking build,0.13,Green
+fya committing spec,0.13,Green
+mau me,0.10,Green
+indexing code,0.10,Green
+rfc,0.12,Green
+cac importing enum,0.10,Green
+eom app,0.10,Green
+reverting build,0.12,Green
+v0 spawning workflow,0.12,Green
+sql app,0.10,Green
+profiling interface,0.12,Green
+rnd formatting code,0.12,Green
+sre token,0.12,Green
+tls reverting staging,0.12,Green
+coo encrypting ui,0.10,Green
+ops decrypting metrics,0.12,Green
+cto query,0.10,Green
+merge image,0.13,Green
+lgtm creating microservice,0.10,Green
+nps,0.10,Green
+nd compiling me,0.10,Green
+sev2 exporting function,0.12,Green
+mrr tokenizing task,0.13,Green
+mau service,0.13,Green
+d2c assigning struct,0.13,Green
+refactoring meeting,0.10,Green
+ci mapping branch,0.12,Green
+documenting lambda,0.10,Green
+resolving thread,0.12,Green
+aggregating firewall,0.13,Green
+heard deleting class,0.12,Green
+arr patching metrics,0.10,Green
+nrn aggregating server,0.13,Green
+nd deserializing struct,0.10,Green
+cr graphing retro,0.13,Green
+js mapping ui,0.13,Green
+rc ping key,0.12,Green
+testing lambda,0.13,Green
+pulling library,0.10,Green
+nbd deploying pipeline,0.12,Green
+p3 serializing topic,0.12,Green
+b2b story,0.10,Green
+to,0.10,Green
+ltv routing thread,0.10,Green
+ootb modifying hotfix,0.13,Green
+rfc deleting master,0.13,Green
+yep vpc,0.10,Green
+searching main,0.13,Green
+re method,0.12,Green
+ytd logging pipeline,0.12,Green
+nps pipeline,0.13,Green
+ltv invoking workflow,0.10,Green
+fwiw tracking microservice,0.13,Green
+kpi approved container,0.10,Green
+summarizing prod,0.13,Green
+coo escalating main,0.12,Green
+nah archiving workflow,0.10,Green
+ngl node,0.13,Green
+q2 build,0.10,Green
+closing route,0.12,Green
+nbd image,0.13,Green
+kk fetching framework,0.12,Green
+hq key,0.12,Green
+tokenizing call,0.10,Green
+nsfw schema,0.10,Green
+cd rejecting method,0.10,Green
+heard charting class,0.10,Green
+rnd compiling vpc,0.13,Green
+v3 approved event,0.13,Green
+nps sorting backend,0.13,Green
+mfa analyzing staging,0.10,Green
+installing query,0.13,Green
+drafting package,0.13,Green
+drafting meeting,0.10,Green
+arr charting spec,0.10,Green
+grpc fetching index,0.13,Green
+mfa database,0.10,Green
+cob deleting image,0.12,Green
+building endpoint,0.12,Green
+devops signing firewall,0.13,Green
+uat profiling container,0.13,Green
+vm prod,0.10,Green
+sdk closing spec,0.13,Green
+fr paginating workflow,0.13,Green
+nps trunk,0.12,Green
+nd pr,0.10,Green
+arpu mocking gateway,0.13,Green
+afk deploying workflow,0.10,Green
+b2g registering branch,0.12,Green
+fw pushing bug,0.13,Green
+rsvp importing server,0.13,Green
+b2c scaling script,0.13,Green
+p3 summarizing queue,0.12,Green
+pm forwarding demo,0.10,Green
+heard master,0.12,Green
+smh env,0.10,Green
+parsing feature,0.12,Green
+sre resolving sync,0.13,Green
+lol reviewing workflow,0.12,Green
+bbl presenting workflow,0.12,Green
+hf validating retro,0.12,Green
+k committing bug,0.10,Green
+ltv aggregating ui,0.12,Green
+scaling email,0.10,Green
+drafting backend,0.12,Green
+wait reading key,0.10,Green
+nd spawning api,0.10,Green
+k8s caching thread,0.12,Green
+wb mapping retro,0.12,Green
+q3 bug,0.10,Green
+eoy triggering image,0.10,Green
+afaik refactoring standup,0.13,Green
+cob graphing app,0.13,Green
+mfa merge metrics,0.13,Green
+eow pulling wiki,0.10,Green
+qa importing sprint,0.10,Green
+bbs scheduling thread,0.13,Green
+b2g connecting job,0.12,Green
+imho joining queue,0.13,Green
+asap logging workflow,0.12,Green
+yoy signing trunk,0.13,Green
+ftr subnet,0.12,Green
+lmk refactoring doc,0.12,Green
+p0 instance,0.13,Green
+ngl queue,0.12,Green
+wip triggering env,0.10,Green
+analyzing token,0.12,Green
+k patching firewall,0.13,Green
+ux encrypting view,0.13,Green
+sla job,0.12,Green
+eoy metrics,0.13,Green
+ooo webhook,0.10,Green
+testing microservice,0.12,Green
+js archiving system,0.10,Green
+deploying view,0.10,Green
+sev1 envvar,0.12,Green
+svp registering queue,0.10,Green
+yoy signing index,0.12,Green
+tbf node,0.10,Green
+sfw reverting metrics,0.13,Green
+lgtm alerting meeting,0.10,Green
+ofc event,0.12,Green
+yep library,0.13,Green
+rest linting firewall,0.12,Green
+cleaning lambda,0.10,Green
+nsfw visualizing reqs,0.13,Green
+vp invoking sprint,0.13,Green
+ooo fixing class,0.13,Green
+okr spec,0.10,Green
+to transforming epic,0.13,Green
+qa closing hotfix,0.12,Green
+ooo method,0.10,Green
+wip backend,0.13,Green
+nrn forwarding meeting,0.12,Green
+sql pr,0.12,Green
+testing job,0.10,Green
+rejecting microservice,0.10,Green
+fw restarting instance,0.13,Green
+ml prod,0.12,Green
+bcc opening container,0.10,Green
+done scheduling config,0.10,Green
+d2c notifying env,0.10,Green
+sure linting queue,0.10,Green
+mau table,0.10,Green
+devops scheduling table,0.10,Green
+hq fixing lambda,0.10,Green
+lol logging topic,0.10,Green
+ltv summarizing task,0.13,Green
+tbf key,0.12,Green
+rest service,0.12,Green
+kk hotfix,0.10,Green
+b2c endpoint,0.12,Green
+ama refactoring dev,0.12,Green
+q2 verifying logs,0.12,Green
+yoy serializing service,0.12,Green
+qoq event,0.10,Green
+sql api,0.12,Green
+roi cluster,0.10,Green
+ai,0.13,Green
+p3 closing interface,0.12,Green
+mau filtering cloud,0.13,Green
+pto approved library,0.10,Green
+benchmarking database,0.12,Green
+brb modifying config,0.10,Green
+ga rejecting sync,0.13,Green
+p0 tokenizing branch,0.10,Green
+committing backend,0.13,Green
+ctr registering envvar,0.13,Green
+ftr profiling event,0.13,Green
+imo api,0.12,Green
+nps documenting feature,0.10,Green
+ux cleaning pipeline,0.13,Green
+analyzing view,0.10,Green
+v3 check artifact,0.10,Green
+copy sorting topic,0.10,Green
+cto exporting repo,0.12,Green
+eod serializing lambda,0.13,Green
+formatting schema,0.13,Green
+p0 deploying framework,0.10,Green
+d2c serializing ui,0.12,Green
+check code,0.10,Green
+ltv importing token,0.10,Green
+sev2 modifying epic,0.10,Green
+fetching runtime,0.13,Green
+ig benchmarking logs,0.12,Green
+vpn tracking cert,0.12,Green
+wb env,0.13,Green
+coo sending library,0.13,Green
+sure notifying queue,0.12,Green
+decrypting artifact,0.10,Green
+ssl approving query,0.13,Green
+summarizing endpoint,0.10,Green
+brb index,0.13,Green
+nsfw,0.13,Green
+tia master,0.13,Green
+bbs debugging lambda,0.13,Green
+assigning module,0.12,Green
+subscribing script,0.12,Green
+qoq blocking code,0.10,Green
+cob caching repo,0.10,Green
+arr normalizing firewall,0.10,Green
+eod rendering sprint,0.13,Green
+yep record,0.13,Green
+cac joining sprint,0.13,Green
+validating record,0.10,Green
+eta pod,0.13,Green
+mfa committing workflow,0.13,Green
+bcc tokenizing epic,0.13,Green
+refactoring workflow,0.12,Green
+mfa lambda,0.13,Green
+q1 approving gateway,0.10,Green
+cac framework,0.10,Green
+v2 filtering branch,0.10,Green
+assigning envvar,0.12,Green
+cac deleting query,0.10,Green
+ootb decrypting config,0.13,Green
+v3 summarizing framework,0.10,Green
+downloading bug,0.10,Green
+ig registering pr,0.13,Green
+devops encrypting table,0.10,Green
+gl benchmarking patch,0.13,Green
+p3 registering slack,0.10,Green
+registering doc,0.10,Green
+monitoring patch,0.10,Green
+sdk summarizing lambda,0.10,Green
+ci refactoring framework,0.13,Green
+updating pipeline,0.10,Green
+to benchmarking logs,0.10,Green
+obv assigning chat,0.12,Green
+charting firewall,0.13,Green
+wb opening feature,0.10,Green
+gl deploying demo,0.13,Green
+b2g app,0.12,Green
+rsvp updating sprint,0.10,Green
+tldr archiving endpoint,0.13,Green
+ftr patching spec,0.10,Green
+v5 merge feature,0.13,Green
+q4 merge staging,0.13,Green
+cdn approving class,0.10,Green
+csv scheduling method,0.12,Green
+cto creating class,0.10,Green
+deleting function,0.12,Green
+asap signing sync,0.10,Green
+bbs resolving firewall,0.10,Green
+cc repo,0.13,Green
+v3 serializing microservice,0.12,Green
+sla verifying ticket,0.13,Green
+dau merge code,0.12,Green
+wdym committing library,0.10,Green
+hosting epic,0.13,Green
+vpn archiving repo,0.13,Green
+fya package,0.10,Green
+pto doc,0.12,Green
+eoq wiki,0.12,Green
+ai documenting patch,0.13,Green
+p3,0.12,Green
+ops env,0.12,Green
+sla pulling main,0.12,Green
+asap patching microservice,0.13,Green
+rest transforming vpc,0.13,Green
+deserializing doc,0.13,Green
+debugging standup,0.13,Green
+v4 spawning function,0.13,Green
+cdn syncing function,0.13,Green
+mocking event,0.10,Green
+fya escalating service,0.10,Green
+nps patching patch,0.12,Green
+routing feature,0.12,Green
+spawning dev,0.13,Green
+rest deserializing node,0.13,Green
+ml event,0.10,Green
+okr validating hotfix,0.13,Green
+uat sprint,0.13,Green
+bbs app,0.13,Green
+k cluster,0.12,Green
+p0 scheduling hotfix,0.13,Green
+nps rendering master,0.12,Green
+signing teams,0.10,Green
+arr thread,0.10,Green
+kpi,0.10,Green
+fyi index,0.12,Green
+bbs forwarding master,0.13,Green
+arr notifying wiki,0.12,Green
+tldr replying epic,0.13,Green
+nrn pushing enum,0.12,Green
+mau benchmarking enum,0.13,Green
+nah job,0.10,Green
+cob chat,0.13,Green
+qoq build,0.13,Green
+building container,0.12,Green
+wb envvar,0.10,Green
+lgtm updating staging,0.10,Green
+check main,0.12,Green
+arr querying secret,0.13,Green
+filtering node,0.10,Green
+hf cert,0.12,Green
+sql writing cert,0.10,Green
+subscribing retro,0.13,Green
+nbd charting chat,0.10,Green
+monitoring build,0.12,Green
+indexing doc,0.13,Green
+validating queue,0.12,Green
+ssl cluster,0.10,Green
+roi approved server,0.13,Green
+eod replying config,0.12,Green
+okr exporting library,0.13,Green
+iirc story,0.10,Green
+exporting function,0.13,Green
+tldr charting record,0.12,Green
+kpi profiling script,0.10,Green
+cac caching demo,0.10,Green
+mfa transforming artifact,0.12,Green
+nrn paginating code,0.10,Green
+mfa routing patch,0.10,Green
+grpc pulling job,0.12,Green
+kpi charting retro,0.13,Green
+refactoring pod,0.13,Green
+ok function,0.12,Green
+mapping retro,0.13,Green
+json master,0.10,Green
+svp service,0.10,Green
+qoq email,0.12,Green
+json parsing prod,0.12,Green
+sev2 doc,0.10,Green
+p2 app,0.12,Green
+js resolving email,0.12,Green
+ga installing hotfix,0.13,Green
+devops deploying firewall,0.13,Green
+ga,0.13,Green
+nps normalizing subnet,0.10,Green
+meh building call,0.10,Green
+gl cleaning story,0.10,Green
+patching table,0.12,Green
+ops check module,0.13,Green
+eow refactoring library,0.10,Green
+ga analyzing key,0.10,Green
+replying firewall,0.12,Green
+bbl reading registry,0.13,Green
+vp logs,0.13,Green
+bbl blocking backend,0.12,Green
+mfa encrypting container,0.12,Green
+k8s merge database,0.13,Green
+cob backend,0.10,Green
+req tracking job,0.12,Green
+kpi alerting cluster,0.12,Green
+q1 sending sync,0.12,Green
+cc enum,0.13,Green
+vp documenting patch,0.13,Green
+req reading standup,0.12,Green
+archiving job,0.10,Green
+eow,0.13,Green
+visualizing cloud,0.10,Green
+ltv,0.10,Green
+routing class,0.10,Green
+wfh story,0.13,Green
+wdym querying doc,0.13,Green
+ngl pulling package,0.13,Green
+ooo fixing key,0.13,Green
+ack charting story,0.13,Green
+yoy queue,0.10,Green
+sla scaling pod,0.12,Green
+nsfw modifying story,0.13,Green
+rfc serializing dev,0.10,Green
+tbf deserializing module,0.10,Green
+wdym assigning thread,0.13,Green
+ml pod,0.12,Green
+vm token,0.13,Green
+poc escalating app,0.10,Green
+imho topic,0.12,Green
+devops node,0.12,Green
+p1,0.10,Green
+json graphing registry,0.12,Green
+routing namespace,0.10,Green
+escalating ui,0.13,Green
+nd cleaning microservice,0.12,Green
+svp profiling framework,0.10,Green
+d2c vpc,0.12,Green
+v3,0.13,Green
+imho deserializing sync,0.13,Green
+nd call,0.10,Green
+ts fixing image,0.10,Green
+visualizing thread,0.10,Green
+grpc scheduling pod,0.10,Green
+grpc hotfix,0.10,Green
+hf deleting retro,0.10,Green
+ig record,0.12,Green
+svp rejecting topic,0.12,Green
+joining branch,0.12,Green
+req endpoint,0.10,Green
+sev1 artifact,0.10,Green
+mfa spawning node,0.13,Green
+arr database,0.12,Green
+qa opening interface,0.12,Green
+yep table,0.12,Green
+reviewing gateway,0.10,Green
+okr reading standup,0.10,Green
+v3 syncing teams,0.10,Green
+q4 fetching database,0.10,Green
+linting feature,0.12,Green
+roi teams,0.12,Green
+cdn building epic,0.10,Green
+re indexing slack,0.12,Green
+lmk reverting webhook,0.10,Green
+lmk pod,0.12,Green
+p3 alerting interface,0.13,Green
+ux searching struct,0.10,Green
+cli signing backend,0.13,Green
+lmk mapping code,0.12,Green
+ootb sorting instance,0.13,Green
+noted assigning reqs,0.12,Green
+qa,0.13,Green
+wait deleting meeting,0.10,Green
+ama tracking firewall,0.10,Green
+pto restarting artifact,0.10,Green
+devops paginating workflow,0.13,Green
+sev2 aggregating service,0.12,Green
+kk tokenizing dev,0.13,Green
+copy decrypting meeting,0.13,Green
+devops trunk,0.10,Green
+eta deleting struct,0.10,Green
+v5 registry,0.10,Green
+tls transforming microservice,0.10,Green
+valid deleting teams,0.12,Green
+updating build,0.10,Green
+reverting firewall,0.12,Green
+ga notifying teams,0.10,Green
+scaling server,0.12,Green
+ig fetching query,0.10,Green
+p3 opening sync,0.10,Green
+sure cloning namespace,0.12,Green
+cac approved cert,0.12,Green
+cdn cloud,0.10,Green
+eta,0.13,Green
+indexing bug,0.13,Green
+b2c logging lambda,0.12,Green
+charting branch,0.13,Green
+b2g testing token,0.10,Green
+presenting email,0.12,Green
+vm event,0.12,Green
+tbf summarizing config,0.10,Green
+ltv scheduling artifact,0.10,Green
+fya exporting wiki,0.13,Green
+kpi rejecting pipeline,0.12,Green
+hf profiling standup,0.10,Green
+migrating record,0.12,Green
+ml staging,0.12,Green
+fr deleting config,0.12,Green
+charting node,0.12,Green
+lgtm closing frontend,0.10,Green
+b2b alerting topic,0.10,Green
+logging feature,0.12,Green
+wb summarizing feature,0.13,Green
+ts check framework,0.13,Green
+pulling lambda,0.13,Green
+heard hosting image,0.10,Green
+tbf syncing thread,0.10,Green
+vp patching bug,0.13,Green
+sfw installing config,0.13,Green
+vip triggering backend,0.13,Green
+tls transforming proxy,0.10,Green
+yep refactoring schema,0.10,Green
+ytd reviewing service,0.13,Green
+syncing backend,0.13,Green
+dau firewall,0.13,Green
+mapping function,0.13,Green
+gtg parsing spec,0.10,Green
+ama exporting standup,0.10,Green
+linting key,0.12,Green
+indexing proxy,0.13,Green
+noted caching cloud,0.10,Green
+syncing standup,0.13,Green
+nps script,0.12,Green
+b2b struct,0.10,Green
+decrypting webhook,0.12,Green
+linting slack,0.13,Green
+cdn rendering key,0.10,Green
+ci epic,0.10,Green
+hf testing microservice,0.12,Green
+ci notifying chat,0.12,Green
+validating view,0.10,Green
+k8s installing subnet,0.10,Green
+sorting pod,0.10,Green
+pm monitoring view,0.10,Green
+wdym creating image,0.12,Green
+sql escalating record,0.12,Green
+imo,0.13,Green
+modifying proxy,0.10,Green
+b2b function,0.10,Green
+arr fetching backend,0.13,Green
+okr syncing index,0.13,Green
+ux struct,0.13,Green
+wip resolving patch,0.10,Green
+wait firewall,0.10,Green
+caching meeting,0.10,Green
+nd installing meeting,0.10,Green
+vm committing enum,0.12,Green
+rsvp subscribing webhook,0.10,Green
+rest signing method,0.10,Green
+opening chat,0.13,Green
+sre framework,0.12,Green
+invoking module,0.12,Green
+eoq downloading branch,0.12,Green
+ytd class,0.12,Green
+nps migrating ticket,0.12,Green
+sla refactoring event,0.10,Green
+kpi spawning namespace,0.12,Green
+dau blocking dev,0.12,Green
+wdym query,0.12,Green
+ytd compiling staging,0.10,Green
+eom transforming meeting,0.13,Green
+ctr reading interface,0.13,Green
+kk monitoring schema,0.13,Green
+arpu signing view,0.12,Green
+fyi main,0.10,Green
+kk subnet,0.10,Green
+wait ui,0.13,Green
+cr uploading meeting,0.12,Green
+p1 searching proxy,0.10,Green
+eoy script,0.12,Green
+wip caching call,0.10,Green
+v5 tokenizing event,0.10,Green
+wip endpoint,0.12,Green
+b2g api,0.12,Green
+mom migrating endpoint,0.10,Green
+lgtm verifying query,0.12,Green
+csv logging database,0.13,Green
+assigning table,0.12,Green
+invoking frontend,0.12,Green
+eoq branch,0.13,Green
+vm fixing task,0.10,Green
+routing wiki,0.13,Green
+bcc joining database,0.10,Green
+cac feature,0.12,Green
+devops cloud,0.10,Green
+kk building field,0.10,Green
+re closing service,0.10,Green
+lol exporting registry,0.13,Green
+json monitoring enum,0.13,Green
+ops writing artifact,0.12,Green
+compiling email,0.13,Green
+cto,0.12,Green
+sev2 registry,0.10,Green
+sre alerting backend,0.13,Green
+modifying bug,0.10,Green
+debugging namespace,0.13,Green
+sla escalating logs,0.12,Green
+tls normalizing envvar,0.13,Green
+mrr app,0.13,Green
+yoy cleaning class,0.13,Green
+copy restarting route,0.13,Green
+mapping container,0.12,Green
+wfh unblocking container,0.10,Green
+req unblocking namespace,0.13,Green
+devops rejecting app,0.10,Green
+eom enum,0.10,Green
+ctr assigning proxy,0.12,Green
+sla installing env,0.12,Green
+to paginating pr,0.10,Green
+bcc querying ticket,0.10,Green
+rc migrating view,0.13,Green
+ai scheduling artifact,0.12,Green
+afaik framework,0.12,Green
+migrating build,0.13,Green
+mau scheduling queue,0.13,Green
+arr visualizing schema,0.10,Green
+mvp reading artifact,0.12,Green
+afaik transforming registry,0.12,Green
+lgtm tracking webhook,0.13,Green
+mvp fetching backend,0.13,Green
+bbs writing firewall,0.10,Green
+archiving api,0.13,Green
+p3 normalizing class,0.13,Green
+downloading build,0.13,Green
+v1 modifying endpoint,0.12,Green
+grpc migrating secret,0.13,Green
+joining script,0.12,Green
+coo reading namespace,0.13,Green
+grpc escalating api,0.10,Green
+escalating envvar,0.13,Green
+drafting env,0.10,Green
+b2c build,0.10,Green
+v2 writing subnet,0.13,Green
+js gateway,0.12,Green
+q4 notifying runtime,0.10,Green
+lgtm token,0.10,Green
+graphing me,0.12,Green
+b2c envvar,0.13,Green
+done metrics,0.13,Green
+kpi sending script,0.10,Green
+tokenizing teams,0.10,Green
+b2c tokenizing instance,0.10,Green
+mvp replying retro,0.10,Green
+ama restarting node,0.10,Green
+benchmarking table,0.12,Green
+afk,0.10,Green
+modifying token,0.10,Green
+ftr patching event,0.12,Green
+cto task,0.12,Green
+req spec,0.10,Green
+noted transforming story,0.12,Green
+hq updating topic,0.13,Green
+graphing logs,0.13,Green
+p1 committing staging,0.10,Green
+js subscribing database,0.12,Green
+q1 syncing cloud,0.12,Green
+iirc restarting interface,0.13,Green
+archiving env,0.12,Green
+ci task,0.12,Green
+roi migrating retro,0.10,Green
+scheduling class,0.13,Green
+obv testing topic,0.10,Green
+ytd drafting staging,0.12,Green
+v3 runtime,0.13,Green
+bbl registering interface,0.12,Green
+svp cleaning staging,0.13,Green
+rnd restarting branch,0.10,Green
+alerting ticket,0.12,Green
+bbl creating reqs,0.13,Green
+cli parsing field,0.10,Green
+bbs assigning patch,0.10,Green
+deserializing vpc,0.13,Green
+k8s assigning dev,0.12,Green
+rsvp,0.13,Green
+sev1 cluster,0.10,Green
+sfw exporting token,0.12,Green
+tbd endpoint,0.12,Green
+cloning artifact,0.10,Green
+ga creating cloud,0.13,Green
+eom thread,0.10,Green
+nbd alerting query,0.10,Green
+mrr blocking gateway,0.12,Green
+nsfw modifying app,0.10,Green
+tldr syncing sync,0.10,Green
+ci forwarding lambda,0.13,Green
+escalating artifact,0.10,Green
+auditing dev,0.12,Green
+afk code,0.12,Green
+ig hotfix,0.13,Green
+v3 validating backend,0.12,Green
+afk committing branch,0.13,Green
+v1 reading endpoint,0.12,Green
+pm approving config,0.10,Green
+kpi joining route,0.13,Green
+eta cloud,0.10,Green
+tbd formatting package,0.12,Green
+cto routing me,0.10,Green
+rsvp escalating teams,0.10,Green
+modifying api,0.12,Green
+ping main,0.13,Green
+afk logs,0.12,Green
+b2g job,0.12,Green
+p2 retro,0.12,Green
+rsvp check artifact,0.12,Green
+gl library,0.13,Green
+drafting node,0.13,Green
+indexing secret,0.10,Green
+sql hotfix,0.12,Green
+v4 updating endpoint,0.12,Green
+heard presenting sprint,0.12,Green
+ci check interface,0.12,Green
+approving spec,0.13,Green
+aggregating build,0.13,Green
+sev1 token,0.13,Green
+done linting story,0.13,Green
+triggering webhook,0.10,Green
+pulling module,0.12,Green
+charting view,0.13,Green
+ftr joining standup,0.10,Green
+syncing server,0.10,Green
+imo uploading workflow,0.13,Green
+nah server,0.13,Green
+b2g invoking key,0.13,Green
+heard presenting chat,0.10,Green
+ga invoking database,0.12,Green
+sure resolving email,0.12,Green
+eod closing demo,0.13,Green
+ootb archiving lambda,0.10,Green
+ok me,0.13,Green
+done logging branch,0.12,Green
+fya bug,0.12,Green
+cc module,0.12,Green
+tbf invoking schema,0.12,Green
+reviewing doc,0.13,Green
+optimizing meeting,0.10,Green
+ltv forwarding wiki,0.13,Green
+sev2 charting cluster,0.13,Green
+hosting node,0.10,Green
+benchmarking registry,0.12,Green
+kpi refactoring spec,0.10,Green
+ctr logs,0.12,Green
+caching config,0.13,Green
+sev2 me,0.12,Green
+ack,0.13,Green
+unblocking method,0.12,Green
+reviewing sync,0.12,Green
+auditing pipeline,0.12,Green
+testing queue,0.12,Green
+ooo benchmarking api,0.13,Green
+v0 build,0.13,Green
+wfh mocking index,0.10,Green
+ooo logging script,0.12,Green
+invoking repo,0.12,Green
+heard querying service,0.10,Green
+sla node,0.10,Green
+ga deleting queue,0.13,Green
+json testing system,0.12,Green
+eod doc,0.12,Green
+approved epic,0.13,Green
+cob rebooting backend,0.13,Green
+p1 prod,0.12,Green
+nsfw webhook,0.10,Green
+invoking thread,0.12,Green
+grpc downloading service,0.10,Green
+vm mocking wiki,0.13,Green
+wait doc,0.12,Green
+modifying frontend,0.10,Green
+sev2 subnet,0.13,Green
+graphing slack,0.10,Green
+ai paginating trunk,0.13,Green
+bbs parsing secret,0.13,Green
+ytd tracking demo,0.12,Green
+eta migrating trunk,0.12,Green
+v5 connecting workflow,0.13,Green
+ama deploying container,0.13,Green
+grpc instance,0.12,Green
+grpc merge config,0.13,Green
+hf modifying prod,0.13,Green
+nd closing cert,0.13,Green
+routing thread,0.10,Green
+vp escalating runtime,0.13,Green
+downloading retro,0.13,Green
+b2c indexing ticket,0.12,Green
+deleting queue,0.13,Green
+cc connecting backend,0.13,Green
+afaik bug,0.10,Green
+v1 check hotfix,0.13,Green
+mom firewall,0.13,Green
+eoy importing secret,0.12,Green
+sre merge wiki,0.10,Green
+tldr spawning code,0.12,Green
+bcc method,0.10,Green
+b2c mapping key,0.12,Green
+p0 paginating call,0.10,Green
+nrn pulling endpoint,0.10,Green
+iirc fixing module,0.13,Green
+re triggering query,0.13,Green
+obv rejecting firewall,0.10,Green
+poc trunk,0.13,Green
+ngl logs,0.13,Green
+ok encrypting workflow,0.12,Green
+v0 module,0.13,Green
+formatting job,0.13,Green
+eoq mocking bug,0.13,Green
+v4 main,0.13,Green
+b2c replying enum,0.12,Green
+indexing slack,0.10,Green
+wip enum,0.12,Green
+tia,0.12,Green
+cob code,0.12,Green
+afk approved backend,0.12,Green
+q4 deserializing main,0.12,Green
+deserializing index,0.10,Green
+bcc triggering interface,0.10,Green
+visualizing spec,0.12,Green
+noted library,0.12,Green
+q2 subscribing webhook,0.13,Green
+mom presenting staging,0.10,Green
+q3 package,0.10,Green
+done topic,0.13,Green
+rejecting patch,0.10,Green
+svp presenting runtime,0.13,Green
+b2c debugging epic,0.13,Green
+rnd slack,0.12,Green
+gtg,0.12,Green
+invoking sprint,0.10,Green
+p2 paginating index,0.12,Green
+req querying backend,0.10,Green
+triggering subnet,0.12,Green
+fyi registry,0.12,Green
+p3 scheduling vpc,0.10,Green
+req spawning epic,0.10,Green
+eow mapping demo,0.13,Green
+fyi api,0.10,Green
+cto downloading firewall,0.13,Green
+closing story,0.12,Green
+ops library,0.10,Green
+pulling image,0.12,Green
+eta service,0.12,Green
+obv replying subnet,0.12,Green
+rebooting secret,0.13,Green
+tbd modifying master,0.13,Green
+sla parsing module,0.12,Green
+wb job,0.12,Green
+v0 connecting runtime,0.10,Green
+sev2 hotfix,0.10,Green
+tia transforming main,0.12,Green
+ai vpc,0.13,Green
+wip querying logs,0.13,Green
+updating queue,0.12,Green
+obv cloud,0.10,Green
+bbs microservice,0.12,Green
+k committing database,0.13,Green
+testing call,0.12,Green
+transforming doc,0.13,Green
+sso scheduling enum,0.10,Green
+ping repo,0.12,Green
+nbd formatting secret,0.13,Green
+wb alerting key,0.13,Green
+b2g reviewing branch,0.12,Green
+p3 schema,0.13,Green
+arr ticket,0.13,Green
+wb optimizing standup,0.12,Green
+fw,0.13,Green
+mom validating gateway,0.13,Green
+copy modifying instance,0.13,Green
+b2g cleaning queue,0.12,Green
+qa reverting staging,0.13,Green
+fr mapping epic,0.10,Green
+sdk env,0.12,Green
+p0 enum,0.12,Green
+iirc deserializing feature,0.13,Green
+deleting wiki,0.12,Green
+ai optimizing retro,0.10,Green
+kk,0.13,Green
+lmk replying frontend,0.13,Green
+compiling master,0.13,Green
+reading token,0.12,Green
+lgtm invoking enum,0.13,Green
+p1 alerting package,0.12,Green
+analyzing table,0.10,Green
+q4 formatting webhook,0.12,Green
+sql routing trunk,0.10,Green
+pulling feature,0.12,Green
+nbd,0.12,Green
+ltv validating task,0.10,Green
+ytd deserializing namespace,0.10,Green
+re staging,0.13,Green
+blocking demo,0.10,Green
+dns fixing bug,0.12,Green
+k8s deploying master,0.10,Green
+fr compiling artifact,0.13,Green
+cto testing wiki,0.10,Green
+replying me,0.10,Green
+wip notifying pod,0.13,Green
+dns querying app,0.10,Green
+ai scheduling proxy,0.12,Green
+opening namespace,0.12,Green
+kk sending job,0.12,Green
+pushing module,0.13,Green
+cd token,0.10,Green
+fw refactoring schema,0.12,Green
+k artifact,0.10,Green
+cac pulling sprint,0.13,Green
+nsfw parsing env,0.13,Green
+ooo graphing event,0.12,Green
+archiving queue,0.13,Green
+csv patching doc,0.13,Green
+debugging ticket,0.13,Green
+req wiki,0.10,Green
+assigning thread,0.10,Green
+asap cert,0.12,Green
+logging backend,0.10,Green
+yep parsing route,0.13,Green
+decrypting config,0.12,Green
+invoking endpoint,0.10,Green
+indexing cert,0.13,Green
+ci pr,0.12,Green
+noted cert,0.13,Green
+ci merge epic,0.12,Green
+restarting hotfix,0.12,Green
+ftr ticket,0.12,Green
+ooo fetching package,0.12,Green
+cd analyzing service,0.10,Green
+caching package,0.12,Green
+ctr migrating bug,0.12,Green
+tia staging,0.12,Green
+wait,0.13,Green
+lol firewall,0.13,Green
+wdym routing epic,0.10,Green
+cdn image,0.12,Green
+tia deserializing pipeline,0.12,Green
+notifying api,0.12,Green
+cob instance,0.13,Green
+searching staging,0.10,Green
+hf runtime,0.13,Green
+paginating record,0.13,Green
+vm check secret,0.10,Green
+hosting index,0.10,Green
+yoy pr,0.10,Green
+wb signing cert,0.10,Green
+mfa serializing repo,0.13,Green
+heard database,0.13,Green
+documenting server,0.10,Green
+ok decrypting database,0.12,Green
+transforming gateway,0.13,Green
+cc documenting main,0.13,Green
+sure method,0.10,Green
+q1 patch,0.10,Green
+v3 archiving branch,0.13,Green
+fya building patch,0.12,Green
+ops migrating interface,0.12,Green
+nps deploying dev,0.12,Green
+ofc querying class,0.13,Green
+fwiw epic,0.12,Green
+check script,0.10,Green
+drafting prod,0.10,Green
+mom job,0.13,Green
+cc migrating endpoint,0.10,Green
+tbd linting ui,0.13,Green
+cc field,0.12,Green
+valid cert,0.13,Green
+afk uploading hotfix,0.12,Green
+qa node,0.13,Green
+mrr signing cloud,0.12,Green
+re signing endpoint,0.10,Green
+kpi pr,0.13,Green
+scheduling struct,0.13,Green
+spawning email,0.10,Green
+escalating key,0.12,Green
+imo check database,0.10,Green
+imo syncing proxy,0.12,Green
+arr committing reqs,0.10,Green
+eom replying doc,0.12,Green
+csv webhook,0.12,Green
+testing route,0.12,Green
+bbs updating index,0.13,Green
+fetching hotfix,0.13,Green
+tls cloning config,0.10,Green
+v0 pushing envvar,0.13,Green
+okr pipeline,0.10,Green
+ig validating runtime,0.10,Green
+ux sorting api,0.10,Green
+b2c spawning api,0.12,Green
+decrypting subnet,0.13,Green
+sfw chat,0.13,Green
+smh fixing microservice,0.12,Green
+transforming record,0.10,Green
+b2b sending artifact,0.10,Green
+encrypting demo,0.12,Green
+nd invoking meeting,0.12,Green
+summarizing patch,0.10,Green
+p3 auditing sync,0.13,Green
+bcc pushing sprint,0.10,Green
+sdk querying node,0.13,Green
+testing spec,0.10,Green
+req reading node,0.12,Green
+ig downloading job,0.13,Green
+p1 installing view,0.13,Green
+cdn webhook,0.12,Green
+v0 searching class,0.13,Green
+writing framework,0.12,Green
+db rebooting queue,0.12,Green
+nrn linting class,0.13,Green
+invoking call,0.13,Green
+dau routing endpoint,0.13,Green
+eom unblocking workflow,0.13,Green
+req archiving view,0.10,Green
+imho analyzing ui,0.12,Green
+dns importing registry,0.10,Green
+sre field,0.10,Green
+rsvp blocking branch,0.10,Green
+cto merge workflow,0.12,Green
+d2c frontend,0.12,Green
+heard downloading build,0.10,Green
+opening endpoint,0.13,Green
+cleaning firewall,0.13,Green
+cli presenting firewall,0.13,Green
+sev2 rebooting pipeline,0.10,Green
+p1 benchmarking method,0.10,Green
+committing registry,0.13,Green
+b2c check microservice,0.10,Green
+wait restarting secret,0.12,Green
+valid,0.12,Green
+parsing app,0.12,Green
+transforming registry,0.10,Green
+tbf drafting sprint,0.12,Green
+mvp logging job,0.13,Green
+nrn library,0.13,Green
+obv presenting struct,0.13,Green
+fya presenting sprint,0.12,Green
+ops rebooting proxy,0.10,Green
+q1 enum,0.12,Green
+nd restarting service,0.13,Green
+eow envvar,0.13,Green
+sql testing code,0.10,Green
+charting thread,0.13,Green
+caching namespace,0.13,Green
+q2 fetching trunk,0.10,Green
+nrn normalizing cloud,0.10,Green
+b2g updating schema,0.12,Green
+benchmarking struct,0.10,Green
+cli closing container,0.10,Green
+obv cluster,0.10,Green
+eoy feature,0.12,Green
+v5 lambda,0.10,Green
+documenting system,0.10,Green
+re auditing ticket,0.12,Green
+q3 merge interface,0.10,Green
+cob rebooting prod,0.12,Green
+cto sync,0.13,Green
+wait searching config,0.10,Green
+fyi merge gateway,0.10,Green
+eod build,0.13,Green
+mom scaling vpc,0.12,Green
+mfa committing api,0.12,Green
+q3 event,0.10,Green
+encrypting thread,0.12,Green
+v0 prod,0.10,Green
+mvp importing interface,0.13,Green
+rfc benchmarking dev,0.13,Green
+tldr graphing index,0.10,Green
+cac migrating prod,0.10,Green
+rfc transforming prod,0.10,Green
+replying query,0.10,Green
+ops refactoring frontend,0.12,Green
+ftr closing bug,0.13,Green
+qa chat,0.10,Green
+bcc build,0.13,Green
+documenting master,0.13,Green
+tmr module,0.13,Green
+cd approved subnet,0.13,Green
+to mapping standup,0.13,Green
+copy pulling secret,0.12,Green
+pm signing sprint,0.12,Green
+v3 hosting query,0.13,Green
+afk encrypting call,0.10,Green
+uat hosting slack,0.10,Green
+q3 replying slack,0.10,Green
+copy subnet,0.13,Green
+copy caching container,0.13,Green
+rsvp sorting event,0.10,Green
+cac resolving key,0.13,Green
+invoking standup,0.12,Green
+p2,0.10,Green
+opening meeting,0.10,Green
+heard visualizing query,0.13,Green
+eod notifying namespace,0.10,Green
+qoq analyzing firewall,0.10,Green
+b2b rendering story,0.12,Green
+updating logs,0.12,Green
+cto installing script,0.13,Green
+wait drafting repo,0.10,Green
+lgtm transforming meeting,0.10,Green
+assigning metrics,0.12,Green
+v0 envvar,0.13,Green
+vip verifying secret,0.10,Green
+dns analyzing topic,0.12,Green
+downloading wiki,0.12,Green
+p0 pushing spec,0.10,Green
+cac decrypting webhook,0.10,Green
+hf tokenizing webhook,0.13,Green
+ts decrypting envvar,0.10,Green
+scheduling namespace,0.13,Green
+caching patch,0.13,Green
+spawning sprint,0.12,Green
+valid merge me,0.13,Green
+sdk graphing subnet,0.10,Green
+writing ui,0.13,Green
+p0 uploading main,0.13,Green
+scheduling database,0.13,Green
+eod patch,0.12,Green
+transforming function,0.13,Green
+b2g script,0.10,Green
+ftr registering me,0.12,Green
+escalating ticket,0.10,Green
+ootb closing package,0.10,Green
+b2c reverting epic,0.12,Green
+tls mocking chat,0.13,Green
+pto instance,0.12,Green
+ngl drafting branch,0.10,Green
+patching enum,0.12,Green
+eoq repo,0.10,Green
+debugging backend,0.13,Green
+qa joining reqs,0.10,Green
+ci scaling branch,0.13,Green
+normalizing frontend,0.10,Green
+fw alerting system,0.12,Green
+benchmarking staging,0.12,Green
+roi,0.10,Green
+fr optimizing spec,0.12,Green
+d2c fixing node,0.12,Green
+sso paginating function,0.10,Green
+filtering ticket,0.13,Green
+reverting thread,0.12,Green
+mau approving image,0.13,Green
+tmr rebooting repo,0.13,Green
+ops,0.10,Green
+eoq routing package,0.13,Green
+nah sorting feature,0.12,Green
+ofc triggering branch,0.13,Green
+mau rebooting doc,0.13,Green
+coo cleaning function,0.13,Green
+tbf uploading gateway,0.12,Green
+b2c restarting bug,0.12,Green
+sre fixing database,0.12,Green
+invoking system,0.12,Green
+v0 serializing retro,0.13,Green
+ngl decrypting metrics,0.10,Green
+reading app,0.13,Green
+eoy registering pod,0.10,Green
+tracking build,0.10,Green
+p1 uploading backend,0.12,Green
+v0 optimizing pr,0.13,Green
+cr standup,0.10,Green
+fr committing topic,0.13,Green
+v3 opening pr,0.10,Green
+cli wiki,0.10,Green
+spawning firewall,0.12,Green
+cc thread,0.13,Green
+rsvp mapping record,0.10,Green
+afaik downloading logs,0.13,Green
+syncing registry,0.12,Green
+drafting frontend,0.10,Green
+deserializing container,0.12,Green
+json drafting meeting,0.12,Green
+ig scheduling registry,0.12,Green
+tia approved master,0.10,Green
+reverting namespace,0.13,Green
+mfa,0.13,Green
+ooo package,0.13,Green
+nps aggregating webhook,0.13,Green
+p0 view,0.12,Green
+replying feature,0.13,Green
+eoq rendering key,0.12,Green
+devops registering function,0.10,Green
+benchmarking library,0.10,Green
+connecting metrics,0.10,Green
+bbs story,0.13,Green
+imo creating slack,0.10,Green
+joining demo,0.10,Green
+sla optimizing workflow,0.12,Green
+fwiw downloading namespace,0.13,Green
+sql prod,0.12,Green
+unblocking repo,0.12,Green
+fya monitoring topic,0.13,Green
+reviewing topic,0.13,Green
+kk replying instance,0.10,Green
+fw library,0.13,Green
+kpi call,0.13,Green
+sso hosting spec,0.13,Green
+arpu pulling firewall,0.10,Green
+summarizing query,0.13,Green
+auditing staging,0.13,Green
+dns job,0.13,Green
+tmr meeting,0.12,Green
+json escalating sync,0.12,Green
+ooo rebooting ui,0.13,Green
+vpn optimizing chat,0.12,Green
+v2 blocking gateway,0.12,Green
+ltv profiling trunk,0.10,Green
+mvp,0.13,Green
+opening email,0.13,Green
+copy enum,0.13,Green
+ai benchmarking cloud,0.13,Green
+sre wiki,0.13,Green
+brb database,0.13,Green
+ci approved standup,0.13,Green
+ctr cleaning chat,0.10,Green
+resolving feature,0.10,Green
+rest mapping me,0.12,Green
+wfh escalating app,0.13,Green
+bcc index,0.12,Green
+searching system,0.13,Green
+b2g library,0.13,Green
+heard uploading index,0.12,Green
+fr microservice,0.12,Green
+mau,0.12,Green
+normalizing webhook,0.13,Green
+rejecting system,0.13,Green
+yoy searching frontend,0.10,Green
+ig alerting registry,0.10,Green
+bcc thread,0.10,Green
+wfh invoking config,0.13,Green
+lmk check meeting,0.13,Green
+nrn gateway,0.12,Green
+nah restarting microservice,0.10,Green
+d2c presenting main,0.12,Green
+migrating system,0.12,Green
+ack bug,0.10,Green
+routing index,0.13,Green
+sorting system,0.13,Green
+ytd exporting enum,0.10,Green
+hf sending container,0.12,Green
+cc cert,0.12,Green
+v1 microservice,0.12,Green
+rejecting sprint,0.10,Green
+eoy exporting token,0.13,Green
+mrr registering job,0.10,Green
+v3 route,0.10,Green
+fyi charting view,0.13,Green
+modifying task,0.13,Green
+fyi restarting spec,0.12,Green
+tbf function,0.13,Green
+q4 closing me,0.10,Green
+hf decrypting event,0.12,Green
+rnd restarting service,0.13,Green
+eod view,0.10,Green
+nps metrics,0.13,Green
+rc debugging thread,0.10,Green
+analyzing cluster,0.12,Green
+rebooting config,0.13,Green
+mau notifying trunk,0.10,Green
+vp formatting pipeline,0.13,Green
+eow caching library,0.13,Green
+cto key,0.10,Green
+p3 visualizing container,0.10,Green
+q3 metrics,0.10,Green
+copy updating script,0.12,Green
+ama patching namespace,0.12,Green
+ga formatting thread,0.10,Green
+ofc connecting class,0.12,Green
+sev2 table,0.12,Green
+registering dev,0.12,Green
+vp interface,0.13,Green
+optimizing ticket,0.10,Green
+optimizing epic,0.13,Green
+wip formatting cert,0.12,Green
+nrn reviewing pr,0.12,Green
+wfh querying ui,0.13,Green
+coo fixing repo,0.10,Green
+subscribing me,0.10,Green
+fya check task,0.12,Green
+vip server,0.10,Green
+fwiw searching route,0.10,Green
+fyi subnet,0.10,Green
+installing spec,0.12,Green
+eoq transforming key,0.13,Green
+brb story,0.10,Green
+wip table,0.12,Green
+csv lambda,0.13,Green
+re blocking system,0.13,Green
+req committing frontend,0.13,Green
+gtg mapping trunk,0.12,Green
+ci runtime,0.12,Green
+q4 analyzing cloud,0.12,Green
+rsvp database,0.12,Green
+sfw cloning query,0.10,Green
+cob syncing thread,0.12,Green
+b2b benchmarking frontend,0.12,Green
+cd demo,0.10,Green
+cli verifying patch,0.12,Green
+fw serializing spec,0.13,Green
+imho assigning cluster,0.13,Green
+eod trunk,0.10,Green
+nbd patching struct,0.13,Green
+eow demo,0.10,Green
+drafting container,0.12,Green
+rc aggregating method,0.10,Green
+nrn subnet,0.12,Green
+lgtm,0.13,Green
+ig hosting database,0.13,Green
+lgtm deserializing backend,0.13,Green
+ngl fixing key,0.12,Green
+logging envvar,0.13,Green
+obv parsing repo,0.13,Green
+wdym vpc,0.12,Green
+nah spawning cluster,0.13,Green
+patching backend,0.13,Green
+pto forwarding webhook,0.12,Green
+q1 parsing main,0.13,Green
+nps demo,0.12,Green
+lgtm feature,0.12,Green
+wip graphing envvar,0.12,Green
+eoy namespace,0.13,Green
+lgtm parsing task,0.10,Green
+tls check feature,0.10,Green
+eod connecting secret,0.10,Green
+cd package,0.12,Green
+lgtm formatting enum,0.13,Green
+devops,0.13,Green
+mau building proxy,0.12,Green
+fr migrating endpoint,0.13,Green
+cac pushing logs,0.10,Green
+lmk,0.10,Green
+cto demo,0.10,Green
+arpu formatting route,0.12,Green
+q4 signing story,0.10,Green
+q2 backend,0.10,Green
+ftr exporting repo,0.12,Green
+b2b benchmarking token,0.12,Green
+p1 artifact,0.12,Green
+k reading runtime,0.12,Green
+alerting server,0.10,Green
+okr ticket,0.10,Green
+resolving instance,0.12,Green
+sso fetching staging,0.12,Green
+lgtm charting method,0.10,Green
+scheduling gateway,0.13,Green
+invoking sync,0.12,Green
+v4 replying trunk,0.10,Green
+eta table,0.13,Green
+q4,0.13,Green
+devops installing record,0.10,Green
+rnd route,0.13,Green
+ping staging,0.10,Green
+encrypting view,0.10,Green
+rfc app,0.13,Green
+bbs testing patch,0.12,Green
+summarizing table,0.13,Green
+p3 runtime,0.13,Green
+eoq unblocking job,0.12,Green
+qoq notifying endpoint,0.12,Green
+gtg thread,0.13,Green
+arr querying envvar,0.13,Green
+ok serializing patch,0.13,Green
+sdk replying dev,0.13,Green
+mrr token,0.13,Green
+cc unblocking proxy,0.12,Green
+cto pulling env,0.13,Green
+filtering firewall,0.12,Green
+hq,0.12,Green
+ltv ticket,0.13,Green
+replying master,0.12,Green
+cd frontend,0.12,Green
+nd auditing code,0.12,Green
+wip database,0.13,Green
+k8s sorting topic,0.13,Green
+afaik summarizing reqs,0.10,Green
+tia mocking event,0.13,Green
+rebooting api,0.12,Green
+mau debugging queue,0.13,Green
+kk build,0.10,Green
+okr charting job,0.13,Green
+bbl compiling endpoint,0.13,Green
+p1 reviewing queue,0.10,Green
+dns deserializing gateway,0.13,Green
+ux ui,0.10,Green
+paginating doc,0.13,Green
+sev2 routing wiki,0.10,Green
+wfh spawning code,0.13,Green
+updating bug,0.12,Green
+b2g profiling config,0.10,Green
+vpn rendering build,0.13,Green
+wait escalating artifact,0.10,Green
+escalating epic,0.10,Green
+fixing call,0.13,Green
+d2c mapping patch,0.12,Green
+cac aggregating firewall,0.10,Green
+ux hosting cluster,0.10,Green
+afaik deleting sync,0.13,Green
+rsvp blocking feature,0.10,Green
+grpc verifying task,0.13,Green
+dau repo,0.13,Green
+json importing pr,0.12,Green
+q2 analyzing index,0.12,Green
+approving logs,0.13,Green
+sending hotfix,0.13,Green
+sev1 runtime,0.12,Green
+vip feature,0.10,Green
+dau pushing trunk,0.13,Green
+sre check method,0.12,Green
+v5 restarting module,0.10,Green
+gl charting teams,0.13,Green
+sev1 formatting container,0.12,Green
+meh linting queue,0.13,Green
+ngl sending library,0.12,Green
+tls approving artifact,0.13,Green
+auditing cert,0.12,Green
+bbs proxy,0.12,Green
+tldr tokenizing registry,0.13,Green
+merge main,0.12,Green
+building demo,0.12,Green
+grpc wiki,0.13,Green
+vpn syncing master,0.10,Green
+optimizing sync,0.13,Green
+q3 uploading call,0.12,Green
+eod installing email,0.13,Green
+eow querying image,0.13,Green
+roi linting microservice,0.10,Green
+q4 job,0.13,Green
+ooo hosting email,0.12,Green
+k8s caching enum,0.12,Green
+invoking staging,0.13,Green
+querying index,0.12,Green
+rest method,0.12,Green
+modifying runtime,0.12,Green
+brb email,0.12,Green
+nbd record,0.12,Green
+ml installing workflow,0.13,Green
+vpn exporting ui,0.10,Green
+writing pod,0.13,Green
+sfw node,0.13,Green
+ga demo,0.13,Green
+sure ping env,0.13,Green
+lgtm method,0.10,Green
+tls aggregating enum,0.10,Green
+writing teams,0.13,Green
+tokenizing container,0.12,Green
+uat replying task,0.10,Green
+ml optimizing lambda,0.10,Green
+sdk notifying view,0.10,Green
+hosting sync,0.13,Green
+indexing frontend,0.12,Green
+linting container,0.12,Green
+resolving enum,0.13,Green
+sdk service,0.12,Green
+ootb scaling query,0.12,Green
+to testing pipeline,0.13,Green
+resolving repo,0.13,Green
+pto subnet,0.13,Green
+sev2 aggregating field,0.10,Green
+ts rejecting topic,0.10,Green
+b2c demo,0.13,Green
+ops triggering hotfix,0.13,Green
+b2c closing service,0.12,Green
+fw building node,0.10,Green
+v4 verifying secret,0.10,Green
+p1 migrating staging,0.13,Green
+bbl blocking frontend,0.12,Green
+poc,0.10,Green
+querying system,0.10,Green
+caching email,0.10,Green
+mvp struct,0.12,Green
+yep,0.12,Green
+auditing frontend,0.12,Green
+eta tokenizing event,0.12,Green
+documenting metrics,0.12,Green
+sfw assigning lambda,0.10,Green
+nrn queue,0.13,Green
+mom method,0.13,Green
+deserializing package,0.13,Green
+yoy schema,0.13,Green
+meh node,0.10,Green
+v1,0.12,Green
+tbf aggregating doc,0.12,Green
+cto mapping database,0.12,Green
+js sorting instance,0.13,Green
+poc feature,0.13,Green
+gl approved server,0.12,Green
+ci linting registry,0.12,Green
+b2c optimizing webhook,0.10,Green
+ci formatting metrics,0.12,Green
+updating thread,0.13,Green
+auditing route,0.13,Green
+sev2 joining trunk,0.12,Green
+registering metrics,0.10,Green
+compiling endpoint,0.10,Green
+cd resolving library,0.12,Green
+rsvp searching trunk,0.13,Green
+ping runtime,0.12,Green
+re visualizing route,0.10,Green
+cli bug,0.10,Green
+reading teams,0.12,Green
+obv writing metrics,0.13,Green
+tldr patching env,0.13,Green
+mom summarizing class,0.10,Green
+sure,0.13,Green
+q4 encrypting pipeline,0.10,Green
+approved firewall,0.13,Green
+wb indexing secret,0.12,Green
+rest updating interface,0.12,Green
+mom parsing epic,0.10,Green
+downloading main,0.13,Green
+eod rebooting method,0.10,Green
+graphing gateway,0.12,Green
+v2 trunk,0.12,Green
+ping system,0.12,Green
+fw pulling doc,0.13,Green
+tldr hotfix,0.10,Green
+ts invoking branch,0.12,Green
+creating record,0.12,Green
+noted standup,0.12,Green
+meh querying script,0.13,Green
+nah hosting library,0.12,Green
+v0 bug,0.13,Green
+tokenizing logs,0.10,Green
+sdk deleting secret,0.10,Green
+qa job,0.13,Green
+ngl branch,0.13,Green
+nrn filtering config,0.13,Green
+nrn registry,0.10,Green
+spawning spec,0.12,Green
+cto deserializing enum,0.10,Green
+fya epic,0.12,Green
+cob benchmarking bug,0.10,Green
+vpn indexing lambda,0.10,Green
+meh rendering story,0.10,Green
+routing key,0.10,Green
+qoq reviewing script,0.13,Green
+yoy lambda,0.12,Green
+ssl replying doc,0.10,Green
+searching call,0.13,Green
+coo exporting me,0.10,Green
+v4 sprint,0.12,Green
+q4 exporting proxy,0.10,Green
+obv notifying staging,0.12,Green
+ts formatting staging,0.10,Green
+sla graphing pipeline,0.10,Green
+nsfw testing system,0.13,Green
+sev1 indexing metrics,0.13,Green
+v5 tracking bug,0.10,Green
+lol pushing patch,0.12,Green
+afaik slack,0.10,Green
+tbd uploading staging,0.12,Green
+importing secret,0.10,Green
+eod gateway,0.12,Green
+v4 normalizing cloud,0.13,Green
+afk analyzing workflow,0.13,Green
+merge secret,0.12,Green
+mom documenting route,0.10,Green
+sev1 creating call,0.13,Green
+done hotfix,0.12,Green
+to reading chat,0.13,Green
+wdym decrypting hotfix,0.12,Green
+rsvp resolving epic,0.12,Green
+eta writing vpc,0.12,Green
+scaling logs,0.13,Green
+b2b tracking lambda,0.13,Green
+devops reverting repo,0.10,Green
+tmr logs,0.10,Green
+dau,0.13,Green
+wb caching frontend,0.12,Green
+ai modifying record,0.10,Green
+ux resolving webhook,0.13,Green
+eta dev,0.13,Green
+eow unblocking workflow,0.13,Green
+roi webhook,0.13,Green
+connecting dev,0.12,Green
+eod dev,0.12,Green
+vpn hosting token,0.10,Green
+filtering backend,0.10,Green
+to summarizing script,0.12,Green
+approving subnet,0.12,Green
+rnd aggregating method,0.12,Green
+vip prod,0.12,Green
+wait api,0.12,Green
+ytd merge pipeline,0.13,Green
+rendering demo,0.12,Green
+fixing namespace,0.12,Green
+iirc graphing retro,0.10,Green
+ofc resolving bug,0.12,Green
+afk reading wiki,0.10,Green
+ltv dev,0.13,Green
+ux logging prod,0.12,Green
+fr compiling build,0.10,Green
+eod graphing hotfix,0.10,Green
+cto method,0.13,Green
+eod paginating doc,0.12,Green
+wfh pulling topic,0.12,Green
+ootb visualizing gateway,0.10,Green
+cd assigning pod,0.13,Green
+mvp mapping field,0.13,Green
+sev1,0.10,Green
+cleaning webhook,0.10,Green
+cleaning server,0.13,Green
+lmk analyzing repo,0.12,Green
+q1,0.10,Green
+invoking class,0.13,Green
+lmk fetching envvar,0.12,Green
+wdym routing index,0.13,Green
+ltv joining repo,0.12,Green
+afk drafting microservice,0.10,Green
+ooo alerting image,0.10,Green
+subscribing logs,0.13,Green
+vm exporting enum,0.13,Green
+approved build,0.12,Green
+q4 script,0.13,Green
+ping app,0.12,Green
+mvp scaling instance,0.10,Green
+nrn scheduling microservice,0.12,Green
+cto notifying config,0.10,Green
+gtg serializing method,0.12,Green
+querying view,0.12,Green
+svp fetching trunk,0.13,Green
+wb scaling epic,0.12,Green
+nsfw writing event,0.10,Green
+q1 migrating build,0.13,Green
+eta tokenizing gateway,0.13,Green
+restarting system,0.10,Green
+ga registering registry,0.12,Green
+rebooting repo,0.13,Green
+kk debugging config,0.13,Green
+nah paginating branch,0.13,Green
+uat tracking prod,0.13,Green
+deserializing ui,0.12,Green
+sorting story,0.10,Green
+fwiw forwarding interface,0.12,Green
+p0 restarting record,0.12,Green
+v1 database,0.12,Green
+compiling secret,0.13,Green
+fyi normalizing epic,0.12,Green
+pto alerting cluster,0.10,Green
+tia check field,0.13,Green
+tls monitoring schema,0.12,Green
+tbd benchmarking node,0.12,Green
+optimizing env,0.13,Green
+pto deleting route,0.10,Green
+ofc notifying hotfix,0.12,Green
+kk deleting branch,0.13,Green
+vp api,0.10,Green
+documenting module,0.13,Green
+notifying image,0.13,Green
+scheduling me,0.10,Green
+grpc debugging metrics,0.12,Green
+to indexing cloud,0.12,Green
+re pulling proxy,0.10,Green
+ig epic,0.12,Green
+ai drafting queue,0.12,Green
+cdn benchmarking token,0.10,Green
+arpu committing me,0.13,Green
+sure encrypting key,0.12,Green
+qa cloud,0.13,Green
+vm restarting sprint,0.10,Green
+deploying slack,0.13,Green
+sql benchmarking meeting,0.13,Green
+k tracking slack,0.12,Green
+v3 task,0.13,Green
+ts master,0.13,Green
+filtering job,0.10,Green
+pm env,0.12,Green
+normalizing main,0.12,Green
+eow monitoring method,0.10,Green
+mfa invoking sprint,0.13,Green
+migrating meeting,0.13,Green
+bbl artifact,0.12,Green
+ops fixing microservice,0.12,Green
+lol cloning route,0.13,Green
+to workflow,0.12,Green
+nah joining queue,0.12,Green
+gl tokenizing task,0.10,Green
+tbf restarting slack,0.13,Green
+normalizing index,0.10,Green
+qoq approved firewall,0.12,Green
+rest,0.10,Green
+valid reviewing task,0.10,Green
+ama token,0.12,Green
+wfh alerting interface,0.10,Green
+b2c indexing route,0.13,Green
+vip struct,0.10,Green
+routing route,0.10,Green
+kk joining config,0.10,Green
+imo alerting standup,0.12,Green
+json indexing lambda,0.13,Green
+ofc,0.12,Green
+fyi serializing vpc,0.10,Green
+arr visualizing staging,0.12,Green
+rc profiling function,0.12,Green
+qoq replying vpc,0.10,Green
+v3 pulling topic,0.12,Green
+bbs summarizing registry,0.10,Green
+bbl fetching image,0.12,Green
+devops pulling build,0.12,Green
+qoq querying prod,0.13,Green
+b2b joining envvar,0.13,Green
+gtg table,0.10,Green
+smh mapping pod,0.10,Green
+mfa cloning firewall,0.10,Green
+mfa hosting standup,0.13,Green
+mfa reviewing cluster,0.13,Green
+to encrypting prod,0.10,Green
+nd connecting email,0.10,Green
+ftr system,0.10,Green
+nah drafting function,0.10,Green
+sre transforming me,0.13,Green
+writing registry,0.10,Green
+cr task,0.13,Green
+copy downloading pod,0.12,Green
+brb optimizing config,0.10,Green
+vp approving cloud,0.13,Green
+p2 charting thread,0.12,Green
+afk feature,0.12,Green
+dau epic,0.12,Green
+lol triggering staging,0.10,Green
+eta rendering wiki,0.12,Green
+refactoring library,0.13,Green
+asap downloading function,0.12,Green
+ltv logging retro,0.13,Green
+poc documenting reqs,0.12,Green
+mocking standup,0.13,Green
+k8s encrypting module,0.12,Green
+dau envvar,0.13,Green
+roi rebooting sprint,0.12,Green
+fya encrypting env,0.13,Green
+valid paginating email,0.12,Green
+lol pr,0.12,Green
+opening wiki,0.10,Green
+b2b routing pr,0.10,Green
+lgtm artifact,0.10,Green
+k8s escalating bug,0.10,Green
+ftr optimizing registry,0.10,Green
+vm graphing prod,0.12,Green
+qa namespace,0.10,Green
+ig hosting code,0.13,Green
+cr writing cluster,0.13,Green
+analyzing code,0.13,Green
+hf graphing database,0.13,Green
+v5 importing queue,0.12,Green
+uploading interface,0.10,Green
+bbl signing cloud,0.10,Green
+req joining ticket,0.12,Green
+ootb scaling node,0.13,Green
+rfc cert,0.10,Green
+sure subnet,0.10,Green
+transforming framework,0.12,Green
+d2c debugging teams,0.12,Green
+ack merge trunk,0.13,Green
+rc importing key,0.13,Green
+nsfw tokenizing feature,0.12,Green
+fw backend,0.13,Green
+merge standup,0.12,Green
+grpc,0.10,Green
+normalizing service,0.10,Green
+wait rendering record,0.12,Green
+opening pipeline,0.13,Green
+auditing branch,0.13,Green
+d2c staging,0.10,Green
+escalating script,0.12,Green
+tia graphing record,0.12,Green
+to linting image,0.10,Green
+fw archiving image,0.10,Green
+verifying reqs,0.12,Green
+csv pulling method,0.10,Green
+rc signing config,0.10,Green
+asap documenting vpc,0.10,Green
+patching gateway,0.12,Green
+vip triggering method,0.10,Green
+rest index,0.13,Green
+devops table,0.10,Green
+lmk linting staging,0.13,Green
+ci aggregating lambda,0.12,Green
+cob migrating firewall,0.10,Green
+cdn reqs,0.13,Green
+ofc fetching envvar,0.13,Green
+deserializing cluster,0.12,Green
+ama scaling namespace,0.12,Green
+transforming enum,0.13,Green
+roi auditing envvar,0.12,Green
+q4 closing metrics,0.13,Green
+eoq webhook,0.13,Green
+vm database,0.10,Green
+p1 replying bug,0.12,Green
+yep installing app,0.12,Green
+sfw archiving lambda,0.12,Green
+d2c triggering cloud,0.10,Green
+ml paginating email,0.10,Green
+re replying branch,0.13,Green
+sfw testing meeting,0.13,Green
+nps formatting endpoint,0.12,Green
+nah webhook,0.10,Green
+lgtm importing database,0.12,Green
+nd writing queue,0.12,Green
+ml serializing demo,0.12,Green
+nps backend,0.13,Green
+k8s,0.12,Green
+gl envvar,0.12,Green
+cac drafting image,0.10,Green
+notifying script,0.10,Green
+encrypting interface,0.12,Green
+closing firewall,0.10,Green
+cac class,0.12,Green
+sev1 creating microservice,0.10,Green
+wb modifying artifact,0.13,Green
+ga registry,0.10,Green
+sev1 call,0.10,Green
+qoq importing pipeline,0.13,Green
+wfh installing task,0.13,Green
+ci,0.13,Green
+rsvp feature,0.10,Green
+tbd ping main,0.12,Green
+tia filtering doc,0.12,Green
+cd scheduling hotfix,0.12,Green
+bbs reading instance,0.10,Green
+ctr approved function,0.13,Green
+wdym table,0.13,Green
+cli charting pipeline,0.13,Green
+charting container,0.10,Green
+mocking teams,0.13,Green
+ga token,0.12,Green
+summarizing route,0.12,Green
+querying topic,0.13,Green
+gtg serializing branch,0.10,Green
+roi fixing env,0.13,Green
+fwiw notifying webhook,0.13,Green
+b2c graphing call,0.10,Green
+lmk parsing envvar,0.10,Green
+p0 opening artifact,0.13,Green
+rsvp container,0.13,Green
+analyzing backend,0.13,Green
+ytd building library,0.10,Green
+mfa optimizing teams,0.10,Green
+tmr invoking api,0.13,Green
+nbd writing call,0.12,Green
+roi scheduling envvar,0.12,Green
+caching bug,0.10,Green
+imo tracking ui,0.12,Green
+sso building build,0.10,Green
+obv retro,0.13,Green
+cac server,0.10,Green
+ga enum,0.10,Green
+cob refactoring token,0.10,Green
+ai mocking build,0.10,Green
+ama searching service,0.13,Green
+fwiw topic,0.12,Green
+wdym opening me,0.10,Green
+copy rebooting reqs,0.13,Green
+ci encrypting lambda,0.13,Green
+p0,0.13,Green
+charting secret,0.10,Green
+iirc deserializing envvar,0.13,Green
+heard analyzing topic,0.12,Green
+sure documenting query,0.13,Green
+wb installing namespace,0.10,Green
+b2b mocking service,0.12,Green
+req pushing call,0.12,Green
+rsvp reading instance,0.12,Green
+bbl rejecting chat,0.13,Green
+imo table,0.10,Green
+ga registering microservice,0.13,Green
+gtg migrating standup,0.12,Green
+copy resolving envvar,0.13,Green
+svp cloning cluster,0.10,Green
+v2 downloading hotfix,0.10,Green
+tbd testing repo,0.12,Green
+afaik sprint,0.13,Green
+indexing endpoint,0.12,Green
+documenting library,0.13,Green
+deserializing dev,0.10,Green
+rendering vpc,0.12,Green
+unblocking class,0.13,Green
+fw migrating email,0.12,Green
+cc tokenizing interface,0.13,Green
+q3 archiving interface,0.10,Green
+v1 sprint,0.13,Green
+hf caching teams,0.12,Green
+v3 sorting subnet,0.10,Green
+brb code,0.12,Green
+nps updating ticket,0.12,Green
+ssl archiving ticket,0.12,Green
+mvp scaling artifact,0.12,Green
+lol app,0.10,Green
+vip unblocking sprint,0.13,Green
+ci monitoring workflow,0.10,Green
+dau escalating slack,0.12,Green
+tmr branch,0.10,Green
+b2b fetching story,0.13,Green
+cd mocking email,0.13,Green
+valid sorting main,0.13,Green
+ctr downloading container,0.13,Green
+tracking master,0.13,Green
+approving event,0.13,Green
+obv indexing feature,0.13,Green
+ig documenting me,0.10,Green
+v3 approving ticket,0.10,Green
+fyi,0.10,Green
+pto verifying envvar,0.12,Green
+v4 cleaning job,0.13,Green
+ops sending branch,0.12,Green
+cc,0.13,Green
+b2g rebooting token,0.10,Green
+escalating query,0.13,Green
+pto closing class,0.13,Green
+patching webhook,0.13,Green
+cli ticket,0.12,Green
+joining subnet,0.12,Green
+hf creating container,0.12,Green
+tia pushing pipeline,0.13,Green
+fyi class,0.12,Green
+lgtm branch,0.13,Green
+wait serializing spec,0.10,Green
+nps validating retro,0.12,Green
+cd view,0.13,Green
+asap profiling database,0.13,Green
+fr app,0.10,Green
+b2g reviewing email,0.10,Green
+bcc registering env,0.12,Green
+downloading runtime,0.13,Green
+grpc presenting node,0.10,Green
+req auditing module,0.10,Green
+d2c normalizing table,0.12,Green
+tia reading interface,0.12,Green
+imho deleting cluster,0.10,Green
+ops visualizing me,0.13,Green
+tmr cleaning slack,0.10,Green
+cr slack,0.13,Green
+reading lambda,0.12,Green
+approving ticket,0.13,Green
+assigning microservice,0.13,Green
+roi notifying prod,0.13,Green
+q1 cloning workflow,0.12,Green
+q1 library,0.12,Green
+q4 rendering me,0.13,Green
+logging branch,0.12,Green
+ooo index,0.10,Green
+q1 transforming spec,0.10,Green
+rendering build,0.10,Green
+ts benchmarking feature,0.13,Green
+searching repo,0.10,Green
+tmr registry,0.10,Green
+fetching ticket,0.13,Green
+visualizing webhook,0.10,Green
+sure proxy,0.10,Green
+sdk routing feature,0.12,Green
+nah rendering token,0.13,Green
+tls charting pod,0.10,Green
+b2c caching record,0.12,Green
+wdym closing proxy,0.13,Green
+routing table,0.13,Green
+arpu benchmarking interface,0.10,Green
